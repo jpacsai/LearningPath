@@ -1,6 +1,6 @@
 # LearningPath
 
-Courses I have finished:
+##Courses I have finished:
 **Codeberry**
   https://codeberryschool.com/en/
   13/10/2017 - 11/01/2017
@@ -11,7 +11,7 @@ Courses I have finished:
   
 
 
-Courses I am doing:
+##Courses I am doing:
 **freeCodeCamp - Front End Development Path**
   https://www.freecodecamp.org/
   24/10/2017 -
