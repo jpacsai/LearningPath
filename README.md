@@ -8,7 +8,7 @@
   
   
   
-- ### [**Google Udacity - Front End Web Developer Scholarship**](https://www.udacity.com/google-scholarships)  
+- ### [**Google Udacity - Front End Web Developer Scholarship (Phase 1)**](https://www.udacity.com/google-scholarships)  
   06/11/2017 - 06/02/2018  
   _HTML5, CSS3, JavaScript, jQuery_  
   [Coursework repository](https://github.com/jpacsai/GoogleUdacity)
@@ -63,7 +63,7 @@
   
 - ### [**p1xt-guides: Get Job ready - JavaScript Edition - Version 2.0**](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md#tier-0---prep)  
   - [ ] &nbsp;Tier 0 - Prep :hourglass_flowing_sand: 
-  - [ ] &nbsp;Tier 1 - Intro to Programming  
+  - [ ] &nbsp;Tier 1 - Intro to Programming :hourglass_flowing_sand:  
   - [ ] &nbsp;Tier 2 - Add Complexity  
   - [ ] &nbsp;Tier 3 - Practice  
   - [ ] &nbsp;Tier 4 - Wrap everything up and prep for interviews
@@ -71,3 +71,22 @@
   
 - ### [**Codecademy - Introduction to jQuery**](https://www.codecademy.com/learn/learn-jquery)  
   19/01/2018 -
+  
+- ### [**The Odin Project**](https://www.theodinproject.com/home)  
+  30/12/2017 -  
+  _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
+  - [ ] Webdevelopment 101
+     - [x] &nbsp;The basics
+     - [x] &nbsp;Git basics
+     - [ ] &nbsp;The Front End :hourglass_flowing_sand:
+     - [ ] &nbsp;JavaScript Basics
+     - [ ] &nbsp;The Back End
+     - [ ] &nbsp;Web Development Frameworks
+     - [ ] &nbsp;Pair Programming
+     - [ ] &nbsp;Tying it All Together
+  - [ ] Ruby Programming
+  - [ ] Ruby on Rails
+  - [ ] HTML5 and CSS3
+  - [ ] JavaScript
+  - [ ] Getting Hired
+  
