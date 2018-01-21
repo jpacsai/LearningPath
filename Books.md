@@ -19,3 +19,10 @@ Jonathan LeBlanc - Identity and Data Security for Web Development: Best Practice
 Matthew McDonald - WordPress: The Missing Manual - 2014
 David Sawyer McFarland - CSS: The Missing Manual - 2015
                        - JavaScript & jQuery: The Missing Manual 2014
+
+O'Reilly - Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5 - 2014
+Scott Murray - Interactive Data Visualization for the Web: An Introduction to Designing with D3 - 2017
+Mark Myers - A Smarter Way to Learn HTML & CSS: Learn it faster. Remember it longer. (Volume 2) - 2015
+Robert C. Martin - Clean Architecture: A Craftsman's Guide to Software Structure and Design - 2017
+Jaime Levy - UX Strategy: How to Devise Innovative Digital Products that People Want - 2015
+Lea Verou - CSS Secrets: Better Solutions to Everyday Web Design Problems - 2015
