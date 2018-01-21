@@ -26,3 +26,6 @@ Mark Myers - A Smarter Way to Learn HTML & CSS: Learn it faster. Remember it lon
 Robert C. Martin - Clean Architecture: A Craftsman's Guide to Software Structure and Design - 2017
 Jaime Levy - UX Strategy: How to Devise Innovative Digital Products that People Want - 2015
 Lea Verou - CSS Secrets: Better Solutions to Everyday Web Design Problems - 2015
+Jason Beaird - The Principles of Beautiful Web Design: Designing Great Web Sites is Not Rocket Science! - 2014
+Mike Taylor - Step-By-Step WordPress for Beginners: How to Build a Beautiful Website on Your Own Domain from Scratch - 2016
+Artur Ejsmont - Web Scalability for Startup Engineers - 2015
