@@ -13,3 +13,9 @@
     - [ ] &nbsp;[**Async & Performance**](https://www.amazon.com/gp/product/B00TXVCJ7O/ref=series_dp_rw_ca_4?ie=UTF8&qid=1516370732&sr=1-7)
     - [ ] &nbsp;[**ES6 & Beyond**](https://www.amazon.com/gp/product/B019HRGOPQ/ref=series_dp_rw_ca_5?ie=UTF8&qid=1516370732&sr=1-7)
 - [ ] &nbsp;[Marijn Haverbeke - Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_1?ie=UTF8&qid=1516370547&sr=8-1&keywords=eloquent+javascript)
+
+Jonathan LeBlanc - Identity and Data Security for Web Development: Best Practices - 2016
+
+Matthew McDonald - WordPress: The Missing Manual - 2014
+David Sawyer McFarland - CSS: The Missing Manual - 2015
+                       - JavaScript & jQuery: The Missing Manual 2014
