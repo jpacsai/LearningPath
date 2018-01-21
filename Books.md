@@ -12,20 +12,21 @@
     - [ ] &nbsp;[**Types & Grammar**](https://www.amazon.com/gp/product/B00SXHFTO4/ref=series_dp_rw_ca_6?ie=UTF8&qid=1516370732&sr=1-7)
     - [ ] &nbsp;[**Async & Performance**](https://www.amazon.com/gp/product/B00TXVCJ7O/ref=series_dp_rw_ca_4?ie=UTF8&qid=1516370732&sr=1-7)
     - [ ] &nbsp;[**ES6 & Beyond**](https://www.amazon.com/gp/product/B019HRGOPQ/ref=series_dp_rw_ca_5?ie=UTF8&qid=1516370732&sr=1-7)
-- [ ] &nbsp;[Marijn Haverbeke - Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_1?ie=UTF8&qid=1516370547&sr=8-1&keywords=eloquent+javascript)
+- [ ] &nbsp;[Marijn Haverbeke - **Eloquent JavaScript**](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_1?ie=UTF8&qid=1516370547&sr=8-1&keywords=eloquent+javascript)
 
-Jonathan LeBlanc - Identity and Data Security for Web Development: Best Practices - 2016
+- [ ] &nbsp;[Jonathan LeBlanc - **Identity and Data Security for Web Development: Best Practices**]
 
-Matthew McDonald - WordPress: The Missing Manual - 2014
-David Sawyer McFarland - CSS: The Missing Manual - 2015
-                       - JavaScript & jQuery: The Missing Manual 2014
+- [ ] &nbsp;The Missing Manual series:
+    - [ ] &nbsp;[Matthew McDonald - **WordPress**: The Missing Manual]
+    - [ ] &nbsp;[David Sawyer McFarland - **CSS**: The Missing Manual]
+    - [ ] &nbsp;[                       - **JavaScript & jQuery**: The Missing Manual]
 
-O'Reilly - Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5 - 2014
-Scott Murray - Interactive Data Visualization for the Web: An Introduction to Designing with D3 - 2017
-Mark Myers - A Smarter Way to Learn HTML & CSS: Learn it faster. Remember it longer. (Volume 2) - 2015
-Robert C. Martin - Clean Architecture: A Craftsman's Guide to Software Structure and Design - 2017
-Jaime Levy - UX Strategy: How to Devise Innovative Digital Products that People Want - 2015
-Lea Verou - CSS Secrets: Better Solutions to Everyday Web Design Problems - 2015
-Jason Beaird - The Principles of Beautiful Web Design: Designing Great Web Sites is Not Rocket Science! - 2014
-Mike Taylor - Step-By-Step WordPress for Beginners: How to Build a Beautiful Website on Your Own Domain from Scratch - 2016
-Artur Ejsmont - Web Scalability for Startup Engineers - 2015
+- [ ] &nbsp;[O'Reilly - **Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5**]
+- [ ] &nbsp;[Scott Murray - **Interactive Data Visualization for the Web: An Introduction to Designing with D3**]
+- [ ] &nbsp;[Mark Myers - **A Smarter Way to Learn HTML & CSS: Learn it faster. Remember it longer. (Volume 2)**]
+- [ ] &nbsp;[Robert C. Martin - **Clean Architecture: A Craftsman's Guide to Software Structure and Design**]
+- [ ] &nbsp;[Jaime Levy - **UX Strategy: How to Devise Innovative Digital Products that People Want**]
+- [ ] &nbsp;[Lea Verou - **CSS Secrets: Better Solutions to Everyday Web Design Problems**]
+- [ ] &nbsp;[Jason Beaird - **The Principles of Beautiful Web Design: Designing Great Web Sites is Not Rocket Science!**]
+- [ ] &nbsp;[Mike Taylor - **Step-By-Step WordPress for Beginners: How to Build a Beautiful Website on Your Own Domain from Scratch**]
+- [ ] &nbsp;[Artur Ejsmont - **Web Scalability for Startup Engineers**]
