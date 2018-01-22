@@ -51,7 +51,8 @@
    
  
 - ### [**edX : HarvardX - CS50's Introduction to Computer Science**](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)  
-  15/01/2018 -  
+  15/01/2018 -
+  [Coursework repository](https://github.com/jpacsai/HarvardX_CS50x)
   - [x] &nbsp;Week 0  
   - [ ] &nbsp;Week 1  :hourglass_flowing_sand: 
   - [ ] &nbsp;Week 2  
