@@ -61,12 +61,8 @@
   - [ ] &nbsp;Week 11
   
   
-- ### [**p1xt-guides: Get Job ready - JavaScript Edition - Version 2.0**](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md#tier-0---prep)  
-  - [ ] &nbsp;Tier 0 - Prep :hourglass_flowing_sand: 
-  - [ ] &nbsp;Tier 1 - Intro to Programming :hourglass_flowing_sand:  
-  - [ ] &nbsp;Tier 2 - Add Complexity  
-  - [ ] &nbsp;Tier 3 - Practice  
-  - [ ] &nbsp;Tier 4 - Wrap everything up and prep for interviews
+- ### [**p1xt-guides: Get Job ready**](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md#tier-0---prep)  
+  [Coursework repository](https://github.com/jpacsai/p1xt-guides/blob/master/job-ready.md)  
   
   
 - ### [**Codecademy - Introduction to jQuery**](https://www.codecademy.com/learn/learn-jquery)  
