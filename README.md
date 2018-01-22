@@ -44,6 +44,11 @@
   - [ ] &nbsp;Intermediate Algorithm Scripting  
   - [ ] &nbsp;Advanced Algorithm Scripting  
   - [ ] &nbsp;Advanced Front End Development Projects
+  
+- ### [**p1xt-guides: Get Job ready**](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md#tier-0---prep)  
+  28/12/2017 -  
+  [Coursework repository](https://github.com/jpacsai/p1xt-guides/blob/master/job-ready.md)  
+   
  
 - ### [**edX : HarvardX - CS50's Introduction to Computer Science**](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)  
   15/01/2018 -  
@@ -60,11 +65,12 @@
   - [ ] &nbsp;Week 10  
   - [ ] &nbsp;Week 11
   
-  
-- ### [**p1xt-guides: Get Job ready**](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md#tier-0---prep)  
-  28/12/2017 -  
-  [Coursework repository](https://github.com/jpacsai/p1xt-guides/blob/master/job-ready.md)  
-  
+- ### [**edX : PennX - Programming for the Web with JavaScript**](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/course/)  
+  22/01/2018 -  
+  - [ ] &nbsp;Week 1: Web Programming Basics :hourglass_flowing_sand:
+  - [ ] &nbsp;Week 2: Using JavaScript to Create Dynamic, Data-Driven Web Pages  
+  - [ ] &nbsp;Week 3: Client-Side Frameworks for Developing Modular Web Page Components 
+  - [ ] &nbsp;Week 4: Building Scalable Web Apps with Server-Side JavaScript  
   
 - ### [**Codecademy - Introduction to jQuery**](https://www.codecademy.com/learn/learn-jquery)  
   19/01/2018 -
