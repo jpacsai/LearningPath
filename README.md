@@ -47,8 +47,8 @@
  
 - ### [**edX : HarvardX - CS50's Introduction to Computer Science**](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)  
   15/01/2018 -  
-  - [ ] &nbsp;Week 0 :hourglass_flowing_sand:  
-  - [ ] &nbsp;Week 1  
+  - [x] &nbsp;Week 0  
+  - [ ] &nbsp;Week 1  :hourglass_flowing_sand: 
   - [ ] &nbsp;Week 2  
   - [ ] &nbsp;Week 3  
   - [ ] &nbsp;Week 4  
