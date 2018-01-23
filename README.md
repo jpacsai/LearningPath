@@ -68,8 +68,9 @@
   
 - ### [**edX : PennX - Programming for the Web with JavaScript**](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/course/)  
   22/01/2018 -  
-  - [ ] &nbsp;Week 1: Web Programming Basics :hourglass_flowing_sand:
-  - [ ] &nbsp;Week 2: Using JavaScript to Create Dynamic, Data-Driven Web Pages  
+  [Coursework repository](https://github.com/jpacsai/PennX_Javascript_SD4x)
+  - [x] &nbsp;Week 1: Web Programming Basics 
+  - [ ] &nbsp;Week 2: Using JavaScript to Create Dynamic, Data-Driven Web Pages :hourglass_flowing_sand:
   - [ ] &nbsp;Week 3: Client-Side Frameworks for Developing Modular Web Page Components 
   - [ ] &nbsp;Week 4: Building Scalable Web Apps with Server-Side JavaScript  
   
