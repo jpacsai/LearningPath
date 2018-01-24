@@ -20,7 +20,7 @@
 - ### [**NetAcedemia - Web Developer**](https://netacademia.hu/webfejleszto)
   15/09/2017 -
   - [x] &nbsp;Bootstrap 4
-  - [ ] &nbsp;jQuery :hourglass_flowing_sand:
+  - [x] &nbsp;jQuery :hourglass_flowing_sand:
   - [ ] &nbsp;Angular foundations
   - [ ] &nbsp;Angular Advanced
   - [ ] &nbsp;Angular Pro
