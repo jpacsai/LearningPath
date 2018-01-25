@@ -20,7 +20,7 @@
 - ### [**NetAcedemia - Web Developer**](https://netacademia.hu/webfejleszto)
   15/09/2017 -
   - [x] &nbsp;Bootstrap 4
-  - [x] &nbsp;jQuery :hourglass_flowing_sand:
+  - [ ] &nbsp;jQuery :hourglass_flowing_sand:
   - [ ] &nbsp;Angular foundations
   - [ ] &nbsp;Angular Advanced
   - [ ] &nbsp;Angular Pro
@@ -52,7 +52,8 @@
  
 - ### [**edX : HarvardX - CS50's Introduction to Computer Science**](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)  
   15/01/2018 -  
-  [Coursework repository](https://github.com/jpacsai/HarvardX_CS50x)
+  [Coursework repository](https://github.com/jpacsai/HarvardX_CS50x)  
+  _[Book recommendations](https://docs.cs50.net/2018/x/syllabus.html)_
   - [x] &nbsp;Week 0  
   - [ ] &nbsp;Week 1  :hourglass_flowing_sand: 
   - [ ] &nbsp;Week 2  
