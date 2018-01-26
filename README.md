@@ -54,18 +54,18 @@
   15/01/2018 -  
   [Coursework repository](https://github.com/jpacsai/HarvardX_CS50x)  
   _[Book recommendations](https://docs.cs50.net/2018/x/syllabus.html)_
-  - [x] &nbsp;Week 0  
-  - [ ] &nbsp;Week 1  :hourglass_flowing_sand: 
-  - [ ] &nbsp;Week 2  
-  - [ ] &nbsp;Week 3  
-  - [ ] &nbsp;Week 4  
-  - [ ] &nbsp;Week 5  
-  - [ ] &nbsp;Week 6  
-  - [ ] &nbsp;Week 7  
-  - [ ] &nbsp;Week 8  
-  - [ ] &nbsp;Week 9  
-  - [ ] &nbsp;Week 10  
-  - [ ] &nbsp;Week 11
+  - [x] &nbsp;Week 0 - _Scratch_
+  - [ ] &nbsp;Week 1 - _C_ :hourglass_flowing_sand: 
+  - [ ] &nbsp;Week 2 - _Algorithms_
+  - [ ] &nbsp;Week 3 - _Memory_
+  - [ ] &nbsp;Week 4 - _Data Structures_
+  - [ ] &nbsp;Week 5 - _HTTP_
+  - [ ] &nbsp;Week 6 - _Dynamic Programming_
+  - [ ] &nbsp;Week 7 - _Phyton_
+  - [ ] &nbsp;Week 8 - _Phyton_
+  - [ ] &nbsp;Week 9 - _SQL_
+  - [ ] &nbsp;Week 10 - _JavaScript_
+  - [ ] &nbsp;Week 11 - _Final Project_
   
 - ### [**edX : PennX - Programming for the Web with JavaScript**](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/course/)  
   22/01/2018 -  
