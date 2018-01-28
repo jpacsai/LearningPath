@@ -17,6 +17,7 @@
     - [ ] &nbsp;[**Types & Grammar**](https://www.amazon.com/gp/product/B00SXHFTO4/ref=series_dp_rw_ca_6?ie=UTF8&qid=1516370732&sr=1-7)
     - [ ] &nbsp;[**Async & Performance**](https://www.amazon.com/gp/product/B00TXVCJ7O/ref=series_dp_rw_ca_4?ie=UTF8&qid=1516370732&sr=1-7)
     - [ ] &nbsp;[**ES6 & Beyond**](https://www.amazon.com/gp/product/B019HRGOPQ/ref=series_dp_rw_ca_5?ie=UTF8&qid=1516370732&sr=1-7)
+- [ ] &nbsp;[Reg “raganwald” Braithwaite - **JavaScript Allongé, the "Six" Edition**](https://leanpub.com/javascriptallongesix)
 - [ ] &nbsp;[Marijn Haverbeke - **Eloquent JavaScript**](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_1?ie=UTF8&qid=1516370547&sr=8-1&keywords=eloquent+javascript)
 - [ ] &nbsp;[David Sawyer McFarland - **JavaScript & jQuery**: The Missing Manual](https://www.amazon.com/JavaScript-jQuery-David-Sawyer-McFarland/dp/1491947071/ref=sr_1_1?s=books&ie=UTF8&qid=1516576138&sr=1-1&keywords=javascript+the+missing+manual)
 
