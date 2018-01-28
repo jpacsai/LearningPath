@@ -40,7 +40,11 @@
   - [x] &nbsp;Finish my changes  
   - [x] &nbsp;Basic Algorithm Scripting  
   - [x] &nbsp;JSON API and Ajax
-  - [ ] &nbsp;Intermediate Front End Development Projects :hourglass_flowing_sand:
+  - [ ] &nbsp;Intermediate Front End Development Projects 
+     - [ ] &nbsp;Random Quote Machine :hourglass_flowing_sand:
+     - [ ] &nbsp;Local Weather
+     - [ ] &nbsp;Wikipedia Viewer
+     - [ ] &nbsp;Twitch.tv JSON API
   - [ ] &nbsp;Intermediate Algorithm Scripting  
   - [ ] &nbsp;Advanced Algorithm Scripting  
   - [ ] &nbsp;Advanced Front End Development Projects
