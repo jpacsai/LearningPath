@@ -52,8 +52,7 @@
  
 - ### [**edX : HarvardX - CS50's Introduction to Computer Science**](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)  
   15/01/2018 -  
-  [Coursework repository](https://github.com/jpacsai/HarvardX_CS50x)  
-  _[Book recommendations](https://docs.cs50.net/2018/x/syllabus.html)_
+  [Coursework repository](https://github.com/jpacsai/HarvardX_CS50x) 
   - [x] &nbsp;Week 0 - _Scratch_
   - [x] &nbsp;Week 1 - _C_ 
   - [ ] &nbsp;Week 2 - _Algorithms_
