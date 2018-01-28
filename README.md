@@ -55,7 +55,7 @@
   [Coursework repository](https://github.com/jpacsai/HarvardX_CS50x)  
   _[Book recommendations](https://docs.cs50.net/2018/x/syllabus.html)_
   - [x] &nbsp;Week 0 - _Scratch_
-  - [ ] &nbsp;Week 1 - _C_ :hourglass_flowing_sand: 
+  - [x] &nbsp;Week 1 - _C_ 
   - [ ] &nbsp;Week 2 - _Algorithms_
   - [ ] &nbsp;Week 3 - _Memory_
   - [ ] &nbsp;Week 4 - _Data Structures_
