@@ -84,7 +84,7 @@
   
 - ### [**Codecademy - Introduction to jQuery**](https://www.codecademy.com/learn/learn-jquery)  
   19/01/2018 -  
-  _**60%**_
+  _**80%**_
   
 - ### [**The Odin Project**](https://www.theodinproject.com/home)  
   30/12/2017 -  
