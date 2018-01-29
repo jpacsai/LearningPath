@@ -13,6 +13,10 @@
   _HTML5, CSS3, JavaScript, jQuery_  
   [Coursework repository](https://github.com/jpacsai/GoogleUdacity)
   
+- ### [**Udacity**:](https://eu.udacity.com/)  
+  - [**Intro to Ajax**](https://eu.udacity.com/course/intro-to-ajax--ud110)  
+    29/01/2018  
+  
   
 ***
 ## Courses I am doing:
