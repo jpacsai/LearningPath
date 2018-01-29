@@ -53,7 +53,7 @@
   - [ ] &nbsp;Advanced Algorithm Scripting  
   - [ ] &nbsp;Advanced Front End Development Projects
   
-- ### [**p1xt-guides: Get Job ready**](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md#tier-0---prep)  
+- ### [**p1xt-guides: Get Job ready**](https://github.com/jpacsai/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md)  
   28/12/2017 -  
   [Coursework repository](https://github.com/jpacsai/p1xt-guides/blob/master/job-ready.md)  
    
