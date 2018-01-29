@@ -13,11 +13,7 @@
   
 - ### [**Codecademy - Introduction to jQuery**](https://www.codecademy.com/learn/learn-jquery)  
   19/01/2018 - 29/01/2018
-  
-- ### [**Udacity**:](https://eu.udacity.com/)  
-  - [**Intro to Ajax**](https://eu.udacity.com/course/intro-to-ajax--ud110)  
-    29/01/2018  
- [Coursework repository](https://github.com/jpacsai/Udacity/tree/master/IntroToAjax)
+ 
   
 ***
 ## Courses I am doing:
@@ -83,7 +79,10 @@
   - [ ] &nbsp;Week 3: Client-Side Frameworks for Developing Modular Web Page Components 
   - [ ] &nbsp;Week 4: Building Scalable Web Apps with Server-Side JavaScript  
   
-
+- ### [**Udacity**:](https://eu.udacity.com/)  
+  - [**Intro to Ajax**](https://eu.udacity.com/course/intro-to-ajax--ud110)  
+    29/01/2018  
+ [Coursework repository](https://github.com/jpacsai/Udacity/tree/master/IntroToAjax)
   
 - ### [**The Odin Project**](https://www.theodinproject.com/home)  
   30/12/2017 -  
