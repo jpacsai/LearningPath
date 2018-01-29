@@ -5,13 +5,14 @@
   13/10/2017 - 11/01/2017  
   _HTML5, CSS3, Bootstrap, JavaScript, git_  
   [Coursework repository](https://github.com/jpacsai/codeBerrySchool)
-  
-  
-  
+ 
 - ### [**Google Udacity - Front End Web Developer Scholarship (Phase 1)**](https://www.udacity.com/google-scholarships)  
   06/11/2017 - 06/02/2018  
   _HTML5, CSS3, JavaScript, jQuery_  
   [Coursework repository](https://github.com/jpacsai/GoogleUdacity)
+  
+- ### [**Codecademy - Introduction to jQuery**](https://www.codecademy.com/learn/learn-jquery)  
+  19/01/2018 - 29/01/2018
   
 - ### [**Udacity**:](https://eu.udacity.com/)  
   - [**Intro to Ajax**](https://eu.udacity.com/course/intro-to-ajax--ud110)  
@@ -82,9 +83,7 @@
   - [ ] &nbsp;Week 3: Client-Side Frameworks for Developing Modular Web Page Components 
   - [ ] &nbsp;Week 4: Building Scalable Web Apps with Server-Side JavaScript  
   
-- ### [**Codecademy - Introduction to jQuery**](https://www.codecademy.com/learn/learn-jquery)  
-  19/01/2018 -  
-  _**80%**_
+
   
 - ### [**The Odin Project**](https://www.theodinproject.com/home)  
   30/12/2017 -  
