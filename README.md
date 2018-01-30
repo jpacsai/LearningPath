@@ -71,7 +71,7 @@
   - [ ] &nbsp;Week 10 - _JavaScript_
   - [ ] &nbsp;Week 11 - _Final Project_
   
-- ### [**edX : PennX - Programming for the Web with JavaScript**](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/course/)  
+- ### [**edX : PennX - Programming for the Web with JavaScript**](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)  
   22/01/2018 -  
   [Coursework repository](https://github.com/jpacsai/PennX_Javascript_SD4x)
   - [x] &nbsp;Week 1: Web Programming Basics 
