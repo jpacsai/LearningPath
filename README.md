@@ -87,6 +87,7 @@
 - ### [**The Odin Project**](https://www.theodinproject.com/home)  
   30/12/2017 -  
   _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
+  [Coursework repository](https://github.com/jpacsai/TheOdinProject)
   - [ ] Webdevelopment 101
      - [x] &nbsp;The basics
      - [x] &nbsp;Git basics
