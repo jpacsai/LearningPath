@@ -60,7 +60,7 @@
   [Coursework repository](https://github.com/jpacsai/HarvardX_CS50x) 
   - [x] &nbsp;Week 0 - _Scratch_
   - [x] &nbsp;Week 1 - _C_ 
-  - [ ] &nbsp;Week 2 - _Algorithms_
+  - [ ] &nbsp;Week 2 - _Algorithms_ :hourglass_flowing_sand:
   - [ ] &nbsp;Week 3 - _Memory_
   - [ ] &nbsp;Week 4 - _Data Structures_
   - [ ] &nbsp;Week 5 - _HTTP_
