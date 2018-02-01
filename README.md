@@ -75,8 +75,8 @@
   22/01/2018 -  
   [Coursework repository](https://github.com/jpacsai/PennX_Javascript_SD4x)
   - [x] &nbsp;Week 1: Web Programming Basics 
-  - [ ] &nbsp;Week 2: Using JavaScript to Create Dynamic, Data-Driven Web Pages :hourglass_flowing_sand:
-  - [ ] &nbsp;Week 3: Client-Side Frameworks for Developing Modular Web Page Components 
+  - [x] &nbsp;Week 2: Using JavaScript to Create Dynamic, Data-Driven Web Pages 
+  - [ ] &nbsp;Week 3: Client-Side Frameworks for Developing Modular Web Page Components :hourglass_flowing_sand:
   - [ ] &nbsp;Week 4: Building Scalable Web Apps with Server-Side JavaScript  
   
 - ### [**Udacity**:](https://eu.udacity.com/)  
