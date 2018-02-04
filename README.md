@@ -16,7 +16,7 @@
 
 - ### [**Udacity**:](https://eu.udacity.com/)  
   - [**Intro to Ajax**](https://eu.udacity.com/course/intro-to-ajax--ud110)  
-    29/01/2018  - 04/02/2018
+    29/01/2018  - 04/02/2018  
   [Coursework repository](https://github.com/jpacsai/Udacity/tree/master/IntroToAjax)
   
 ***
