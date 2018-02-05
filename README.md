@@ -39,14 +39,16 @@
   - [x] &nbsp;HTML5 and CSS  
   - [x] &nbsp;Responsive Desing with Bootstrap  
   - [x] &nbsp;jQuery  
-  - [x] &nbsp;Basic Front End Development Projects  
+  - [x] &nbsp;Basic Front End Development Projects
+     - [x] [Tribute page](https://jpacsai.github.io/freeCodeCamp/BasicProjects/Tribute_page/)
+     - [x] Portfolio page
   - [x] &nbsp;Basic JavaScript  
   - [x] &nbsp;Object Oriented and Functional Programming  
   - [x] &nbsp;Finish my changes  
   - [x] &nbsp;Basic Algorithm Scripting  
   - [x] &nbsp;JSON API and Ajax
   - [ ] &nbsp;Intermediate Front End Development Projects 
-     - [x] [&nbsp;Random Quote Machine](https://github.com/jpacsai/freeCodeCamp/tree/master/IntermediateProjects/QuoteMachine)
+     - [x] [&nbsp;Random Quote Machine](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/QuoteMachine/)
      - [ ] &nbsp;Local Weather :hourglass_flowing_sand:
      - [ ] &nbsp;Wikipedia Viewer
      - [ ] &nbsp;Twitch.tv JSON API
