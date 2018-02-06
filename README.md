@@ -64,7 +64,7 @@
   - [x] &nbsp;HTML5 and CSS  
   - [x] &nbsp;Responsive Desing with Bootstrap  
   - [x] &nbsp;jQuery  
-  - [x] &nbsp;Basic Front End Development Projects
+  - [x] **&nbsp;Basic Front End Development Projects**
      - [x] [Tribute page](https://jpacsai.github.io/freeCodeCamp/BasicProjects/Tribute_page/)
      - [x] Portfolio page
   - [x] &nbsp;Basic JavaScript  
@@ -72,14 +72,14 @@
   - [x] &nbsp;Finish my changes  
   - [x] &nbsp;Basic Algorithm Scripting  
   - [x] &nbsp;JSON API and Ajax
-  - [ ] &nbsp;Intermediate Front End Development Projects 
+  - [ ] **&nbsp;Intermediate Front End Development Projects**
      - [x] [&nbsp;Random Quote Machine](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/QuoteMachine/)
      - [ ] &nbsp;Local Weather :hourglass_flowing_sand:
      - [ ] &nbsp;Wikipedia Viewer
      - [ ] &nbsp;Twitch.tv JSON API
   - [ ] &nbsp;Intermediate Algorithm Scripting  
   - [ ] &nbsp;Advanced Algorithm Scripting  
-  - [ ] &nbsp;Advanced Front End Development Projects
+  - [ ] **&nbsp;Advanced Front End Development Projects**
   
 - ### [**p1xt-guides: Get Job ready**](https://github.com/P1xt/p1xt-guides)  
   28/12/2017 -  
