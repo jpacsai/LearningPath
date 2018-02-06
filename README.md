@@ -22,8 +22,33 @@
 ***
 ## Courses I am doing:
 
-- ### [**NetAcedemia - Web Developer**](https://netacademia.hu/webfejleszto)
-  15/09/2017 -
+- ### [**edX : HarvardX - CS50's Introduction to Computer Science**](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)  
+  15/01/2018 -  
+  [Coursework repository](https://github.com/jpacsai/HarvardX_CS50x) 
+  - [x] &nbsp;Week 0 - _Scratch_
+  - [x] &nbsp;Week 1 - _C_ 
+  - [x] &nbsp;Week 2 - _Algorithms_
+  - [ ] &nbsp;Week 3 - _Memory_ :hourglass_flowing_sand:
+  - [ ] &nbsp;Week 4 - _Data Structures_
+  - [ ] &nbsp;Week 5 - _HTTP_
+  - [ ] &nbsp;Week 6 - _Dynamic Programming_
+  - [ ] &nbsp;Week 7 - _Phyton_
+  - [ ] &nbsp;Week 8 - _Phyton_
+  - [ ] &nbsp;Week 9 - _SQL_
+  - [ ] &nbsp;Week 10 - _JavaScript_
+  - [ ] &nbsp;Week 11 - _Final Project_  
+  
+- ### [**edX : PennX - Programming for the Web with JavaScript**](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)  
+  22/01/2018 -  
+  [Coursework repository](https://github.com/jpacsai/PennX_Javascript_SD4x)  
+  - [x] &nbsp;Week 1: Web Programming Basics 
+  - [x] &nbsp;Week 2: Using JavaScript to Create Dynamic, Data-Driven Web Pages 
+  - [ ] &nbsp;Week 3: Client-Side Frameworks for Developing Modular Web Page Components :hourglass_flowing_sand:
+  - [ ] &nbsp;Week 4: Building Scalable Web Apps with Server-Side JavaScript  
+  
+
+- ### [**NetAcedemia - Web Developer**](https://netacademia.hu/webfejleszto)  
+  15/09/2017 -  
   - [x] &nbsp;Bootstrap 4
   - [ ] &nbsp;jQuery :hourglass_flowing_sand:
   - [ ] &nbsp;Angular foundations
@@ -59,32 +84,6 @@
 - ### [**p1xt-guides: Get Job ready**](https://github.com/P1xt/p1xt-guides)  
   28/12/2017 -  
   [Coursework repository](https://github.com/jpacsai/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md)  
-   
- 
-- ### [**edX : HarvardX - CS50's Introduction to Computer Science**](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)  
-  15/01/2018 -  
-  [Coursework repository](https://github.com/jpacsai/HarvardX_CS50x) 
-  - [x] &nbsp;Week 0 - _Scratch_
-  - [x] &nbsp;Week 1 - _C_ 
-  - [x] &nbsp;Week 2 - _Algorithms_
-  - [ ] &nbsp;Week 3 - _Memory_ :hourglass_flowing_sand:
-  - [ ] &nbsp;Week 4 - _Data Structures_
-  - [ ] &nbsp;Week 5 - _HTTP_
-  - [ ] &nbsp;Week 6 - _Dynamic Programming_
-  - [ ] &nbsp;Week 7 - _Phyton_
-  - [ ] &nbsp;Week 8 - _Phyton_
-  - [ ] &nbsp;Week 9 - _SQL_
-  - [ ] &nbsp;Week 10 - _JavaScript_
-  - [ ] &nbsp;Week 11 - _Final Project_
-  
-- ### [**edX : PennX - Programming for the Web with JavaScript**](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)  
-  22/01/2018 -  
-  [Coursework repository](https://github.com/jpacsai/PennX_Javascript_SD4x)
-  - [x] &nbsp;Week 1: Web Programming Basics 
-  - [x] &nbsp;Week 2: Using JavaScript to Create Dynamic, Data-Driven Web Pages 
-  - [ ] &nbsp;Week 3: Client-Side Frameworks for Developing Modular Web Page Components :hourglass_flowing_sand:
-  - [ ] &nbsp;Week 4: Building Scalable Web Apps with Server-Side JavaScript  
-  
   
 - ### [**The Odin Project**](https://www.theodinproject.com/home)  
   30/12/2017 -  
