@@ -28,8 +28,8 @@
   - [x] &nbsp;Week 0 - _Scratch_
   - [x] &nbsp;Week 1 - _C_ 
   - [x] &nbsp;Week 2 - _Algorithms_
-  - [ ] &nbsp;Week 3 - _Memory_ :hourglass_flowing_sand:
-  - [ ] &nbsp;Week 4 - _Data Structures_
+  - [x] &nbsp;Week 3 - _Memory_
+  - [ ] &nbsp;Week 4 - _Data Structures_ :hourglass_flowing_sand:
   - [ ] &nbsp;Week 5 - _HTTP_
   - [ ] &nbsp;Week 6 - _Dynamic Programming_
   - [ ] &nbsp;Week 7 - _Phyton_
