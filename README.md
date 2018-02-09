@@ -104,5 +104,6 @@
   - [ ] JavaScript
   - [ ] Getting Hired
   
-- ### [**Junior Developer Central - Practical JavaScript**](https://courses.juniordevelopercentral.com/)  
+- ### [**Junior Developer Central: Practical JavaScript**](https://courses.juniordevelopercentral.com/)  
   09/02/2018 -  
+  - [ ] Module 1
