@@ -6,7 +6,7 @@
   _HTML5, CSS3, Bootstrap, JavaScript, git_  
   [Coursework repository](https://github.com/jpacsai/codeBerrySchool)
  
-- ### [**Google Udacity - Front End Web Developer Scholarship (Phase 1)**](https://www.udacity.com/google-scholarships)  
+- ### [**Google Udacity - Front End Web Developer Scholarship**]
   06/11/2017 - 06/02/2018  
   _HTML5, CSS3, JavaScript, jQuery_  
   [Coursework repository](https://github.com/jpacsai/GoogleUdacity)
@@ -75,8 +75,8 @@
   - [ ] **&nbsp;Intermediate Front End Development Projects**
      - [x] [Random Quote Machine](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/QuoteMachine/)
      - [x] [Local Weather](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/LocalWeather) 
-     - [ ] &nbsp;Wikipedia Viewer :hourglass_flowing_sand:
-     - [ ] &nbsp;Twitch.tv JSON API
+     - [x] [Wikipedia Viewer](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/WikipediaViewer/)
+     - [ ] &nbsp;Twitch.tv JSON API :hourglass_flowing_sand:
   - [ ] &nbsp;Intermediate Algorithm Scripting  
   - [ ] &nbsp;Advanced Algorithm Scripting  
   - [ ] **&nbsp;Advanced Front End Development Projects**
