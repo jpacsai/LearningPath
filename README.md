@@ -1,20 +1,20 @@
 # LearningPath
 
 ## Courses I have finished:
-- ### [**Codeberry**](https://codeberryschool.com/en/)   
+- ### [Codeberry](https://codeberryschool.com/en/)   
   13/10/2017 - 11/01/2017  
   _HTML5, CSS3, Bootstrap, JavaScript, git_  
   [Coursework repository](https://github.com/jpacsai/codeBerrySchool)
  
-- ### [**Google Udacity - Front End Web Developer Scholarship**]
+- ### Google Udacity - Front End Web Developer Scholarship
   06/11/2017 - 06/02/2018  
   _HTML5, CSS3, JavaScript, jQuery_  
   [Coursework repository](https://github.com/jpacsai/GoogleUdacity)
   
-- ### [**Codecademy - Introduction to jQuery**](https://www.codecademy.com/learn/learn-jquery)  
+- ### [Codecademy - Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery)  
   19/01/2018 - 29/01/2018
 
-- ### [**Udacity**:](https://eu.udacity.com/)  
+- ### [Udacity:](https://eu.udacity.com/)  
   - [**Intro to Ajax**](https://eu.udacity.com/course/intro-to-ajax--ud110)  
     29/01/2018  - 04/02/2018  
   [Coursework repository](https://github.com/jpacsai/Udacity/tree/master/IntroToAjax)
@@ -22,7 +22,7 @@
 ***
 ## Courses I am doing:
 
-- ### [**edX : HarvardX - CS50's Introduction to Computer Science**](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)  
+- ### [edX : HarvardX - CS50's Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)  
   15/01/2018 -  
   [Coursework repository](https://github.com/jpacsai/HarvardX_CS50x) 
   - [x] &nbsp;Week 0 - _Scratch_
@@ -38,7 +38,7 @@
   - [ ] &nbsp;Week 10 - _JavaScript_
   - [ ] &nbsp;Week 11 - _Final Project_  
   
-- ### [**edX : PennX - Programming for the Web with JavaScript**](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)  
+- ### [edX : PennX - Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)  
   22/01/2018 -  
   [Coursework repository](https://github.com/jpacsai/PennX_Javascript_SD4x)  
   - [x] &nbsp;Week 1: Web Programming Basics 
@@ -47,7 +47,7 @@
   - [ ] &nbsp;Week 4: Building Scalable Web Apps with Server-Side JavaScript  
   
 
-- ### [**NetAcedemia - Web Developer**](https://netacademia.hu/webfejleszto)  
+- ### [NetAcedemia - Web Developer](https://netacademia.hu/webfejleszto)  
   15/09/2017 -  
   - [x] &nbsp;Bootstrap 4
   - [ ] &nbsp;jQuery :hourglass_flowing_sand:
@@ -58,7 +58,7 @@
   - [ ] &nbsp;Electron
   
   
-- ### [**freeCodeCamp - Front End Development Path**](https://www.freecodecamp.org/)  
+- ### [freeCodeCamp - Front End Development Path](https://www.freecodecamp.org/)  
   24/10/2017 -  
   [Coursework repository](https://github.com/jpacsai/freeCodeCamp)  
   - [x] &nbsp;HTML5 and CSS  
@@ -81,11 +81,11 @@
   - [ ] &nbsp;Advanced Algorithm Scripting  
   - [ ] **&nbsp;Advanced Front End Development Projects**
   
-- ### [**p1xt-guides: Get Job ready**](https://github.com/P1xt/p1xt-guides)  
+- ### [p1xt-guides: Get Job ready](https://github.com/P1xt/p1xt-guides)  
   28/12/2017 -  
   [Coursework repository](https://github.com/jpacsai/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md)  
   
-- ### [**The Odin Project**](https://www.theodinproject.com/home)  
+- ### [The Odin Project](https://www.theodinproject.com/home)  
   30/12/2017 -  
   _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
   [Coursework repository](https://github.com/jpacsai/TheOdinProject)
@@ -104,6 +104,6 @@
   - [ ] JavaScript
   - [ ] Getting Hired
   
-- ### [**Junior Developer Central: Practical JavaScript**](https://courses.juniordevelopercentral.com/)  
+- ### [Junior Developer Central: Practical JavaScript](https://courses.juniordevelopercentral.com/)  
   09/02/2018 -  
-  - [ ] Module 1
+  - [ ] Module 1 :hourglass_flowing_sand:
