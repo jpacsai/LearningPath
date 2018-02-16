@@ -85,6 +85,11 @@
   28/12/2017 -  
   [Coursework repository](https://github.com/jpacsai/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md)  
   
+- ### [Udemy - The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)  
+  16/02/2017 -  
+  _HTML5, CSS3, Bootstrap, JavaScript, jQuery, NodeJS, Express, MongoDB, UI, PassportJS_  
+  
+  
 - ### [The Odin Project](https://www.theodinproject.com/home)  
   30/12/2017 -  
   _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
