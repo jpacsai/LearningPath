@@ -12,3 +12,7 @@
     - JavaScript Design Patterns  
     - Javascript Testing: Developing Apps with Confidence
  
+ - Treehouse:
+    - Web Design track  
+    - Development for WordPress
+    - Fullstack JavaScript
