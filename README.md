@@ -76,8 +76,8 @@
      - [x] [Random Quote Machine](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/QuoteMachine/)
      - [x] [Local Weather](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/LocalWeather) 
      - [x] [Wikipedia Viewer](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/WikipediaViewer/)
-     - [ ] &nbsp;Twitch.tv JSON API :hourglass_flowing_sand:
-  - [ ] &nbsp;Intermediate Algorithm Scripting  
+     - [x] [Twitch.tv JSON API](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/Twitchtv/)
+  - [ ] &nbsp;Intermediate Algorithm Scripting :hourglass_flowing_sand: 
   - [ ] &nbsp;Advanced Algorithm Scripting  
   - [ ] **&nbsp;Advanced Front End Development Projects**
   
