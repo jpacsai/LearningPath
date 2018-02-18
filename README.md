@@ -22,6 +22,10 @@
 ***
 ## Courses I am doing:
 
+- ### [p1xt-guides: Get Job ready](https://github.com/P1xt/p1xt-guides)  
+  28/12/2017 -  
+  [Coursework repository](https://github.com/jpacsai/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md)  
+  
 - ### [edX : HarvardX - CS50's Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)  
   15/01/2018 -  
   [Coursework repository](https://github.com/jpacsai/HarvardX_CS50x) 
@@ -38,6 +42,21 @@
   - [ ] &nbsp;Week 10 - _JavaScript_
   - [ ] &nbsp;Week 11 - _Final Project_  
   
+- ### [learn.shayhowe.com : Learn to Code - HTML & CSS](https://learn.shayhowe.com/html-css/)  
+  18/02/2018 -  
+  - [x] &nbsp;Lesson 1 - Building Your First Web Page
+  - [x] &nbsp;Lesson 2 - Getting to Know HTML
+  - [x] &nbsp;Lesson 3 - Getting to Know CSS
+  - [x] &nbsp;Lesson 4 - Opening the Box Model
+  - [ ] &nbsp;Lesson 5 - Positioning Content
+  - [ ] &nbsp;Lesson 6 - Working with Typography
+  - [ ] &nbsp;Lesson 7 - Setting Backgrounds & Gradients
+  - [ ] &nbsp;Lesson 8 - Creating Lists
+  - [ ] &nbsp;Lesson 9 - Adding Media
+  - [ ] &nbsp;Lesson 10 - Building Forms
+  - [ ] &nbsp;Lesson 11 - Organizing Data with Tables
+  - [ ] &nbsp;Lesson 12 - Writing Your Best Code   
+  
 - ### [edX : PennX - Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)  
   22/01/2018 -  
   [Coursework repository](https://github.com/jpacsai/PennX_Javascript_SD4x)  
@@ -47,17 +66,7 @@
   - [ ] &nbsp;Week 4: Building Scalable Web Apps with Server-Side JavaScript  
   
 
-- ### [NetAcedemia - Web Developer](https://netacademia.hu/webfejleszto)  
-  15/09/2017 -  
-  - [x] &nbsp;Bootstrap 4
-  - [ ] &nbsp;jQuery :hourglass_flowing_sand:
-  - [ ] &nbsp;Angular foundations
-  - [ ] &nbsp;Angular Advanced
-  - [ ] &nbsp;Angular Pro
-  - [ ] &nbsp;Ionic
-  - [ ] &nbsp;Electron
-  
-  
+
 - ### [freeCodeCamp - Front End Development Path](https://www.freecodecamp.org/)  
   24/10/2017 -  
   [Coursework repository](https://github.com/jpacsai/freeCodeCamp)  
@@ -81,15 +90,24 @@
   - [ ] &nbsp;Advanced Algorithm Scripting  
   - [ ] **Advanced Front End Development Projects**
   
-- ### [p1xt-guides: Get Job ready](https://github.com/P1xt/p1xt-guides)  
-  28/12/2017 -  
-  [Coursework repository](https://github.com/jpacsai/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md)  
-  
 - ### [Udemy - The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)  
   16/02/2017 -  
   _HTML5, CSS3, Bootstrap, JavaScript, jQuery, NodeJS, Express, MongoDB, UI, PassportJS_  
+
+- ### [Junior Developer Central: Practical JavaScript](https://courses.juniordevelopercentral.com/)  
+  09/02/2018 -  
+  - [ ] Module 1 :hourglass_flowing_sand:  
   
-  
+- ### [NetAcedemia - Web Developer](https://netacademia.hu/webfejleszto)  
+  15/09/2017 -  
+  - [x] &nbsp;Bootstrap 4
+  - [ ] &nbsp;jQuery :hourglass_flowing_sand:
+  - [ ] &nbsp;Angular foundations
+  - [ ] &nbsp;Angular Advanced
+  - [ ] &nbsp;Angular Pro
+  - [ ] &nbsp;Ionic
+  - [ ] &nbsp;Electron
+    
 - ### [The Odin Project](https://www.theodinproject.com/home)  
   30/12/2017 -  
   _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
@@ -109,6 +127,3 @@
   - [ ] JavaScript
   - [ ] Getting Hired
   
-- ### [Junior Developer Central: Practical JavaScript](https://courses.juniordevelopercentral.com/)  
-  09/02/2018 -  
-  - [ ] Module 1 :hourglass_flowing_sand:
