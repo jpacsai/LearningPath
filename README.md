@@ -66,7 +66,7 @@
   - [x] &nbsp;jQuery  
   - [x] **Basic Front End Development Projects**
      - [x] [Tribute page](https://jpacsai.github.io/freeCodeCamp/BasicProjects/Tribute_page/)
-     - [x] Portfolio page
+     - [x] [Portfolio page](https://jpacsai.github.io/freeCodeCamp/BasicProjects/Portfolio_page/)
   - [x] &nbsp;Basic JavaScript  
   - [x] &nbsp;Object Oriented and Functional Programming  
   - [x] &nbsp;Finish my changes  
