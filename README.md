@@ -93,7 +93,46 @@
 - ### [Udemy - The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)  
   16/02/2017 -  
   _HTML5, CSS3, Bootstrap, JavaScript, jQuery, NodeJS, Express, MongoDB, UI, PassportJS_  
-
+  - [ ] Section 1 - Introduction to this Course
+  - [ ] Section 2 - Introduction to Front End Development
+  - [ ] Section 3 - Introduction to HTML
+  - [ ] Section 4 - Intermediate HTML
+  - [ ] Section 5 - Introduction to CSS
+  - [ ] Section 6 - Intermediate CSS
+  - [ ] Section 7 - Bootstrap
+  - [ ] Section 8 - Introduction to JavaScript
+  - [ ] Section 9 - JavaScript Basics: Control Flow
+  - [ ] Section 10 - JavaScript Basics: Functions
+  - [ ] Section 11 - JavaScript Basics: Arrays
+  - [ ] Section 12 - JavaScript Basics: Objects
+  - [ ] Section 13 - DOM Manipulation
+  - [ ] Section 14 - Advanced DOM Manipulation
+  - [ ] Section 15 - **Color Game Project**
+  - [ ] Section 16 - Intro to jQuery
+  - [ ] Section 17 - Advanced jQuery
+  - [ ] Section 18 - **ToDo List Project**
+  - [ ] Section 19 - **OPTIONAL Project: Patatap**
+  - [ ] Section 20 - Backend Basica
+  - [ ] Section 21 - The Command Line
+  - [ ] Section 22 - Node JS
+  - [ ] Section 23 - Server Side Frameworks
+  - [ ] Section 24 - Intermediate Express
+  - [ ] Section 25 - Working with API's
+  - [ ] Section 26 - YelpCamp: Basics
+  - [ ] Section 27 - Databases
+  - [ ] Section 28 - YelpCamp: Data Persistence
+  - [ ] Section 29 - RESTful Routing
+  - [ ] Section 30 - Data Associations
+  - [ ] Section 31 - YelpCamp: Comments
+  - [ ] Section 32 - Authentication
+  - [ ] Section 33 - YelpCamp: Adding Authentication
+  - [ ] Section 34 - YelpCamp: Cleaning up
+  - [ ] Section 35 - YelpCamp: Update and Destroy
+  - [ ] Section 36 - YelpCamp: UI Improvements
+  - [ ] Section 37 - Git and GitHub
+  - [ ] Section 38 - Deploying
+  - [ ] Section 39 - JavaScript: The Tricky Stuff
+  
 - ### [Junior Developer Central: Practical JavaScript](https://courses.juniordevelopercentral.com/)  
   09/02/2018 -  
   - [ ] Module 1 :hourglass_flowing_sand:  
