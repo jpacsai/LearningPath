@@ -86,8 +86,8 @@
      - [x] [Local Weather](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/LocalWeather) 
      - [x] [Wikipedia Viewer](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/WikipediaViewer/)
      - [x] [Twitch.tv JSON API](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/Twitchtv/)
-  - [ ] &nbsp;Intermediate Algorithm Scripting :hourglass_flowing_sand: 
-  - [ ] &nbsp;Advanced Algorithm Scripting  
+  - [x] &nbsp;Intermediate Algorithm Scripting  
+  - [ ] &nbsp;Advanced Algorithm Scripting  :hourglass_flowing_sand:
   - [ ] **Advanced Front End Development Projects**
   
 - ### [Udemy - The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)  
