@@ -25,16 +25,17 @@
 - ### [Google-Udacity Front End Nanodegree (Developer Challenge Phase 2)
   19/02/2017 -  
   [Coursework repository]( )  
-1. Web Foundations:
-- Projects: Animal Trading Cards, Portfolio Site
-2. Web Programming with JavaScript:
-- Project: Memory Game
-3. Exploring JS - Objects, Tools and Testing
-- Projects: Classic Arcade Game clone, Feed Reader testing
-4. Front End Applications:
-- Project: Restaurant Reviews App
-5. Building with React:
-- Projects: MyReads -a book tracking app, Neighbour Map
+  1. Web Foundations:
+    - Projects: Animal Trading Cards, Portfolio Site
+  2. Web Programming with JavaScript:
+    - Project: Memory Game
+  3. Exploring JS - Objects, Tools and Testing
+    - Projects: Classic Arcade Game clone, Feed Reader testing
+  4. Front End Applications:
+    - Project: Restaurant Reviews App
+  5. Building with React:
+    - Projects: MyReads -a book tracking app, Neighbour Map  
+    
 - ### [p1xt-guides: Get Job ready](https://github.com/P1xt/p1xt-guides)  
   28/12/2017 -  
   [Coursework repository](https://github.com/jpacsai/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md)  
