@@ -22,7 +22,7 @@
 ***
 ## Courses I am doing:
 
-- ### [Google-Udacity Front End Nanodegree] (Developer Challenge Phase 2)
+- ### [Google-Udacity Front End Nanodegree (Developer Challenge Phase 2)](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
   19/02/2017 -  
   [Coursework repository]( )  
   - **1.&nbsp;Web Foundations:**
