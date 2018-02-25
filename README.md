@@ -9,7 +9,7 @@
 - ### [Google Udacity - Front End Web Developer Scholarship - Phase 1](https://www.udacity.com/google-scholarships)
   06/11/2017 - 06/02/2018  
   _HTML5, CSS3, JavaScript, jQuery_  
-  [Coursework repository](https://github.com/jpacsai/GoogleUdacity)
+  [Coursework repository](https://github.com/jpacsai/GoogleUdacity_Nanodegree/ChallengePhase)
   
 - ### [Codecademy - Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery)  
   19/01/2018 - 29/01/2018
@@ -24,7 +24,7 @@
 
 - ### [Google-Udacity Front End Nanodegree (Developer Challenge Phase 2)](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
   19/02/2017 -  
-  [Coursework repository]( )  
+  [Coursework repository](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree)  
   - **1.&nbsp;Web Foundations:**
      - [ ] Animal Trading Cards
      - [ ] Portfolio Site
