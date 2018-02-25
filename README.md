@@ -9,7 +9,7 @@
 - ### [Google Udacity - Front End Web Developer Scholarship - Phase 1](https://www.udacity.com/google-scholarships)
   06/11/2017 - 06/02/2018  
   _HTML5, CSS3, JavaScript, jQuery_  
-  [Coursework repository](https://github.com/jpacsai/GoogleUdacity_Nanodegree/ChallengePhase)
+  [Coursework repository](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase)
   
 - ### [Codecademy - Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery)  
   19/01/2018 - 29/01/2018
