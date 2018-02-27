@@ -104,8 +104,8 @@
      - [x] [Wikipedia Viewer](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/WikipediaViewer/)
      - [x] [Twitch.tv JSON API](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/Twitchtv/)
   - [x] &nbsp;Intermediate Algorithm Scripting  
-  - [ ] &nbsp;Advanced Algorithm Scripting  :hourglass_flowing_sand:
-  - [ ] **Advanced Front End Development Projects**
+  - [x] &nbsp;Advanced Algorithm Scripting  
+  - [ ] **Advanced Front End Development Projects** :hourglass_flowing_sand:
   
 - ### [Udemy - The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)  
   16/02/2017 -  
