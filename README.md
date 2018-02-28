@@ -38,6 +38,11 @@
   - **5.&nbsp;Building with React:**
      - [ ] MyReads -a book tracking app
      - [ ] Neighbour Map  
+     
+- ### [Udacity:](https://eu.udacity.com/)  
+  - [**Responsive Images**](https://eu.udacity.com/course/responsive-images--ud882)  
+    27/02/2018  - 
+  
     
 - ### [p1xt-guides: Get Job ready](https://github.com/P1xt/p1xt-guides)  
   28/12/2017 -  
