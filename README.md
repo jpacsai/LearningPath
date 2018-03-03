@@ -25,17 +25,17 @@
 - ### [Google-Udacity Front End Nanodegree (Developer Challenge Phase 2)](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
   19/02/2017 -  
   [Coursework repository](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree)  
-  - **1.&nbsp;Web Foundations:**
-     - [ ] Animal Trading Cards
-     - [ ] Portfolio Site
-  - **2.&nbsp;Web Programming with JavaScript:**
-     - [ ] Memory Game
-  - **3.&nbsp;Exploring JS - Objects, Tools and Testing**
-     - [ ] Classic Arcade Game clone
-     - [ ] Feed Reader testing
-  - **4.&nbsp;Front End Applications:**
-     - [ ] Restaurant Reviews App
-  - **5.&nbsp;Building with React:**
+  - **1.&nbsp;Web Foundations:**  
+     - [x] [Animal Trading Cards](https://codepen.io/jutzee/full/ddebEG/)  
+     - [ ] Portfolio Site :hourglass_flowing_sand:  
+  - **2.&nbsp;Web Programming with JavaScript:**  
+     - [ ] Memory Game  
+  - **3.&nbsp;Exploring JS - Objects, Tools and Testing**  
+     - [ ] Classic Arcade Game clone  
+     - [ ] Feed Reader testing  
+  - **4.&nbsp;Front End Applications:**  
+     - [ ] Restaurant Reviews App  
+  - **5.&nbsp;Building with React:**  
      - [ ] MyReads -a book tracking app
      - [ ] Neighbour Map  
      
