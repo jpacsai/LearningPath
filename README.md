@@ -17,7 +17,11 @@
 - ### [Udacity:](https://eu.udacity.com/)  
   - [**Intro to Ajax**](https://eu.udacity.com/course/intro-to-ajax--ud110)  
     29/01/2018  - 04/02/2018  
-  [Coursework repository](https://github.com/jpacsai/Udacity/tree/master/IntroToAjax)
+  [Coursework repository](https://github.com/jpacsai/Udacity/tree/master/IntroToAjax)  
+
+  - [**Responsive Images**](https://eu.udacity.com/course/responsive-images--ud882)  
+    27/02/2018  - 02/03/2018
+  
   
 ***
 ## Courses I am doing:
@@ -38,11 +42,6 @@
   - **5.&nbsp;Building with React:**  
      - [ ] MyReads -a book tracking app
      - [ ] Neighbour Map  
-     
-- ### [Udacity:](https://eu.udacity.com/)  
-  - [**Responsive Images**](https://eu.udacity.com/course/responsive-images--ud882)  
-    27/02/2018  - 
-  
     
 - ### [p1xt-guides: Get Job ready](https://github.com/P1xt/p1xt-guides)  
   28/12/2017 -  
