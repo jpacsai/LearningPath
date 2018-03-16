@@ -31,9 +31,9 @@
   [Coursework repository](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree)  
   - **1.&nbsp;Web Foundations:**  
      - [x] [Animal Trading Cards](https://codepen.io/jutzee/full/ddebEG/)  
-     - [ ] [Portfolio Site](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/PortfolioProject/) :hourglass_flowing_sand:  
+     - [x] [Portfolio Site](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/PortfolioProject/)   
   - **2.&nbsp;Web Programming with JavaScript:**  
-     - [ ] Memory Game  
+     - [ ] Memory Game  :hourglass_flowing_sand:
   - **3.&nbsp;Exploring JS - Objects, Tools and Testing**  
      - [ ] Classic Arcade Game clone  
      - [ ] Feed Reader testing  
@@ -110,7 +110,7 @@
   - [x] &nbsp;Intermediate Algorithm Scripting  
   - [x] &nbsp;Advanced Algorithm Scripting  
   - [ ] **Advanced Front End Development Projects** 
-     - [x] JavaScript Calculator 
+     - [x] [JavaScript Calculator ](https://jpacsai.github.io/freeCodeCamp/AdvancedProjects/Calculator/)
      - [ ] Pomodoro Clock :hourglass_flowing_sand:
      - [ ] Tic Tac Toe Game
      - [ ] Simon Game
