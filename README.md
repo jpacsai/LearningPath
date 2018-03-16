@@ -110,8 +110,8 @@
   - [x] &nbsp;Intermediate Algorithm Scripting  
   - [x] &nbsp;Advanced Algorithm Scripting  
   - [ ] **Advanced Front End Development Projects** 
-     - [ ] JavaScript Calculator :hourglass_flowing_sand:
-     - [ ] Pomodoro Clock
+     - [x] JavaScript Calculator 
+     - [ ] Pomodoro Clock :hourglass_flowing_sand:
      - [ ] Tic Tac Toe Game
      - [ ] Simon Game
   
