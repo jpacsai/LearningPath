@@ -33,9 +33,9 @@
      - [x] [Animal Trading Cards](https://codepen.io/jutzee/full/ddebEG/)  
      - [x] [Portfolio Site](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/PortfolioProject/)   
   - **2.&nbsp;Web Programming with JavaScript:**  
-     - [ ] Memory Game  :hourglass_flowing_sand:
+     - [x] [Memory Game](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Memory_Game/)  
   - **3.&nbsp;Exploring JS - Objects, Tools and Testing**  
-     - [ ] Classic Arcade Game clone  
+     - [ ] Classic Arcade Game clone  :hourglass_flowing_sand:
      - [ ] Feed Reader testing  
   - **4.&nbsp;Front End Applications:**  
      - [ ] Restaurant Reviews App  
