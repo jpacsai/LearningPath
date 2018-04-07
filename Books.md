@@ -12,8 +12,8 @@
 ## JavaScript
 - [ ] &nbsp;Kyle Simpson - You Don't Know JS series:
     - [x] &nbsp;[**Up & Going**](https://www.amazon.com/You-Dont-Know-JS-Going/dp/1491924462/ref=sr_1_1?s=books&ie=UTF8&qid=1516363692&sr=1-1&keywords=You+Don%27t+Know+JS%3A+Up+%26+Going) 
-    - [ ] &nbsp;[**Scope & Closures**](https://www.amazon.com/You-Dont-Know-JS-Closures/dp/1449335586) :hourglass_flowing_sand:
-    - [ ] &nbsp;[**this & Object Prototypes**](https://www.amazon.com/You-Dont-Know-JS-Prototypes/dp/1491904151/ref=sr_1_1?s=books&ie=UTF8&qid=1516363945&sr=1-1&keywords=this+%26+Object+Prototypes)
+    - [x] &nbsp;[**Scope & Closures**](https://www.amazon.com/You-Dont-Know-JS-Closures/dp/1449335586)
+    - [ ] &nbsp;[**this & Object Prototypes**](https://www.amazon.com/You-Dont-Know-JS-Prototypes/dp/1491904151/ref=sr_1_1?s=books&ie=UTF8&qid=1516363945&sr=1-1&keywords=this+%26+Object+Prototypes)  :hourglass_flowing_sand:  
     - [ ] &nbsp;[**Types & Grammar**](https://www.amazon.com/gp/product/B00SXHFTO4/ref=series_dp_rw_ca_6?ie=UTF8&qid=1516370732&sr=1-7)
     - [ ] &nbsp;[**Async & Performance**](https://www.amazon.com/gp/product/B00TXVCJ7O/ref=series_dp_rw_ca_4?ie=UTF8&qid=1516370732&sr=1-7)
     - [ ] &nbsp;[**ES6 & Beyond**](https://www.amazon.com/gp/product/B019HRGOPQ/ref=series_dp_rw_ca_5?ie=UTF8&qid=1516370732&sr=1-7)
