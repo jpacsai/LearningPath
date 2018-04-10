@@ -31,7 +31,7 @@
   [Coursework repository](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree)  
   - **1.&nbsp;Web Foundations:**  
      - [x] [Animal Trading Cards](https://codepen.io/jutzee/full/ddebEG/)  
-     - [x] [Portfolio Site](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/PortfolioProject/)   
+     - [x] [Portfolio Site](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Portfolio_Project/)   
   - **2.&nbsp;Web Programming with JavaScript:**  
      - [x] [Memory Game](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Memory_Game/)  
   - **3.&nbsp;Exploring JS - Objects, Tools and Testing**  
