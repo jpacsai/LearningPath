@@ -28,6 +28,7 @@
 
 - ### [Google-Udacity Front End Nanodegree (Developer Challenge Phase 2)](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
   19/02/2017 -  
+  _HTML5, CSS3, git, JavaScript, Jasmine, React.js_ 
   [Coursework repository](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree)  
   - **1.&nbsp;Web Foundations:**  
      - [x] [Animal Trading Cards](https://codepen.io/jutzee/full/ddebEG/)  
