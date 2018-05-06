@@ -36,8 +36,8 @@
   - **2.&nbsp;Web Programming with JavaScript:**  
      - [x] [Memory Game](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Memory_Game/)  
   - **3.&nbsp;Exploring JS - Objects, Tools and Testing**  
-     - [ ] [Classic Arcade Game clone](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/ArcadeGame/)  :hourglass_flowing_sand:  
-     - [ ] Feed Reader testing  
+     - [x] [Classic Arcade Game clone](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Arcade_Game/)   
+     - [ ] Feed Reader testing  :hourglass_flowing_sand: 
   - **4.&nbsp;Front End Applications:**  
      - [ ] Restaurant Reviews App  
   - **5.&nbsp;Building with React:**  
