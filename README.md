@@ -42,7 +42,7 @@
      - [ ] Restaurant Reviews App  
   - **5.&nbsp;Building with React:**  
      - [ ] MyReads -a book tracking app
-     - [ ] Neighbour Map  
+     - [ ] Neighborhood Map  
     
 - ### [p1xt-guides: Get Job ready](https://github.com/P1xt/p1xt-guides)  
   28/12/2017 -  
