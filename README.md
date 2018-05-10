@@ -100,7 +100,6 @@
      - [x] [Portfolio page](https://jpacsai.github.io/freeCodeCamp/BasicProjects/Portfolio_page/)
   - [x] &nbsp;Basic JavaScript  
   - [x] &nbsp;Object Oriented and Functional Programming  
-  - [x] &nbsp;Finish my changes  
   - [x] &nbsp;Basic Algorithm Scripting  
   - [x] &nbsp;JSON API and Ajax
   - [x] **Intermediate Front End Development Projects**
