@@ -71,7 +71,7 @@
   - [x] &nbsp;Lesson 3 - Getting to Know CSS
   - [x] &nbsp;Lesson 4 - Opening the Box Model
   - [x] &nbsp;Lesson 5 - Positioning Content
-  - [ ] &nbsp;Lesson 6 - Working with Typography
+  - [x] &nbsp;Lesson 6 - Working with Typography
   - [ ] &nbsp;Lesson 7 - Setting Backgrounds & Gradients
   - [ ] &nbsp;Lesson 8 - Creating Lists
   - [ ] &nbsp;Lesson 9 - Adding Media
