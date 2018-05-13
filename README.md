@@ -43,6 +43,9 @@
   - **5.&nbsp;Building with React:**  
      - [ ] MyReads -a book tracking app
      - [ ] Neighborhood Map  
+     
+- ### [Brad Hussey - Learn Sass](https://www.youtube.com/playlist?list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR)  
+  14/05/2018 -  
     
 - ### [p1xt-guides: Get Job ready](https://github.com/P1xt/p1xt-guides)  
   28/12/2017 -  
