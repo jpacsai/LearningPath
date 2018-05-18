@@ -38,7 +38,10 @@
   - **3.&nbsp;Exploring JS - Objects, Tools and Testing**  
      - [x] [Classic Arcade Game clone](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Arcade_Game/)   
      - [x] Feed Reader testing   
-  - **4.&nbsp;Front End Applications:** :hourglass_flowing_sand:  
+  - **4.&nbsp;Front End Applications:** :hourglass_flowing_sand:
+     - [x] Cat Clicker:
+        - [x] [Basic](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Basic/dist/index.html)
+        - [x] [Premium Edition](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition/dist/)
      - [ ] Restaurant Reviews App  
   - **5.&nbsp;Building with React:**  
      - [ ] MyReads -a book tracking app
