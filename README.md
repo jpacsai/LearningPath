@@ -126,11 +126,6 @@
   16/02/2017 -  
   _HTML5, CSS3, Bootstrap, JavaScript, jQuery, NodeJS, Express, MongoDB, UI, PassportJS_  
   
-  
-- ### [Junior Developer Central: Practical JavaScript](https://courses.juniordevelopercentral.com/)  
-  09/02/2018 -  
-  - [ ] Module 1 :hourglass_flowing_sand:  
-  
 - ### [NetAcedemia - Web Developer](https://netacademia.hu/webfejleszto)  
   15/09/2017 -  
   - [x] &nbsp;Bootstrap 4
