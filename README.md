@@ -42,6 +42,7 @@
      - [x] Cat Clicker:
         - [x] [Basic](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Basic/dist/index.html)
         - [x] [Premium Edition](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition/dist/)
+        - [x] [Premium Pro Edition](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition_Pro/dist/)
      - [ ] Restaurant Reviews App  
   - **5.&nbsp;Building with React:**  
      - [ ] MyReads -a book tracking app
