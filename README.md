@@ -126,7 +126,7 @@
   16/02/2017 -  
   _HTML5, CSS3, Bootstrap, JavaScript, jQuery, NodeJS, Express, MongoDB, UI, PassportJS_  
   
-- ### [NetAcedemia - Web Developer](https://netacademia.hu/webfejleszto)  
+- ### [NetAcademia - Web Developer](https://netacademia.hu/webfejleszto)  
   15/09/2017 -  
   - [x] &nbsp;Bootstrap 4
   - [ ] &nbsp;jQuery :hourglass_flowing_sand:
