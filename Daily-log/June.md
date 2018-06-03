@@ -12,3 +12,9 @@
    - **Udacity Nanodegree:**  
    [Ajax with XHR](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree/4_FrontEnd_Applications/5_Ajax/lesson-1-async-w-xhr)
 ***
+### **03/06** - `javascript`  
+   - **The Odin Project:**  
+   JavaScript - Asynchronous JavaScript and APIs:  
+     - JSON
+     - Async
+***
