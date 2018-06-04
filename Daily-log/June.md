@@ -18,3 +18,10 @@
      - JSON
      - Async
 ***
+### **04/06** - `javascript`  
+   - **Videos:**  
+   Fun Fun Functions: Functional programming in JavaScript  
+     - 1 / 12 [Higher-order functions](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+   - **Udacity Nanodegree:**  
+   Ajax with jQuery  
+***
