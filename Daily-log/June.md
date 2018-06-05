@@ -25,3 +25,10 @@
    - **Udacity Nanodegree:**  
    Ajax with jQuery  
 ***
+### **05/06** - `javascript`  
+   - **Videos:**  
+   Fun Fun Functions: Functional programming in JavaScript  
+     - 2 / 12 [Map](https://www.youtube.com/watch?v=bCqtb-Z5YGQ&index=2&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+   - **Udacity Nanodegree:**  
+   Ajax call with the Fetch API  
+***
