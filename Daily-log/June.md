@@ -38,4 +38,6 @@
      - 3 / 12 [Reduce basics](https://www.youtube.com/watch?v=Wl98eZpkp-c&index=3&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
    - **Udacity Nanodegree:**  
    Features of Single Page Apps  
+   - **Articles:**  
+   [Choosing the Right JavaScript Framework for the Job](https://www.lullabot.com/articles/choosing-the-right-javascript-framework-for-the-job)
 ***
