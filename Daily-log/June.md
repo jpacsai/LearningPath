@@ -32,3 +32,10 @@
    - **Udacity Nanodegree:**  
    Ajax call with the Fetch API  
 ***
+### **06/06** - `javascript`  
+   - **Videos:**  
+   Fun Fun Functions: Functional programming in JavaScript  
+     - 3 / 12 [Reduce basics](https://www.youtube.com/watch?v=Wl98eZpkp-c&index=3&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+   - **Udacity Nanodegree:**  
+   Features of Single Page Apps  
+***
