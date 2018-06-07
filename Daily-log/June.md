@@ -46,7 +46,7 @@
    Fun Fun Functions: Functional programming in JavaScript  
      - 4 / 12 [Advanced Reduce](https://www.youtube.com/watch?v=1DMolJ2FrNY&index=4&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
    - **Udacity Nanodegree:**  
-   Features of Single Page Apps  
+   Examine a Framework's Source  
    - **Articles:**  
    [Yes, React is taking over front-end development. The question is why.](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 ***
