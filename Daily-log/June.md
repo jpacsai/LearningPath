@@ -45,6 +45,8 @@
    - **Videos:**  
    Fun Fun Functions: Functional programming in JavaScript  
      - 4 / 12 [Advanced Reduce](https://www.youtube.com/watch?v=1DMolJ2FrNY&index=4&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+   Brad Hussey: Learn Sass
+     - 2 / 15 [WTF is Sass](https://www.youtube.com/watch?v=S4mPsoZ7sG4&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR&t=0s&index=4)
    - **Udacity Nanodegree:**  
    The Benefits of Offline first  
    - **Articles:**  
