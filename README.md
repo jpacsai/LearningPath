@@ -50,6 +50,21 @@
      
 - ### [Brad Hussey - Learn Sass](https://www.youtube.com/playlist?list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR)  
   14/05/2018 -  
+   - [x] Obligatory Welcome Video
+   - [x] WTF is Sass?
+   - [ ] How to install and compile Sass?
+   - [ ] Download the course files
+   - [ ] Sass tools and editors
+   - [ ] Code your first Sass website
+   - [ ] Sass best practices
+   - [ ] Partials, variables & imports
+   - [ ] Sass mixins
+   - [ ] Coding with Bourbon #1
+   - [ ] Coding with Bourbon #2
+   - [ ] Style a portfolio landing page #1
+   - [ ] Style a portfolio landing page #2
+   - [ ] Now what do I do?
+   - [ ] Sass vs CSS
     
 - ### [p1xt-guides: Get Job ready](https://github.com/P1xt/p1xt-guides)  
   28/12/2017 -  
