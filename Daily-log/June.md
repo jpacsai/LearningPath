@@ -5,8 +5,9 @@
    Codefights: Arcade - Intro - [54 sumUpNumbers](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/54_sumUpNums.js)
    - **Udacity Nanodegree:**  
    Creating Promises  
-   - **Videos:**    
-  The Net Ninja: [Asynchronous JavaScript series](https://www.youtube.com/watch?v=YxWMxJONp7E&list=PL4cUxeGkcC9jAhrjtZ9U93UMIhnCc44MH)
+   - **Videos:**  
+     - The Net Ninja:  
+       - [Asynchronous JavaScript series](https://www.youtube.com/watch?v=YxWMxJONp7E&list=PL4cUxeGkcC9jAhrjtZ9U93UMIhnCc44MH)  
 ***
 ### **02/06** - `javascript`  
    - **Udacity Nanodegree:**  
@@ -20,22 +21,22 @@
 ***
 ### **04/06** - `javascript`  
    - **Videos:**  
-   Fun Fun Functions: Functional programming in JavaScript  
-     - 1 / 12 [Higher-order functions](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+     - Fun Fun Functions: Functional programming in JavaScript  
+       - 1 / 12 [Higher-order functions](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
    - **Udacity Nanodegree:**  
    Ajax with jQuery  
 ***
 ### **05/06** - `javascript`  
    - **Videos:**  
-   Fun Fun Functions: Functional programming in JavaScript  
-     - 2 / 12 [Map](https://www.youtube.com/watch?v=bCqtb-Z5YGQ&index=2&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+     - Fun Fun Functions: Functional programming in JavaScript  
+       - 2 / 12 [Map](https://www.youtube.com/watch?v=bCqtb-Z5YGQ&index=2&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
    - **Udacity Nanodegree:**  
    Ajax call with the Fetch API  
 ***
 ### **06/06** - `javascript`  
    - **Videos:**  
-   Fun Fun Functions: Functional programming in JavaScript  
-     - 3 / 12 [Reduce basics](https://www.youtube.com/watch?v=Wl98eZpkp-c&index=3&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+     - Fun Fun Functions: Functional programming in JavaScript  
+       - 3 / 12 [Reduce basics](https://www.youtube.com/watch?v=Wl98eZpkp-c&index=3&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
    - **Udacity Nanodegree:**  
    Features of Single Page Apps  
    - **Articles:**  
@@ -43,10 +44,10 @@
 ***
 ### **07/06** - `javascript` `css`  
    - **Videos:**  
-   Fun Fun Functions: Functional programming in JavaScript  
-     - 4 / 12 [Advanced Reduce](https://www.youtube.com/watch?v=1DMolJ2FrNY&index=4&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-   Brad Hussey: Learn Sass
-     - 2 / 15 [WTF is Sass](https://www.youtube.com/watch?v=S4mPsoZ7sG4&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR&t=0s&index=4)
+     - Fun Fun Functions: Functional programming in JavaScript  
+       - 4 / 12 [Advanced Reduce](https://www.youtube.com/watch?v=1DMolJ2FrNY&index=4&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+     - Brad Hussey: Learn Sass
+       - 2 / 15 [WTF is Sass](https://www.youtube.com/watch?v=S4mPsoZ7sG4&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR&t=0s&index=4)
    - **Udacity Nanodegree:**  
    The Benefits of Offline first  
    - **Articles:**  
@@ -54,10 +55,10 @@
 ***
 ### **08/06** - `javascript` `css`  
    - **Videos:**  
-   Fun Fun Functions: Functional programming in JavaScript  
-     - 5 / 12 [Closures](https://www.youtube.com/watch?v=CQqwU2Ixu-U&index=5&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-   Brad Hussey: Learn Sass
-     - 3 / 15 [How to install and compile Sass](https://www.youtube.com/watch?v=S4mPsoZ7sG4&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR&t=0s&index=4)
+     - Fun Fun Functions: Functional programming in JavaScript  
+       - 5 / 12 [Closures](https://www.youtube.com/watch?v=CQqwU2Ixu-U&index=5&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+     - Brad Hussey: Learn Sass
+       - 3 / 15 [How to install and compile Sass](https://www.youtube.com/watch?v=S4mPsoZ7sG4&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR&t=0s&index=4)
    - **Udacity Nanodegree:**  
    Introducing the Service Worker  
    - **Articles:**  
