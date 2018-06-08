@@ -41,7 +41,7 @@
    - **Articles:**  
    [Choosing the Right JavaScript Framework for the Job](https://www.lullabot.com/articles/choosing-the-right-javascript-framework-for-the-job)
 ***
-### **07/06** - `javascript`  
+### **07/06** - `javascript` `css`  
    - **Videos:**  
    Fun Fun Functions: Functional programming in JavaScript  
      - 4 / 12 [Advanced Reduce](https://www.youtube.com/watch?v=1DMolJ2FrNY&index=4&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
@@ -51,4 +51,15 @@
    The Benefits of Offline first  
    - **Articles:**  
    [Yes, React is taking over front-end development. The question is why.](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
+***
+### **08/06** - `javascript` `css`  
+   - **Videos:**  
+   Fun Fun Functions: Functional programming in JavaScript  
+     - 5 / 12 [Closures](https://www.youtube.com/watch?v=CQqwU2Ixu-U&index=5&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+   Brad Hussey: Learn Sass
+     - 3 / 15 [How to install and compile Sass](https://www.youtube.com/watch?v=S4mPsoZ7sG4&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR&t=0s&index=4)
+   - **Udacity Nanodegree:**  
+   Introducing the Service Worker  
+   - **Articles:**  
+   [BEM naming convention](https://en.bem.info/methodology/naming-convention/)
 ***
