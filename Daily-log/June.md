@@ -64,3 +64,10 @@
    - **Articles:**  
    [BEM naming convention](https://en.bem.info/methodology/naming-convention/)
 ***
+### **09/06** - `javascript`  
+   - **Videos:**  
+     - Bitsofcode  
+       - [How to Setup a Basic Service Worker (with Caching)](https://www.youtube.com/watch?v=BfL3pprhnms)
+   - **Udacity Nanodegree:**  
+   Introducing the Service Worker  
+***
