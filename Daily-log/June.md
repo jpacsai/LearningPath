@@ -73,5 +73,5 @@
 ***
 ### **10/06** - `javascript`  
    - **Udacity Nanodegree:**  
-   Introducing the Service Worker  
+   HTTP's Request/Responce Cycle  
 ***
