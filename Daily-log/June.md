@@ -72,6 +72,8 @@
    Introducing the Service Worker  
 ***
 ### **10/06** - `javascript`  
+   - **JavaScript excercise:**  
+   Codefights: Arcade - Intro - [55 differentSquares](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/55_diffSq.js)
    - **Udacity Nanodegree:**  
    HTTP's Request/Response Cycle  
 ***
