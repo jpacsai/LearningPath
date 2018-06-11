@@ -73,5 +73,5 @@
 ***
 ### **10/06** - `javascript`  
    - **Udacity Nanodegree:**  
-   HTTP's Request/Responce Cycle  
+   HTTP's Request/Response Cycle  
 ***
