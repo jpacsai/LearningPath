@@ -1,7 +1,7 @@
 # Summary - June
 
-| Date | Course | Video | Article | Excercise |
-| :--: | :----: | :---: | :-----: | :-------: |
+| Date | Course | Video | Article | Excercise | Project |
+| :--: | :----: | :---: | :-----: | :-------: | :-----: |
 | **01** | ✔️  | 1     |         | 1
 | **02** | ✔️  |
 | **03** | ✔️  |
