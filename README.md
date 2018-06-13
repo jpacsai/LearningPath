@@ -52,7 +52,7 @@
   14/05/2018 -  
    - [x] Obligatory Welcome Video
    - [x] WTF is Sass?
-   - [ ] How to install and compile Sass?
+   - [x] How to install and compile Sass?
    - [ ] Download the course files
    - [ ] Sass tools and editors
    - [ ] Code your first Sass website
