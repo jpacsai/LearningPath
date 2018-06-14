@@ -92,7 +92,9 @@
 ***
 ### **14/06** - `javascript`  
    - **JavaScript exercise:**  
-   Codefights: CHALLENGE - maxSalePrice
+   Codefights: CHALLENGE - roverTour
+   - **Articles:**  
+   [4 Javascript Optimisations you should know](https://leftshift.io/4-javascript-optimisations-you-should-know)
    - **Udacity Nanodegree:**  
    HTTP/2
    Security
