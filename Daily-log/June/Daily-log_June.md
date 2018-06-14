@@ -86,7 +86,12 @@
    HTTP's Request/Response Cycle  
    HTTP/1
 ***
-### **12/06** - `javascript`  
+### **13/06** - `javascript`  
    - **Udacity Nanodegree:**  
    HTTPS
+***
+### **14/06** - `javascript`  
+   - **Udacity Nanodegree:**  
+   HTTP/2
+   Security
 ***
