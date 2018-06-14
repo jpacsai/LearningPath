@@ -1,7 +1,7 @@
 # June - 2018
 
 ### **01/06** - `javascript`  
-   - **JavaScript excercise:**  
+   - **JavaScript exercise:**  
    Codefights: Arcade - Intro - [54 sumUpNumbers](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/54_sumUpNums.js)
    - **Udacity Nanodegree:**  
    Creating Promises  
@@ -76,7 +76,7 @@
    HTTP's Request/Response Cycle  
 ***
 ### **11/06** - `javascript`  
-   - **JavaScript excercise:**  
+   - **JavaScript exercise:**  
    Codefights: Arcade - Intro - [55 differentSquares](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/55_diffSq.js)
    - **Udacity Nanodegree:**  
    HTTP's Request/Response Cycle  
@@ -91,7 +91,10 @@
    HTTPS
 ***
 ### **14/06** - `javascript`  
+   - **JavaScript exercise:**  
+   Codefights: CHALLENGE - maxSalePrice
    - **Udacity Nanodegree:**  
    HTTP/2
    Security
+   Efficient Inputs 1
 ***
