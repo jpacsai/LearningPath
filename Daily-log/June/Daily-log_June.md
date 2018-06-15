@@ -104,7 +104,7 @@
    - **JavaScript exercise:**  
    Codefights: CHALLENGE - roverTour
    - **Articles:**  
-   [4 Javascript Optimisations you should know](https://leftshift.io/4-javascript-optimisations-you-should-know)
+   [Big O Notation in JavaScript](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
    - **Videos:**  
      - Fun Fun Functions: Functional programming in JavaScript  
        - 6 / 12 [Currying](https://www.youtube.com/watch?v=iZLP4qOwY8I&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=6)
