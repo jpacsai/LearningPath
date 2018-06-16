@@ -111,9 +111,9 @@
 ***
 ### **16/06** - `javascript` `css`  
    - **Articles:**  
-   [JavaScript design patterns for humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
-   [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
-   [Why Microsoft is Acquiring GitHub](https://medium.com/@Michael_Spencer/why-microsoft-is-acquiring-github-1fc859cb29a)
+   [JavaScript design patterns for humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)  
+   [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)  
+   [Why Microsoft is Acquiring GitHub](https://medium.com/@Michael_Spencer/why-microsoft-is-acquiring-github-1fc859cb29a)  
    - **Videos:**  
      - Brad Hussey: Learn Sass
        - 4 / 15 [Download The Course Files](https://www.youtube.com/watch?v=V3l-A5Rh5YI&index=6&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR&t=0s)
