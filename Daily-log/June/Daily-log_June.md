@@ -121,4 +121,8 @@
    Semantics Basics  
    Navigating Content
 ***
+### **18/06** - `javascript`  
+   - **Udacity Nanodegree:**  
+   Navigating Content
+***
 
