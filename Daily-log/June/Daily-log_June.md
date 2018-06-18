@@ -118,7 +118,7 @@
      - Brad Hussey: Learn Sass
        - 4 / 15 [Download The Course Files](https://www.youtube.com/watch?v=V3l-A5Rh5YI&index=6&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR&t=0s)
    - **Udacity Nanodegree:**  
-   Semantics Basics
+   Semantics Basics  
    Navigating Content
 ***
 
