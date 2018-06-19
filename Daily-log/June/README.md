@@ -1,7 +1,7 @@
 # Summary - June
 
-| Date   | Course                | Video | Article | Excercise | Project | Etc. |
-| :----: | :-------------------: | :---: | :-----: | :-------: | :-----: | :--: |
+| Date   | Course                | Video | Article | Excercise | Project | Achievements |
+| :----: | :-------------------: | :---: | :-----: | :-------: | :-----: | :----------: |
 | **01** | Udacity               | 1     |         | 1
 | **02** | Udacity               |
 | **03** | Udacity               |
