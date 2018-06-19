@@ -4,6 +4,7 @@
 - Recursion
 - Sorting
 - Patterns
+- Functional Programming
 
 ## CSS:
 - BEM
