@@ -125,4 +125,10 @@
    - **Udacity Nanodegree:**  
    Navigating Content
 ***
-
+### **19/06** - `javascript` `css`  
+   - **Articles:**  
+   [10 major freeCodeCamp improvements that are live now](https://forum.freecodecamp.org/t/10-major-freecodecamp-improvements-that-are-live-now/192130)  
+   - **Udacity Nanodegree:**  
+   ARIA
+   Style
+***
