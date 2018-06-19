@@ -131,5 +131,7 @@
    [My tips and tricks that helped me get a Dev Job](https://forum.freecodecamp.org/t/my-tips-and-tricks-that-helped-me-get-a-dev-job/200761)
    - **Udacity Nanodegree:**  
    ARIA
-   Style
+   Style  
+   - **ACHIEVEMENT**  
+   [freeCodeCamp - JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)
 ***
