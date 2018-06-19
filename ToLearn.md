@@ -5,6 +5,8 @@
 - Sorting
 - Patterns
 - Functional Programming
+- Debugging
+- RegEx
 
 ## CSS:
 - BEM
