@@ -1,26 +1,26 @@
 # Summary - June
 
-| Date | Course | Video | Article | Excercise | Project |
-| :--: | :----: | :---: | :-----: | :-------: | :-----: |
-| **01** | ✔️  | 1     |         | 1
-| **02** | ✔️  |
-| **03** | ✔️  |
-| **04** | ✔️  | 1     |
-| **05** | ✔️  | 1     |
-| **06** | ✔️  | 1     | 1
-| **07** | ✔️  | 2     | 1 
-| **08** | ✔️  | 2     | 1
-| **09** | ✔️  | 1
-| **10** | ✔️  |
-| **11** | ✔️  |       |         | 1
-| **12** | ✔️  |
-| **13** | ✔️  |
-| **14** | ✔️  |       | 1       | 1
-| **15** |      | 1     | 1       | (cont.)
-| **16** | ✔️  | 1     | 3
+| Date   | Course                | Video | Article | Excercise | Project | Etc. |
+| :----: | :-------------------: | :---: | :-----: | :-------: | :-----: | :--: |
+| **01** | Udacity               | 1     |         | 1
+| **02** | Udacity               |
+| **03** | Udacity               |
+| **04** | Udacity               | 1     |
+| **05** | Udacity               | 1     |
+| **06** | Udacity               | 1     | 1
+| **07** | Udacity               | 2     | 1 
+| **08** | Udacity               | 2     | 1
+| **09** | Udacity               | 1
+| **10** | Udacity               |
+| **11** | Udacity               |       |         | 1
+| **12** | Udacity               |
+| **13** | Udacity               |
+| **14** | Udacity               |       | 1       | 1
+| **15** |                       | 1     | 1       | (cont.)
+| **16** | Udacity               | 1     | 3
 | **17** |
-| **18** | ✔️  |
-| **19** |
+| **18** | Udacity               |
+| **19** | Udacity, freeCodeCamp |       | 2       |           |         | [freeCodeCamp Certificate](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)
 | **20** |
 | **21** |
 | **22** |
