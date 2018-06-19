@@ -132,6 +132,8 @@
    - **Udacity Nanodegree:**  
    ARIA  
    Style  
+   - **Project:**
+   Restaurant Review App
    - **ACHIEVEMENT**  
    freeCodeCamp - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)
 ***
