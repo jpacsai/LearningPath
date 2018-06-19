@@ -13,3 +13,7 @@
 - Sass
 - Relative units
 - css variables
+
+## Misc.
+- SEO principles
+- Agile Methodology
