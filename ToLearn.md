@@ -8,3 +8,5 @@
 ## CSS:
 - BEM
 - Sass
+- Relative units
+- css variables
