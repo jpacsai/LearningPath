@@ -115,7 +115,7 @@
   - [ ] Responsive Web Design Certification (300 hours)
     - [x] Basic HTML and HTML5 
     - [X] Basic CSS
-    - [ ] Applied Visual Design
+    - [x] Applied Visual Design
     - [ ] Applied Accessibility
     - [ ] Responsive Web Design Principles
     - [ ] CSS Flexbox
