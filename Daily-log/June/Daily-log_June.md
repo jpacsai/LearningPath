@@ -125,14 +125,14 @@
    - **Udacity Nanodegree:**  
    Navigating Content
 ***
-### **19/06** - `javascript` `css`  
+### **19/06** - `javascript`  
    - **Articles:**  
    [10 major freeCodeCamp improvements that are live now](https://forum.freecodecamp.org/t/10-major-freecodecamp-improvements-that-are-live-now/192130)  
    [My tips and tricks that helped me get a Dev Job](https://forum.freecodecamp.org/t/my-tips-and-tricks-that-helped-me-get-a-dev-job/200761)
    - **Udacity Nanodegree:**  
    ARIA  
    Style  
-   - **Project:**
+   - **Project:**  
    Restaurant Review App
    - **ACHIEVEMENT**  
    freeCodeCamp - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)
