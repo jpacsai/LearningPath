@@ -137,3 +137,13 @@
    - **ACHIEVEMENT**  
    freeCodeCamp - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)
 ***
+### **20/06** - `javascript`  
+   - **Course:**  
+      - freeCodeCamp:  
+         - Applied Visual Design  
+   - **Videos:**  
+     - Fun Fun Functions: Functional programming in JavaScript  
+       - 7 / 12 [Recursion](https://www.youtube.com/watch?v=k7-N8R0-KY4&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=7)
+   - **Project:**  
+   Restaurant Review App
+***
