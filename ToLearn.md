@@ -1,19 +1,27 @@
 # Subjects to research / learn:
 
-## JavaScript:
-- Recursion
-- Sorting
-- Patterns
-- Functional Programming
-- Debugging
-- RegEx
+To complete a subject, read/watch at least 3 sources 🌑 -> 🌓 -> 🌕
+
+## JavaScript:  
+| Subject:               | Theory | Practice |
+| --------               | :----: | :------: |
+| Recursion              | 🌑
+| Sorting                |
+| Patterns               |
+| Functional Programming |
+| Debugging              |
+| RegEx                  |
 
 ## CSS:
-- BEM
-- Sass
-- Relative units
-- css variables
+| Subject:               | Theory | Practice |
+| --------               | :----: | :------: |
+| BEM                    |
+| Sass                   |
+| Relative units         |
+| CSS variables          |
 
 ## Misc.
-- SEO principles
-- Agile Methodology
+| Subject:               | Theory | Practice |
+| --------               | :----: | :------: |
+| SEO principles         |
+| Agile Methodology      |
