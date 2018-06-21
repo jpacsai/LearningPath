@@ -147,3 +147,13 @@
    - **Project:**  
    Restaurant Review App
 ***
+### **21/06** - `javascript`  
+   - **Course:**  
+      - freeCodeCamp:  
+         - Applied Accessibility  
+   - **Videos:**  
+     - Fun Fun Functions: Functional programming in JavaScript  
+       - 8 / 12 [Promises](https://www.youtube.com/watch?v=k7-N8R0-KY4&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=8)
+   - **Project:**  
+   Restaurant Review App
+***
