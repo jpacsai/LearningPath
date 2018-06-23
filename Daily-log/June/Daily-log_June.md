@@ -157,3 +157,10 @@
    - **Project:**  
    Restaurant Review App
 ***
+### **22/06** - `javascript`  
+   - **Course:**  
+      - freeCodeCamp:  
+         - CSS Flexbox  
+   - **Project:**  
+   Restaurant Review App
+***
