@@ -23,8 +23,8 @@
 | **19** | Udacity, freeCodeCamp |       | 2       |           | Restaurant Review App | [freeCodeCamp Certificate](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)
 | **20** | freeCodeCamp          | 1     |         |           | Restaurant Review App |
 | **21** | freeCodeCamp          | 1     |         |           | Restaurant Review App |
-| **22** |
-| **23** |
+| **22** | freeCodeCamp          |       |         |           | Restaurant Review App |
+| **23** | freeCodeCamp          |       | 1       |           | Restaurant Review App |
 | **24** |
 | **25** |
 | **26** |
