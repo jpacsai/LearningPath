@@ -43,7 +43,7 @@
         - [x] [Basic](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Basic/dist/index.html)
         - [x] [Premium Edition](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition/dist/)
         - [x] [Premium Pro Edition](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition_Pro/dist/)
-     - [ ] Restaurant Reviews App  
+     - [ ] Restaurant Reviews App :hourglass_flowing_sand: 
   - **5.&nbsp;Building with React:**  
      - [ ] MyReads -a book tracking app
      - [ ] Neighborhood Map  
@@ -53,7 +53,7 @@
    - [x] Obligatory Welcome Video
    - [x] WTF is Sass?
    - [x] How to install and compile Sass?
-   - [ ] Download the course files
+   - [x] Download the course files
    - [ ] Sass tools and editors
    - [ ] Code your first Sass website
    - [ ] Sass best practices
@@ -116,10 +116,10 @@
     - [x] Basic HTML and HTML5 
     - [X] Basic CSS
     - [x] Applied Visual Design
-    - [ ] Applied Accessibility
-    - [ ] Responsive Web Design Principles
-    - [ ] CSS Flexbox
-    - [ ] CSS Grid
+    - [x] Applied Accessibility
+    - [x] Responsive Web Design Principles
+    - [x] CSS Flexbox
+    - [x] CSS Grid
     - [ ] **Responsive Web Design Projects:**
       - [x] [Tribute page](https://jpacsai.github.io/freeCodeCamp/BasicProjects/Tribute_page/)
       - [ ] Survey Form
