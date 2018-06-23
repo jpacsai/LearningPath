@@ -1,7 +1,7 @@
 # Summary - June
 
-| Date   | Course                | Video | Article | Excercise | Project | Achievements |
-| :----: | :-------------------: | :---: | :-----: | :-------: | :-----: | :----------: |
+| Date   | Course                | Video | Article | Excercise |  Project | Book | Achievements |
+| :----: | :-------------------: | :---: | :-----: | :-------: | :------: | :--: | :----------: |
 | **01** | Udacity               | 1     |         | 1
 | **02** | Udacity               |
 | **03** | Udacity               |
@@ -20,7 +20,7 @@
 | **16** | Udacity               | 1     | 3
 | **17** |
 | **18** | Udacity               |
-| **19** | Udacity, freeCodeCamp |       | 2       |           | Restaurant Review App | [freeCodeCamp Certificate](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)
+| **19** | Udacity, freeCodeCamp |       | 2       |           | Restaurant Review App | | [freeCodeCamp Certificate](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)
 | **20** | freeCodeCamp          | 1     |         |           | Restaurant Review App |
 | **21** | freeCodeCamp          | 1     |         |           | Restaurant Review App |
 | **22** | freeCodeCamp          |       |         |           | Restaurant Review App |
