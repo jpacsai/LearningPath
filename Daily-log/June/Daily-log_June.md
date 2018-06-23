@@ -125,7 +125,7 @@
    - **Udacity Nanodegree:**  
    Navigating Content
 ***
-### **19/06** - `javascript`  
+### **19/06** - `javascript` `css`  
    - **Articles:**  
    [10 major freeCodeCamp improvements that are live now](https://forum.freecodecamp.org/t/10-major-freecodecamp-improvements-that-are-live-now/192130)  
    [My tips and tricks that helped me get a Dev Job](https://forum.freecodecamp.org/t/my-tips-and-tricks-that-helped-me-get-a-dev-job/200761)
@@ -137,7 +137,7 @@
    - **ACHIEVEMENT**  
    freeCodeCamp - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)
 ***
-### **20/06** - `javascript`  
+### **20/06** - `javascript` `css`  
    - **Course:**  
       - freeCodeCamp:  
          - Applied Visual Design  
@@ -147,7 +147,7 @@
    - **Project:**  
    Restaurant Review App
 ***
-### **21/06** - `javascript`  
+### **21/06** - `html` `css` `javascript`  
    - **Course:**  
       - freeCodeCamp:  
          - Applied Accessibility  
@@ -157,10 +157,19 @@
    - **Project:**  
    Restaurant Review App
 ***
-### **22/06** - `javascript`  
+### **22/06** - `javascript` `css`  
    - **Course:**  
       - freeCodeCamp:  
          - CSS Flexbox  
+   - **Project:**  
+   Restaurant Review App
+***
+### **23/06** - `javascript` `css`  
+   - **Course:**  
+      - freeCodeCamp:  
+         - CSS Grid  
+   - **Articles:**  
+   [4 Things you should prepare before working as a Junior FrontEnd developer / Intern](https://codeburst.io/4-things-you-should-prepare-before-working-as-a-junior-frontend-developer-intern-c8fd6cf382b3)
    - **Project:**  
    Restaurant Review App
 ***
