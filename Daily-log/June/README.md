@@ -25,7 +25,7 @@
 | **21** | freeCodeCamp          | 1     |         |           | Restaurant Review App |
 | **22** | freeCodeCamp          |       |         |           | Restaurant Review App |
 | **23** | freeCodeCamp          |       | 1       |           | Restaurant Review App |
-| **24** |
+| **24** |                       |       | 1       |           | Restaurant Review App |
 | **25** |
 | **26** |
 | **27** |
