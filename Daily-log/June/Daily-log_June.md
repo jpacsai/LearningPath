@@ -173,3 +173,9 @@
    - **Project:**  
    Restaurant Review App
 ***
+### **24/06** - `javascript`  
+   - **Articles:**  
+   [Getting Started with Website Accessibility](https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92)
+   - **Project:**  
+   Restaurant Review App
+***
