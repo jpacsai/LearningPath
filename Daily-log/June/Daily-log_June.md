@@ -187,9 +187,9 @@
 ***
 ### **26/06** - `javascript` `devTools`  
    - **Articles:**  
-   [5 Projects To Complete When Starting to Learn Front-End Web Development](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178)
-   [8 top must-use tools to boost your web development workflow](https://hackernoon.com/8-top-must-use-tools-to-boost-your-web-development-workflow-de44018a7b98)
-   [Web Development - am I doing this right?](https://blog.usejournal.com/web-development-am-i-doing-this-right-ff857a22fa18)
+   [5 Projects To Complete When Starting to Learn Front-End Web Development](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178)  
+   [8 top must-use tools to boost your web development workflow](https://hackernoon.com/8-top-must-use-tools-to-boost-your-web-development-workflow-de44018a7b98)  
+   [Web Development - am I doing this right?](https://blog.usejournal.com/web-development-am-i-doing-this-right-ff857a22fa18)  
    - **Project:**  
    Restaurant Review App
 ***
