@@ -179,3 +179,9 @@
    - **Project:**  
    Restaurant Review App
 ***
+### **25/06** - `javascript` `devTools`  
+   - **Articles:**  
+   [Increase your web development skill-set: 150 animated tips on Chrome DevTools](https://medium.com/dev-channel/increase-your-web-development-skill-set-150-animated-tips-on-chrome-devtools-4a30155e6b8e)
+   - **Project:**  
+   (Helping a classmate with her Memory Game App)
+***
