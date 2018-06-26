@@ -190,6 +190,7 @@
    [5 Projects To Complete When Starting to Learn Front-End Web Development](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178)  
    [8 top must-use tools to boost your web development workflow](https://hackernoon.com/8-top-must-use-tools-to-boost-your-web-development-workflow-de44018a7b98)  
    [Web Development - am I doing this right?](https://blog.usejournal.com/web-development-am-i-doing-this-right-ff857a22fa18)  
+   [Web Development Top 10 for the Past Year (v.2017)](https://medium.mybridge.co/web-development-top-10-for-the-past-year-v-2017-aa285515676e)  
    - **Project:**  
-   Restaurant Review App
+   (Helping a classmate with her Memory Game App)
 ***
