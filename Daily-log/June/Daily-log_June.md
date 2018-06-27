@@ -194,3 +194,9 @@
    - **Project:**  
    (Helping a classmate with her Memory Game App)
 ***
+### **27/06** - `javascript` `devTools`  
+   - **Articles:**  
+   [Adding a Service Worker and Offline into your Web App](https://developers.google.com/web/fundamentals/codelabs/offline/)  
+   - **Project:**  
+   Restaurant Review App
+***
