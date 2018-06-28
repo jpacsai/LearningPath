@@ -185,7 +185,7 @@
    - **Project:**  
    (Helping a classmate with her Memory Game App)
 ***
-### **26/06** - `javascript` `devTools`  
+### **26/06** - `javascript`  
    - **Articles:**  
    [5 Projects To Complete When Starting to Learn Front-End Web Development](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178)  
    [8 top must-use tools to boost your web development workflow](https://hackernoon.com/8-top-must-use-tools-to-boost-your-web-development-workflow-de44018a7b98)  
@@ -194,13 +194,13 @@
    - **Project:**  
    (Helping a classmate with her Memory Game App)
 ***
-### **27/06** - `javascript` `devTools`  
+### **27/06** - `javascript`  
    - **Articles:**  
    [Adding a Service Worker and Offline into your Web App](https://developers.google.com/web/fundamentals/codelabs/offline/)  
    - **Project:**  
    Restaurant Review App
 ***
-### **28/06** - `javascript` `devTools`  
+### **28/06** - `javascript`  
    - **Articles:**  
    [A beginner’s guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)  
    - **Project:**  
