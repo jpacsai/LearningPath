@@ -200,3 +200,9 @@
    - **Project:**  
    Restaurant Review App
 ***
+### **28/06** - `javascript` `devTools`  
+   - **Articles:**  
+   [A beginner’s guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)  
+   - **Project:**  
+   Restaurant Review App
+***
