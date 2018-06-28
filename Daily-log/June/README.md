@@ -29,7 +29,7 @@
 | **25** |                       |       | 1       |           | helping classmate     |
 | **26** |                       |       | 4       |           | helping classmate     |
 | **27** |                       |       | 1       |           | Restaurant Review App |
-| **28** |
+| **28** |                       | 1     | 2       |           | Restaurant Review App |
 | **29** |
 | **30** |
 
