@@ -202,7 +202,8 @@
 ***
 ### **28/06** - `javascript`  
    - **Articles:**  
-   [A beginner’s guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6)  
+   [A beginner’s guide to Service Workers](https://medium.com/samsung-internet-dev/a-beginners-guide-to-service-workers-f76abf1960f6) 
+   [Making a Simple Site Work Offline with ServiceWorker](https://css-tricks.com/serviceworker-for-offline/)
    - **Project:**  
    Restaurant Review App
 ***
