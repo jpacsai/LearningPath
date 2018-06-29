@@ -38,14 +38,14 @@
   - **3.&nbsp;Exploring JS - Objects, Tools and Testing**  
      - [x] [Classic Arcade Game clone](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Arcade_Game/)   
      - [x] Feed Reader testing   
-  - **4.&nbsp;Front End Applications:** :hourglass_flowing_sand:
+  - **4.&nbsp;Front End Applications:** 
      - [x] Cat Clicker:
         - [x] [Basic](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Basic/dist/index.html)
         - [x] [Premium Edition](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition/dist/)
         - [x] [Premium Pro Edition](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition_Pro/dist/)
-     - [ ] Restaurant Reviews App :hourglass_flowing_sand: 
-  - **5.&nbsp;Building with React:**  
-     - [ ] MyReads -a book tracking app
+     - [x] Restaurant Reviews App  
+  - **5.&nbsp;Building with React:** :hourglass_flowing_sand:  
+     - [ ] MyReads - a book tracking app
      - [ ] Neighborhood Map  
      
 - ### [Brad Hussey - Learn Sass](https://www.youtube.com/playlist?list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR)  
@@ -130,7 +130,7 @@
     - [x] Basic JavaScript
     - [ ] ES6
     - [ ] Regular Expressions
-    - [ ] Debugging
+    - [x] Debugging
     - [ ] Basic Data Structures
     - [ ] Basic Algorithm Scripting
     - [ ] Object Oriented Programming
