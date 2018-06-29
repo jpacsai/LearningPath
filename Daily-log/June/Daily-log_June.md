@@ -212,6 +212,8 @@
 ***
 ### **29/06** - `javascript`
    - **Course:**  
+      - freeCodeCamp:  
+         - Debugging (Javascript Algorithms And Data Structures) 
       - Udacity Nanodegree:  
          - Why React?  
    - **Articles:**  
