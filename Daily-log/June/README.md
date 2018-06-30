@@ -1,7 +1,7 @@
 # Summary - June
 
-| Date   | Course                | Video | Article | Excercise |  Project | Book | Achievements |
-| :----: | :-------------------: | :---: | :-----: | :-------: | :------: | :--: | :----------: |
+| Date   | Course                | Video | Article | Exercise |  Project | Book | Achievement |
+| :----: | :-------------------: | :---: | :-----: | :------: | :------: | :--: | :---------: |
 | **01** | Udacity               | 1     |         | 1
 | **02** | Udacity               |
 | **03** | Udacity               |
@@ -20,16 +20,16 @@
 | **16** | Udacity               | 1     | 3
 | **17** |
 | **18** | Udacity               |
-| **19** | Udacity, freeCodeCamp |       | 2       |           | Restaurant Review App | | [freeCodeCamp Certificate](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)
-| **20** | freeCodeCamp          | 1     |         |           | Restaurant Review App |
-| **21** | freeCodeCamp          | 1     |         |           | Restaurant Review App |
-| **22** | freeCodeCamp          |       |         |           | Restaurant Review App |
-| **23** | freeCodeCamp          |       | 1       |           | Restaurant Review App |
-| **24** |                       |       | 1       |           | Restaurant Review App |
-| **25** |                       |       | 1       |           | helping classmate     |
-| **26** |                       |       | 4       |           | helping classmate     |
-| **27** |                       |       | 1       |           | Restaurant Review App |
-| **28** |                       | 1     | 2       |           | Restaurant Review App | 
-| **29** | Udacity, freeCodeCamp |       | 1       |           |                       | | [Restaurant Reviews App](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Restaurant_Review_App/) accepted
+| **19** | Udacity, freeCodeCamp |       | 2       |          | Restaurant Review App | | [freeCodeCamp Certificate](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)
+| **20** | freeCodeCamp          | 1     |         |          | Restaurant Review App |
+| **21** | freeCodeCamp          | 1     |         |          | Restaurant Review App |
+| **22** | freeCodeCamp          |       |         |          | Restaurant Review App |
+| **23** | freeCodeCamp          |       | 1       |          | Restaurant Review App |
+| **24** |                       |       | 1       |          | Restaurant Review App |
+| **25** |                       |       | 1       |          | helping classmate     |
+| **26** |                       |       | 4       |          | helping classmate     |
+| **27** |                       |       | 1       |          | Restaurant Review App |
+| **28** |                       | 1     | 2       |          | Restaurant Review App | 
+| **29** | Udacity, freeCodeCamp |       | 1       |          |                       | | [Restaurant Reviews App](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Restaurant_Review_App/) accepted
 | **30** | Udacity               |
 
