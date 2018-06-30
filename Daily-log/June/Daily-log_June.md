@@ -219,3 +219,8 @@
    - **Articles:**  
    [Mistakes I’ve made as a junior developer — and how you can avoid them](https://medium.freecodecamp.org/mistakes-i-have-made-as-a-junior-developer-85260bdb992f)
 ***
+### **30/06** - `javascript`
+   - **Course:**  
+      - Udacity Nanodegree:  
+         - Rendering UI with React  
+***
