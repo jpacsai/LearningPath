@@ -217,9 +217,5 @@
       - Udacity Nanodegree:  
          - Why React?  
    - **Articles:**  
-   
-   - **Videos:**  
-     
-   - **Project:**  
-   
+   [Mistakes I’ve made as a junior developer — and how you can avoid them](https://medium.freecodecamp.org/mistakes-i-have-made-as-a-junior-developer-85260bdb992f)
 ***
