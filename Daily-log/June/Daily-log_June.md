@@ -262,6 +262,8 @@
          - Why React?  
    - 📰 **Articles:**  
    [Mistakes I’ve made as a junior developer — and how you can avoid them](https://medium.freecodecamp.org/mistakes-i-have-made-as-a-junior-developer-85260bdb992f)
+   - 🏆 **ACHIEVEMENT**  
+   [Restaurant Reviews App](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Restaurant_Review_App/) project reviewed and accepted
 ***
 
 ### **30/06** - `javascript`
