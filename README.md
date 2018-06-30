@@ -43,7 +43,7 @@
         - [x] [Basic](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Basic/dist/index.html)
         - [x] [Premium Edition](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition/dist/)
         - [x] [Premium Pro Edition](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition_Pro/dist/)
-     - [x] Restaurant Reviews App  
+     - [x] [Restaurant Reviews App](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Restaurant_Review_App/)  
   - **5.&nbsp;Building with React:** :hourglass_flowing_sand:  
      - [ ] MyReads - a book tracking app
      - [ ] Neighborhood Map  
