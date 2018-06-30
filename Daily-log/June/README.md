@@ -29,7 +29,7 @@
 | **25** |                       |       | 1       |           | helping classmate     |
 | **26** |                       |       | 4       |           | helping classmate     |
 | **27** |                       |       | 1       |           | Restaurant Review App |
-| **28** |                       | 1     | 2       |           | Restaurant Review App | | [Restaurant Reviews App](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Restaurant_Review_App/) accepted
-| **29** |
-| **30** |
+| **28** |                       | 1     | 2       |           | Restaurant Review App | 
+| **29** | Udacity, freeCodeCamp |       | 1       |           |                       | | [Restaurant Reviews App](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Restaurant_Review_App/) accepted
+| **30** | Udacity               |
 
