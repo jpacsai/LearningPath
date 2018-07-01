@@ -254,7 +254,7 @@
    Restaurant Review App
 ***
 
-### **29/06** - `javascript`
+### **29/06** - `javascript` `react`
    - 📚 **Course:**  
       - freeCodeCamp:  
          - Debugging (Javascript Algorithms And Data Structures) 
@@ -266,7 +266,7 @@
    [Restaurant Reviews App](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Restaurant_Review_App/) project reviewed and accepted
 ***
 
-### **30/06** - `javascript`
+### **30/06** - `javascript` `react`
    - 📚 **Course:**  
       - Udacity Nanodegree:  
          - Rendering UI with React  
