@@ -12,3 +12,13 @@
    [Functional JavaScript: Function Composition For Every Day Use](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10) 
 ***
 
+### **02/07** - `javascript` `react`
+   - 📚 **Course:**
+      - Udacity Nanodegree:  
+         - State Managment
+   - 📰 **Article:**  
+   [Learn to code in 2018, get hired, and have fun along the way](https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)   
+   [Don’t be a Junior Developer](https://hackernoon.com/dont-be-a-junior-developer-608c255b3056)  
+   [Beginners guide to webpack — How to start a basic application with webpack 2](https://medium.com/@ahsan.ayaz/beginners-guide-to-webpack-how-to-start-a-basic-application-with-webpack-2-ebed3172fa8c)  
+***
+
