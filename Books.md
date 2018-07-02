@@ -13,15 +13,17 @@
 - [ ] &nbsp;Kyle Simpson - You Don't Know JS series:
     - [x] &nbsp;[**Up & Going**](https://www.amazon.com/You-Dont-Know-JS-Going/dp/1491924462/ref=sr_1_1?s=books&ie=UTF8&qid=1516363692&sr=1-1&keywords=You+Don%27t+Know+JS%3A+Up+%26+Going) 
     - [x] &nbsp;[**Scope & Closures**](https://www.amazon.com/You-Dont-Know-JS-Closures/dp/1449335586)
-    - [ ] &nbsp;[**this & Object Prototypes**](https://www.amazon.com/You-Dont-Know-JS-Prototypes/dp/1491904151/ref=sr_1_1?s=books&ie=UTF8&qid=1516363945&sr=1-1&keywords=this+%26+Object+Prototypes)  :hourglass_flowing_sand:  
+    - [ ] &nbsp;[**this & Object Prototypes**](https://www.amazon.com/You-Dont-Know-JS-Prototypes/dp/1491904151/ref=sr_1_1?s=books&ie=UTF8&qid=1516363945&sr=1-1&keywords=this+%26+Object+Prototypes)    
     - [ ] &nbsp;[**Types & Grammar**](https://www.amazon.com/gp/product/B00SXHFTO4/ref=series_dp_rw_ca_6?ie=UTF8&qid=1516370732&sr=1-7)
     - [ ] &nbsp;[**Async & Performance**](https://www.amazon.com/gp/product/B00TXVCJ7O/ref=series_dp_rw_ca_4?ie=UTF8&qid=1516370732&sr=1-7)
     - [ ] &nbsp;[**ES6 & Beyond**](https://www.amazon.com/gp/product/B019HRGOPQ/ref=series_dp_rw_ca_5?ie=UTF8&qid=1516370732&sr=1-7)
 - [ ] &nbsp;[Reg “raganwald” Braithwaite - **JavaScript Allongé, the "Six" Edition**](https://leanpub.com/javascriptallongesix)
 - [ ] &nbsp;[Marijn Haverbeke - **Eloquent JavaScript**](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_1?ie=UTF8&qid=1516370547&sr=8-1&keywords=eloquent+javascript)
-- [ ] &nbsp;[David Sawyer McFarland - **JavaScript & jQuery**: The Missing Manual](https://www.amazon.com/JavaScript-jQuery-David-Sawyer-McFarland/dp/1491947071/ref=sr_1_1?s=books&ie=UTF8&qid=1516576138&sr=1-1&keywords=javascript+the+missing+manual)
+- [ ] &nbsp;[David Sawyer McFarland - **JavaScript & jQuery**: The Missing Manual](https://www.amazon.com/JavaScript-jQuery-David-Sawyer-McFarland/dp/1491947071/ref=sr_1_1?s=books&ie=UTF8&qid=1516576138&sr=1-1&keywords=javascript+the+missing+manual)  
 
-- [ ] &nbsp;[Jonathan LeBlanc - **Identity and Data Security for Web Development: Best Practices**](https://www.amazon.com/Identity-Data-Security-Web-Development/dp/1491937017/ref=sr_1_1?ie=UTF8&qid=1516576051&sr=8-1&keywords=Identity+and+Data+Security+for+Web+Development%3A+Best+Practices)
+- [ ] &nbsp;[Jonathan LeBlanc - **Identity and Data Security for Web Development: Best Practices**](https://www.amazon.com/Identity-Data-Security-Web-Development/dp/1491937017/ref=sr_1_1?ie=UTF8&qid=1516576051&sr=8-1&keywords=Identity+and+Data+Security+for+Web+Development%3A+Best+Practices)  
+
+- [ ] &nbsp;[Robert C. Martin - **Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM) :hourglass_flowing_sand:
 
 ***
 ## Bootstrap, WordPress
