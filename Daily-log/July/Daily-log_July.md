@@ -3,7 +3,7 @@
 ### **01/07** - `javascript` `react`
    - 📚 **Course:**
       - Udacity Nanodegree:  
-         - State Managment
+         - State Management
    - 📺 **Video:**  
      - Fun Fun Functions: Functional programming in JavaScript  
        - 10 / 12 [Functors](https://www.youtube.com/watch?v=YLIH8TKbAh4&index=9&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
@@ -15,7 +15,7 @@
 ### **02/07** - `javascript` `react`
    - 📚 **Course:**
       - Udacity Nanodegree:  
-         - State Managment
+         - State Management
    - 📰 **Article:**  
    [Learn to code in 2018, get hired, and have fun along the way](https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)   
    [Don’t be a Junior Developer](https://hackernoon.com/dont-be-a-junior-developer-608c255b3056)  
