@@ -31,7 +31,9 @@
          - Render UI with External Data
       - freeCodeCamp:
          - ES6
+         - React
    - 💪 **Exercise:**  
-   
+      - CodeFights:
+         - Arcade 56 - digitsProduct
 ***
 
