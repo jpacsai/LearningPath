@@ -24,7 +24,7 @@
    [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
 ***
 
-### **03/07** - `javascript` `react` `tool`
+### **03/07** - `javascript` `react`
    - 📚 **Course:**
       - Udacity Nanodegree:  
          - State Management
