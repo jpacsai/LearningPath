@@ -11,6 +11,7 @@ To complete a subject, read/watch at least 3 sources 🌑 -> 🌓 -> 🌕
 | Functional Programming |
 | Debugging              |
 | RegEx                  |
+| apply()                | 🌑
 
 ## CSS:
 | Subject:               | Theory | Practice |
