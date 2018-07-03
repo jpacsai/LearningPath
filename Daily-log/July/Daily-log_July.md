@@ -24,3 +24,14 @@
    [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
 ***
 
+### **03/07** - `javascript` `react` `tool`
+   - 📚 **Course:**
+      - Udacity Nanodegree:  
+         - State Management
+         - Render UI with External Data
+      - freeCodeCamp:
+         - ES6
+   - 💪 **Exercise:**  
+   
+***
+
