@@ -37,3 +37,17 @@
          - Arcade 56 - [digitsProduct](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/56_digitsProduct.js)
 ***
 
+### **04/07** - `javascript` `react` `tool`
+   - 📚 **Course:**
+      - freeCodeCamp:
+         - React
+   - 📺 **Video:**  
+     - Fun Fun Functions: Functional programming in JavaScript  
+       - 11 / 12 [Functors: I was WRONG!](https://www.youtube.com/watch?v=DisD9ftUyCk&index=10&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+   - 📰 **Article:**  
+   [Learn these JavaScript fundamentals and become a better developer](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf)   
+   [How point-free composition will make you a better functional programmer](https://medium.freecodecamp.org/how-point-free-composition-will-make-you-a-better-functional-programmer-33dcb910303a)  
+   - 📘 **Book:**  
+   [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
+***
+
