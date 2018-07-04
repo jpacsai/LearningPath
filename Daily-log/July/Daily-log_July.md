@@ -34,6 +34,6 @@
          - React
    - 💪 **Exercise:**  
       - CodeFights:
-         - Arcade 56 - digitsProduct
+         - Arcade 56 - [digitsProduct](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/56_digitsProduct.js)
 ***
 
