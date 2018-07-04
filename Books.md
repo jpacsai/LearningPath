@@ -46,7 +46,9 @@
 - [ ] [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535)
 - [ ] [The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition)](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684)
 - [ ] [Design Elements, Color Fundamentals: A Graphic Style Manual for Understanding Color in Design](https://www.amazon.co.uk/Design-Elements-Color-Fundamentals-Understanding/dp/1592537197/ref=sr_1_3?s=books&ie=UTF8&qid=1530730975&sr=1-3&keywords=the+elements+of+color)
-
+- [ ] [Know Your Onions Web design: Jet propel yourself into the driving](https://www.amazon.co.uk/Know-Your-Onions-Web-design/dp/9063693125/ref=pd_bxgy_14_2?_encoding=UTF8&pd_rd_i=9063693125&pd_rd_r=569630ab-7fbd-11e8-9d81-136536af47d5&pd_rd_w=Rl8L0&pd_rd_wg=dnmtj&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=3332058357179395958&pf_rd_r=RMHNKBSWKXNTHMFA2FQ2&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=RMHNKBSWKXNTHMFA2FQ2)
+- [ ] [Creating a Brand Identity: A Guide for Designers](https://www.amazon.co.uk/Creating-Brand-Identity-Guide-Designers/dp/1780675623/ref=pd_bxgy_14_3?_encoding=UTF8&pd_rd_i=1780675623&pd_rd_r=569630ab-7fbd-11e8-9d81-136536af47d5&pd_rd_w=Rl8L0&pd_rd_wg=dnmtj&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=3332058357179395958&pf_rd_r=RMHNKBSWKXNTHMFA2FQ2&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=RMHNKBSWKXNTHMFA2FQ2)
+- [ ] [Graphic Design Rules: 365 Essential Design Dos and Don'ts](https://www.amazon.co.uk/Graphic-Design-Rules-Essential-Donts/dp/0711233462/ref=pd_sim_14_7?_encoding=UTF8&pd_rd_i=0711233462&pd_rd_r=569630ab-7fbd-11e8-9d81-136536af47d5&pd_rd_w=jCkAu&pd_rd_wg=dnmtj&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=3274180622111699416&pf_rd_r=RMHNKBSWKXNTHMFA2FQ2&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=RMHNKBSWKXNTHMFA2FQ2)
 
 ***
 ## Miscellaneous
