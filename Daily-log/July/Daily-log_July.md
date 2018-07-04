@@ -37,7 +37,7 @@
          - Arcade 56 - [digitsProduct](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/56_digitsProduct.js)
 ***
 
-### **04/07** - `javascript` `react` `tool`
+### **04/07** - `javascript` `react`
    - 📚 **Course:**
       - freeCodeCamp:
          - React
