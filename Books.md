@@ -34,6 +34,19 @@
 ## Web Design, UX
 - [ ] &nbsp;[Jason Beaird - **The Principles of Beautiful Web Design: Designing Great Web Sites is Not Rocket Science!**](https://www.amazon.com/Principles-Beautiful-Web-Design-Designing/dp/0992279445/ref=sr_1_1?s=books&ie=UTF8&qid=1516576294&sr=1-1&keywords=The+Principles+of+Beautiful+Web+Design%3A+Designing+Great+Web+Sites+is+Not+Rocket+Science%21)
 - [ ] &nbsp;[Jaime Levy - **UX Strategy: How to Devise Innovative Digital Products that People Want**](https://www.amazon.com/UX-Strategy-Innovative-Digital-Products/dp/1449372864/ref=sr_1_1?s=books&ie=UTF8&qid=1516576239&sr=1-1&keywords=UX+Strategy%3A+How+to+Devise+Innovative+Digital+Products+that+People+Want)
+- [ ] [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter) 3rd Edition](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=dp_ob_title_bk)
+- [ ] [The Non-Designer's Design Book (4th Edition)](https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151)
+- [ ] [Steal Like an Artist: 10 Things Nobody Told You About Being Creative](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253)
+- [ ] [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=dp_ob_title_bk)
+- [ ] [Making and Breaking the Grid, Second Edition, Updated and Expanded: A Graphic Design Layout Workshop](https://www.amazon.co.uk/Making-Breaking-Second-Updated-Expanded/dp/163159284X/ref=dp_ob_title_bk)
+- [ ] [Thinking with Type, Second Revised and Expanded Edition: A Critical Guide for Designers, Writers, Editors, and Students (Design Briefs)](https://www.amazon.co.uk/Thinking-Type-Second-Revised-Expanded/dp/1568989695)
+- [ ] [The Elements of Typographic Style](https://www.amazon.com/Elements-Typographic-Style-Version-Anniversary/dp/088179211X/ref=dp_ob_title_bk)
+- [ ] [Grid Systems in Graphic Design: A Visual Communication Manual for Graphic Designers, Typographers and Three Dimensional Designers](https://www.amazon.com/Grid-Systems-Graphic-Design-Communication/dp/3721201450)
+- [ ] [The Elements of Color](https://www.amazon.co.uk/Elements-Color-Johannes-Itten/dp/0442240384/ref=sr_1_1?s=books&ie=UTF8&qid=1530730975&sr=1-1&keywords=the+elements+of+color)
+- [ ] [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535)
+- [ ] [The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition)](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684)
+- [ ] [Design Elements, Color Fundamentals: A Graphic Style Manual for Understanding Color in Design](https://www.amazon.co.uk/Design-Elements-Color-Fundamentals-Understanding/dp/1592537197/ref=sr_1_3?s=books&ie=UTF8&qid=1530730975&sr=1-3&keywords=the+elements+of+color)
+
 
 ***
 ## Miscellaneous
