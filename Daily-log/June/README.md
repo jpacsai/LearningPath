@@ -1,4 +1,5 @@
 # Summary - June
+### 👉 [Detailed daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/June/Daily-log_June.md) 👈
 
 | Date   | Course                | Video | Article | Exercise |  Project | Book | Achievement |
 | :----: | :-------------------: | :---: | :-----: | :------: | :------: | :--: | :---------: |
