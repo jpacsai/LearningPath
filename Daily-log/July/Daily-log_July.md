@@ -1,6 +1,7 @@
 # July - 2018
 
-### **01/07** - `javascript` `react`
+## **01-07**  
+`javascript` `react`
    - 📚 **Course:**
       - Udacity Nanodegree:  
          - State Management
@@ -12,7 +13,8 @@
    [Functional JavaScript: Function Composition For Every Day Use](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10) 
 ***
 
-### **02/07** - `javascript` `react` `tool`
+## **02-07**  
+`javascript` `react` `tool`
    - 📚 **Course:**
       - Udacity Nanodegree:  
          - State Management
@@ -24,7 +26,8 @@
    [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
 ***
 
-### **03/07** - `javascript` `react`
+## **03-07**  
+`javascript` `react`
    - 📚 **Course:**
       - Udacity Nanodegree:  
          - State Management
@@ -37,7 +40,8 @@
          - Arcade 56 - [digitsProduct](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/56_digitsProduct.js)
 ***
 
-### **04/07** - `javascript` `react`
+## **04-07**  
+`javascript` `react`
    - 📚 **Course:**
       - freeCodeCamp:
          - React
