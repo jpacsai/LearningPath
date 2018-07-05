@@ -79,8 +79,6 @@
 ## **05-07**  
 `javascript` `react`
    - 📚 **Course:**
-      - Udacity Nanodegree:  
-         - Managing App Location with React Router
       - freeCodeCamp:
          - React
    - 📰 **Article:**  
