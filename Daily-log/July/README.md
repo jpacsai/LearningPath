@@ -7,7 +7,7 @@
 | **[02](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#02-07)**                                            | Nanodegree               |       | 3       |          |         | Clean Code |             |
 | **[03](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#03-07)**                                            | Nanodegree, freeCodeCamp |       |         | 1        |         |            |             |
 | **[04](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#04-07)**                                            | freeCodeCamp             | 1     | 2       |          |         | Clean Code |             |
-| **05** |                          |       |         |          |         |            |             |
+| **[05](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#05-07)**                                            | freeCodeCamp             |       | 5       |          |         |            |             |
 | **06** |                          |       |         |          |         |            |             |
 | **07** |                          |       |         |          |         |            |             |
 | **08** |                          |       |         |          |         |            |             |
