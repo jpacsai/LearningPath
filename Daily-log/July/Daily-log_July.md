@@ -1,5 +1,12 @@
 # July - 2018
 
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [1](#01-07) | [2](#02-07) | [3](#03-07) |  [4](#04-07)  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
+| 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
+
+***
+
 ## **01-07**  
 `javascript` `react`
    - 📚 **Course:**
@@ -10,7 +17,9 @@
        - 10 / 12 [Functors](https://www.youtube.com/watch?v=YLIH8TKbAh4&index=9&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
    - 📰 **Article:**  
    [Learning React With Create-React-App (Part 1)](https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-1-a12e1833fdc)  
-   [Functional JavaScript: Function Composition For Every Day Use](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10) 
+   [Functional JavaScript: Function Composition For Every Day Use](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)  
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
 ***
 
 ## **02-07**  
@@ -23,7 +32,9 @@
    [Don’t be a Junior Developer](https://hackernoon.com/dont-be-a-junior-developer-608c255b3056)  
    [Beginners guide to webpack — How to start a basic application with webpack 2](https://medium.com/@ahsan.ayaz/beginners-guide-to-webpack-how-to-start-a-basic-application-with-webpack-2-ebed3172fa8c)  
    - 📘 **Book:**  
-   [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
+   [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)  
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
 ***
 
 ## **03-07**  
@@ -37,7 +48,9 @@
          - React
    - 💪 **Exercise:**  
       - CodeFights:
-         - Arcade 56 - [digitsProduct](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/56_digitsProduct.js)
+         - Arcade 56 - [digitsProduct](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/56_digitsProduct.js)  
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
 ***
 
 ## **04-07**  
@@ -52,6 +65,8 @@
    [Learn these JavaScript fundamentals and become a better developer](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf)   
    [How point-free composition will make you a better functional programmer](https://medium.freecodecamp.org/how-point-free-composition-will-make-you-a-better-functional-programmer-33dcb910303a)  
    - 📘 **Book:**  
-   [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
+   [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)  
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
 ***
 
