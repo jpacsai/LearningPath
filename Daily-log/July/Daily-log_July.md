@@ -80,7 +80,8 @@
       - freeCodeCamp:
          - React
    - 📰 **Article:**  
-   [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)   
+   [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)  
+   [What does “export default” do in JSX?](https://stackoverflow.com/questions/36426521/what-does-export-default-do-in-jsx/36426988)
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
