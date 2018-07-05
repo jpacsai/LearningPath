@@ -2,7 +2,7 @@
 
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [1](#01-07) | [2](#02-07) | [3](#03-07) |  [4](#04-07)  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
+| [1](#01-07) | [2](#02-07) | [3](#03-07) | [4](#04-07) | [5](#05-07) |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
@@ -66,6 +66,19 @@
    [How point-free composition will make you a better functional programmer](https://medium.freecodecamp.org/how-point-free-composition-will-make-you-a-better-functional-programmer-33dcb910303a)  
    - 📘 **Book:**  
    [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)  
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
+
+## **05-07**  
+`javascript` `react`
+   - 📚 **Course:**
+      - Udacity Nanodegree:  
+         - Managing App Location with React Router
+      - freeCodeCamp:
+         - React
+   - 📰 **Article:**  
+   [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)   
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
