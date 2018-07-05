@@ -132,7 +132,7 @@
     - [ ] Regular Expressions
     - [x] Debugging
     - [ ] Basic Data Structures
-    - [ ] Basic Algorithm Scripting
+    - [x] Basic Algorithm Scripting
     - [ ] Object Oriented Programming
     - [ ] Functional Programming
     - [x] Intermediate Algorithm Scripting
@@ -141,7 +141,7 @@
     - [x] Bootstrap
     - [x] jQuery
     - [ ] Sass
-    - [ ] React
+    - [x] React
     - [ ] Redux
     - [ ] React and Redux
     - [ ] **Front End Libraries Projects**
