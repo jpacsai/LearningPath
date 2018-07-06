@@ -97,6 +97,8 @@
    - 📚 **Course:**
       - Udacity Nanodegree:  
          - Managing App Location with React Router
+   - 📰 **Article:**  
+      - [MDN: Logical Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators#Short-circuit_evaluation)  
          
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
