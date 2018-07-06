@@ -68,7 +68,7 @@
     
 - ### [p1xt-guides: Get Job ready](https://github.com/P1xt/p1xt-guides)  
   28/12/2017 -  
-  [Coursework repository](https://github.com/jpacsai/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md)  
+  [Coursework repository](https://github.com/jpacsai/p1xt-guides#web-development-with-computer-science-foundations---comprehensive)  
   
 - ### [edX : HarvardX - CS50's Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)  
   15/01/2018 -  
