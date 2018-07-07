@@ -103,3 +103,12 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **07-07**  
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - MyReads App
+         
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
