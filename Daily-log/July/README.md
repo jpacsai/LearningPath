@@ -9,7 +9,7 @@
 | **[04](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#04-07)**                                            | freeCodeCamp             | 1     | 2       |          |         | Clean Code |             |
 | **[05](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#05-07)**                                            | freeCodeCamp             |       | 5       |          |         |            |             |
 | **[06](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#06-07)**                                            | Nanodegree               |       | 1       |          |         |            |             |
-| **07** |                          |       |         |          |         |            |             |
+| **[07](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#07-07)**                                            |                          |       |         |          | MyReads App        |            |             |
 | **08** |                          |       |         |          |         |            |             |
 | **09** |                          |       |         |          |         |            |             |
 | **10** |                          |       |         |          |         |            |             |
