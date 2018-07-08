@@ -114,6 +114,9 @@
 ***
 
 ## **08-07**  
+   - 📺 **Video:**  
+     - thenewboston: React JS Tutorials for Beginners
+       - 12 - [Passing Function as Props](https://www.youtube.com/watch?v=szmS_M-BMls)
    - 📰 **Article:**  
       - [Passing Functions to Components](https://reactjs.org/docs/faq-functions.html)
    - 🔨 **Project:**
