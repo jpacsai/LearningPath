@@ -112,3 +112,14 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **08-07**  
+   - 📰 **Article:**  
+      - [Passing Functions to Components](https://reactjs.org/docs/faq-functions.html)
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - MyReads App
+         
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
