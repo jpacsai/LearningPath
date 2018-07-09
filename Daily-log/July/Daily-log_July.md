@@ -126,3 +126,14 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **09-07**  
+   - 📰 **Article:**  
+      - [ReactJs component lifecycle methods — A deep dive](https://hackernoon.com/reactjs-component-lifecycle-methods-a-deep-dive-38275d9d13c0)
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - MyReads App
+         
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
