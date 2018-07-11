@@ -13,7 +13,7 @@
 | **[08](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#08-07)**                                            |                          | 1     | 1       |          | MyReads App        |            |             |
 | **[09](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#09-07)**                                            |                          |       | 1       |          | MyReads App        |            |             |
 | **[10](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#10-07)**                                            |                            |       |         |          | MyReads App        | Eloquent JavaScript |             |
-| **11** | Getting Started with Redux |       | 1       |          | MyReads App        |            |             |
+| **[11](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#11-07)**                                            | Getting Started with Redux |       | 1       |          | MyReads App        |            |             |
 | **12** |                          |       |         |          |         |            |             |
 | **13** |                          |       |         |          |         |            |             |
 | **14** |                          |       |         |          |         |            |             |
