@@ -25,10 +25,8 @@
 | The Odin Project | [Full Stack Curriculum](https://www.theodinproject.com/home) | [repo](https://github.com/jpacsai/TheOdinProject) | ![Progress](http://progressed.io/bar/5) | |
 | [p1xt-guides](https://github.com/P1xt/p1xt-guides) | [Web Development with Computer Science Foundations](https://github.com/P1xt/p1xt-guides/blob/master/wd-cs.md) | [repo](https://github.com/jpacsai/p1xt-guides/blob/master/wd-cs.md) | ![Progress](http://progressed.io/bar/5) | |
 | Brad Hussey | [Learn Sass](https://www.youtube.com/playlist?list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR) | | ![Progress](http://progressed.io/bar/38) | Sass |
-| learn.shayhowe.com | [Learn to Code - HTML & CSS](https://learn.shayhowe.com/html-css/) | | ![Progress](http://progressed.io/bar/50)
-| HTML, CSS |
-
-|<!--
+| learn.shayhowe.com | [Learn to Code - HTML & CSS](https://learn.shayhowe.com/html-css/) | | ![Progress](http://progressed.io/bar/50) | HTML, CSS |
+<!--
 - ### [Udemy - The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)  
   16/02/2017 -  
   _HTML5, CSS3, Bootstrap, JavaScript, jQuery, NodeJS, Express, MongoDB, UI, PassportJS_
