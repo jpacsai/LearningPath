@@ -137,3 +137,14 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **10-07**  
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - MyReads App
+   - 📘 **Book:**  
+   [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_1?ie=UTF8&qid=1516370547&sr=8-1&keywords=eloquent+javascript)
+         
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
