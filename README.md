@@ -49,13 +49,13 @@
   
 - ### [NetAcademia - Web Developer](https://netacademia.hu/webfejleszto)  
   15/09/2017 -  
-  - [x] &nbsp;Bootstrap 4
-  - [ ] &nbsp;jQuery :hourglass_flowing_sand:
-  - [ ] &nbsp;Angular foundations
-  - [ ] &nbsp;Angular Advanced
-  - [ ] &nbsp;Angular Pro
-  - [ ] &nbsp;Ionic
-  - [ ] &nbsp;Electron  
+  - [x] Bootstrap 4
+  - [ ] jQuery :hourglass_flowing_sand:
+  - [ ] Angular foundations
+  - [ ] Angular Advanced
+  - [ ] Angular Pro
+  - [ ] Ionic
+  - [ ] Electron  
 
 - ### [p1xt-guides: Get Job ready](https://github.com/P1xt/p1xt-guides)  
   28/12/2017 -  
@@ -85,18 +85,18 @@
   
 - ### [learn.shayhowe.com : Learn to Code - HTML & CSS](https://learn.shayhowe.com/html-css/)  
   18/02/2018 -  
-  - [x] &nbsp;Lesson 1 - Building Your First Web Page
-  - [x] &nbsp;Lesson 2 - Getting to Know HTML
-  - [x] &nbsp;Lesson 3 - Getting to Know CSS
-  - [x] &nbsp;Lesson 4 - Opening the Box Model
-  - [x] &nbsp;Lesson 5 - Positioning Content
-  - [x] &nbsp;Lesson 6 - Working with Typography
-  - [ ] &nbsp;Lesson 7 - Setting Backgrounds & Gradients
-  - [ ] &nbsp;Lesson 8 - Creating Lists
-  - [ ] &nbsp;Lesson 9 - Adding Media
-  - [ ] &nbsp;Lesson 10 - Building Forms
-  - [ ] &nbsp;Lesson 11 - Organizing Data with Tables
-  - [ ] &nbsp;Lesson 12 - Writing Your Best Code   
+  - [x] Lesson 1 - Building Your First Web Page
+  - [x] Lesson 2 - Getting to Know HTML
+  - [x] Lesson 3 - Getting to Know CSS
+  - [x] Lesson 4 - Opening the Box Model
+  - [x] Lesson 5 - Positioning Content
+  - [x] Lesson 6 - Working with Typography
+  - [ ] Lesson 7 - Setting Backgrounds & Gradients
+  - [ ] Lesson 8 - Creating Lists
+  - [ ] Lesson 9 - Adding Media
+  - [ ] Lesson 10 - Building Forms
+  - [ ] Lesson 11 - Organizing Data with Tables
+  - [ ] Lesson 12 - Writing Your Best Code   
   
 - ### [The Odin Project](https://www.theodinproject.com/home)  
   30/12/2017 -  
