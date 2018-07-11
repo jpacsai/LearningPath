@@ -157,6 +157,10 @@
    - 📚 **Course:**
       - Dan Abramov:  
          - Getting Started with Redux
+   - 📺 **Video:**  
+     - thenewboston: React JS Tutorials for Beginners
+       - 1 - [Getting Started](https://www.youtube.com/watch?v=-AbaV3nrw6E&list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA&index=1)
+       - 2 - [Simple Demo](https://www.youtube.com/watch?v=2NLgQMs2hOw&index=2&list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA)
    - 📰 **Article:**  
       - [Step by Step Guide To Building React Redux Apps](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a)
    - 🔨 **Project:**
