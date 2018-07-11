@@ -114,6 +114,7 @@
 ***
 
 ## **08-07**  
+`javascript` `react`
    - 📺 **Video:**  
      - thenewboston: React JS Tutorials for Beginners
        - 12 - [Passing Function as Props](https://www.youtube.com/watch?v=szmS_M-BMls)
@@ -128,6 +129,7 @@
 ***
 
 ## **09-07**  
+`javascript` `react`
    - 📰 **Article:**  
       - [ReactJs component lifecycle methods — A deep dive](https://hackernoon.com/reactjs-component-lifecycle-methods-a-deep-dive-38275d9d13c0)
    - 🔨 **Project:**
@@ -139,11 +141,27 @@
 ***
 
 ## **10-07**  
+`javascript`
    - 🔨 **Project:**
       - Nanodegree:  
          - MyReads App
    - 📘 **Book:**  
    [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_1?ie=UTF8&qid=1516370547&sr=8-1&keywords=eloquent+javascript)
+         
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
+
+## **11-07**  
+`javascript` `react` `redux`
+   - 📚 **Course:**
+      - Dan Abramov:  
+         - Getting Started with Redux
+   - 📰 **Article:**  
+      - [Step by Step Guide To Building React Redux Apps](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a)
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - MyReads App
          
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
