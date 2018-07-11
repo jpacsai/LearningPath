@@ -1,5 +1,9 @@
 # LearningPath
 
+### 👉 [Daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md) 👈
+
+***
+
 ## Courses I have finished:
 - ### [Codeberry](https://codeberryschool.com/en/)   
   13/10/2017 - 11/01/2017  
@@ -22,8 +26,8 @@
   - [**Responsive Images**](https://eu.udacity.com/course/responsive-images--ud882)  
     27/02/2018  - 02/03/2018
   
-  
 ***
+
 ## Courses I am doing:
 
 - ### [Google-Udacity Front End Nanodegree (Developer Challenge Phase 2)](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
