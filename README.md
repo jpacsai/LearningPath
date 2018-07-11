@@ -5,48 +5,32 @@
 ***
 
 ## Courses I have finished:
-- ### [Codeberry](https://codeberryschool.com/en/)   
-  13/10/2017 - 11/01/2017  
-  _HTML5, CSS3, Bootstrap, JavaScript, git_  
-  [Coursework repository](https://github.com/jpacsai/codeBerrySchool)
- 
-- ### [Google Udacity - Front End Web Developer Scholarship - Phase 1](https://www.udacity.com/google-scholarships)
-  06/11/2017 - 06/02/2018  
-  _HTML5, CSS3, JavaScript, jQuery_  
-  [Coursework repository](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase)
-  
-- ### [Codecademy - Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery)  
-  19/01/2018 - 29/01/2018
 
-- ### [Udacity:](https://eu.udacity.com/)  
-  - [**Intro to Ajax**](https://eu.udacity.com/course/intro-to-ajax--ud110)  
-    29/01/2018  - 04/02/2018  
-  [Coursework repository](https://github.com/jpacsai/Udacity/tree/master/IntroToAjax)  
+| School | Course | Link | Date finished | Skills learnt |
+| :----- | :----- | :--: | :------------ | :------------ |
+| Codeberry | [Front End course](https://codeberryschool.com/en/) | [repo](https://github.com/jpacsai/codeBerrySchool) | 11/01/2017 | HTML5, CSS3, Bootstrap, JavaScript, git |
+| Codecademy | [Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery) | | 29/01/2018 | jQuery |
+| Google Udacity Scholarship | [Front End Web Developer Challenge Phase](https://www.udacity.com/google-scholarships) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase) | 06/02/2018 | HTML5, CSS3, JavaScript, jQuery |
+| Udacity | [Intro to Ajax](https://eu.udacity.com/course/intro-to-ajax--ud110) | [repo](https://github.com/jpacsai/Udacity/tree/master/IntroToAjax) | 04/02/2018 | |
+| Udacity | [Responsive Images](https://eu.udacity.com/course/responsive-images--ud882) |  | 02/03/2018 | |
 
-  - [**Responsive Images**](https://eu.udacity.com/course/responsive-images--ud882)  
-    27/02/2018  - 02/03/2018
-  
 ***
 
 ## Courses I am doing:
 
-- ### [Google-Udacity Front End Nanodegree (Developer Challenge Phase 2)](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
-  19/02/2017 -  
-  _HTML5, CSS3, git, JavaScript, Jasmine, React.js_   
-  [Coursework repository](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree)  
-  
-- ### [freeCodeCamp - Front End Development Path](https://www.freecodecamp.org/)  
-  24/10/2017 -  
-  [Coursework repository](https://github.com/jpacsai/freeCodeCamp)  
-  
-- ### [edX : PennX - Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)  
-  22/01/2018 -  
-  [Coursework repository](https://github.com/jpacsai/PennX_Javascript_SD4x)  
-  
+| School | Course | Link | Progress | Skills learnt |
+| :----- | :----- | :--: | :------- | :------------ |
+| Google Udacity Scholarship | [Front End Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree) | ![Progress](http://progressed.io/bar/95) | HTML5, CSS3, git, JavaScript, Jasmine, Gulp, React |
+| [freeCodeCamp](https://www.freecodecamp.org/) | Front End Development Path | [repo](https://github.com/jpacsai/freeCodeCamp) | ![Progress](http://progressed.io/bar/33) | |
+| edX: University of Pennsylvania | [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) | [repo](https://github.com/jpacsai/PennX_Javascript_SD4x) | ![Progress](http://progressed.io/bar/50) | JavaScript |
+| edX: Harvard University | [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) | [repo](https://github.com/jpacsai/HarvardX_CS50x) | ![Progress](http://progressed.io/bar/25) | Scratch, C |
+| The Odin Project | [Full Stack Curriculum](https://www.theodinproject.com/home) | [repo](https://github.com/jpacsai/TheOdinProject) | ![Progress](http://progressed.io/bar/5) | |
+
+
+<!--  
 - ### [Udemy - The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)  
   16/02/2017 -  
-  _HTML5, CSS3, Bootstrap, JavaScript, jQuery, NodeJS, Express, MongoDB, UI, PassportJS_  
-  
+  _HTML5, CSS3, Bootstrap, JavaScript, jQuery, NodeJS, Express, MongoDB, UI, PassportJS_
 - ### [NetAcademia - Web Developer](https://netacademia.hu/webfejleszto)  
   15/09/2017 -  
   - [x] Bootstrap 4
@@ -55,16 +39,10 @@
   - [ ] Angular Advanced
   - [ ] Angular Pro
   - [ ] Ionic
-  - [ ] Electron  
-
+  - [ ] Electron 
 - ### [p1xt-guides: Get Job ready](https://github.com/P1xt/p1xt-guides)  
   28/12/2017 -  
   [Coursework repository](https://github.com/jpacsai/p1xt-guides#web-development-with-computer-science-foundations---comprehensive)  
-  
-- ### [edX : HarvardX - CS50's Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)  
-  15/01/2018 -  
-  [Coursework repository](https://github.com/jpacsai/HarvardX_CS50x)  
-  
 - ### [Brad Hussey - Learn Sass](https://www.youtube.com/playlist?list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR)  
   14/05/2018 -  
    - [x] Obligatory Welcome Video
@@ -82,7 +60,6 @@
    - [ ] Style a portfolio landing page #2
    - [ ] Now what do I do?
    - [ ] Sass vs CSS
-  
 - ### [learn.shayhowe.com : Learn to Code - HTML & CSS](https://learn.shayhowe.com/html-css/)  
   18/02/2018 -  
   - [x] Lesson 1 - Building Your First Web Page
@@ -96,9 +73,4 @@
   - [ ] Lesson 9 - Adding Media
   - [ ] Lesson 10 - Building Forms
   - [ ] Lesson 11 - Organizing Data with Tables
-  - [ ] Lesson 12 - Writing Your Best Code   
-  
-- ### [The Odin Project](https://www.theodinproject.com/home)  
-  30/12/2017 -  
-  _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
-  [Coursework repository](https://github.com/jpacsai/TheOdinProject)
+  - [ ] Lesson 12 - Writing Your Best Code   -->
