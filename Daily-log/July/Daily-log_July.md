@@ -184,6 +184,9 @@
        - 6 - [Event Handling](https://www.youtube.com/watch?v=bH7UXQTCfm4&index=6&list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA)
    - 📰 **Article:**  
       - [Redux - Usage with React](https://redux.js.org/basics/usage-with-react)
+   - 💪 **Exercise:**  
+      - CodeFights (new name - CodeSignal):
+         - Arcade 57 - [fileNaming](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/57_fileNaming.js)
    - 🏆 **ACHIEVEMENT**  
    [MyReads App](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Restaurant_Review_App/) project reviewed and accepted
          
