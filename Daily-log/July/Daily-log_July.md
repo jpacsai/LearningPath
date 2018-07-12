@@ -170,3 +170,23 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **11-07**  
+`javascript` `react` `redux`
+   - 📚 **Course:**
+      - freeCodeCamp:  
+         - Redux
+   - 📺 **Video:**  
+     - thenewboston: React JS Tutorials for Beginners
+       - 3 - [Components](https://www.youtube.com/watch?v=OzqR10jG1pg&index=3&list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA)
+       - 4 - [Rendering Multiple Components](https://www.youtube.com/watch?v=z14df09bWfc&index=4&list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA)
+       - 5 - [Props](https://www.youtube.com/watch?v=i1PLMgtG5Qo&index=5&list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA)
+       - 6 - [Event Handling](https://www.youtube.com/watch?v=bH7UXQTCfm4&index=6&list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA)
+   - 📰 **Article:**  
+      - [Redux - Usage with React](https://redux.js.org/basics/usage-with-react)
+   - 🏆 **ACHIEVEMENT**  
+   [MyReads App](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Restaurant_Review_App/) project reviewed and accepted
+         
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
