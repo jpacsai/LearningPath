@@ -171,7 +171,7 @@
    
 ***
 
-## **11-07**  
+## **12-07**  
 `javascript` `react` `redux`
    - 📚 **Course:**
       - freeCodeCamp:  
