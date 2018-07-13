@@ -15,7 +15,7 @@
 | **[10](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#10-07)**                                            |                            |       |         |          | MyReads App        | Eloquent JavaScript |             |
 | **[11](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#11-07)**                                            | Getting Started with Redux | 2     | 1       |          | MyReads App        |            |             |
 | **[12](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#12-07)**                                            | freeCodeCamp               | 4     | 1       | 1        |                    |            | MyReads App reviewed and accepted |
-| **13** |                          |       |         |          |         |            |             |
+| **[13](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#13-07)**                                            | freeCodeCamp               |       |         |          |         |            |             |
 | **14** |                          |       |         |          |         |            |             |
 | **15** |                          |       |         |          |         |            |             |
 | **16** |                          |       |         |          |         |            |             |
