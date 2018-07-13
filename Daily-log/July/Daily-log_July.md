@@ -193,3 +193,13 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **13-07**  
+`javascript` `react` `redux`
+   - 📚 **Course:**
+      - freeCodeCamp:  
+         - Redux
+         
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
