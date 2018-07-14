@@ -203,3 +203,22 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **13-07**  
+`javascript` `react` `redux`
+   - 📚 **Course:**
+      - freeCodeCamp:  
+         - React and Redux
+   - 📺 **Video:**  
+      - thenewboston: React JS / Redux Tutorial
+         - 1 - [What is Redux?](https://www.youtube.com/watch?v=DiLVAXlVYR0&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a&index=1)
+         - 2 - [Overview of Redux](https://www.youtube.com/watch?v=F59Z80p1Bcw&index=2&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
+         - 3 - [Project Setup](https://www.youtube.com/watch?v=TSAw5f8mOQs&index=3&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
+         - 4 - [Store](https://www.youtube.com/watch?v=qlCnK9H9NTc&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a&index=4)
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - Neighborhood App
+         
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
