@@ -228,6 +228,7 @@
    - 📚 **Course:**
       - freeCodeCamp:  
          - React and Redux
+         - Sass
    - 📺 **Video:**  
       - thenewboston: React JS / Redux Tutorial
          - 5 - [Reducers](https://www.youtube.com/watch?v=zGBeJNQeJX0&index=5&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
@@ -237,9 +238,8 @@
          - 9 - [Actions and Action Creators](https://www.youtube.com/watch?v=_x3gitcwtAc&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a&index=9)
          - 10 - [Listening for Actions](https://www.youtube.com/watch?v=GsyfB4URaYQ&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a&index=10)
          - 11 - [Finishing Up](https://www.youtube.com/watch?v=p1UmoELah8M&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a&index=11)
-   - 🔨 **Project:**
-      - Nanodegree:  
-         - Neighborhood App
+   - 📘 **Book:**  
+   [Understanding Redux 1](https://gumroad.com/l/Ocgbb)
          
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
