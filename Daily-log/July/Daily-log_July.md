@@ -224,7 +224,7 @@
 ***
 
 ## **15-07**  
-`javascript` `react` `redux`
+`javascript` `react` `redux` `css` `sass`
    - 📚 **Course:**
       - freeCodeCamp:  
          - React and Redux
