@@ -16,8 +16,8 @@
 | **[11](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#11-07)**                                            | Getting Started with Redux | 2     | 1       |          | MyReads App        |            |             |
 | **[12](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#12-07)**                                            | freeCodeCamp               | 4     | 1       | 1        |                    |            | MyReads App reviewed and accepted |
 | **[13](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#13-07)**                                            | freeCodeCamp               |       |         |          |         |            |             |
-| **[14](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#14-07)**                                            | freeCodeCamp               | 4        |         |            | Neighborhood App | |
-| **[15](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#15-07)**                                            | freeCodeCamp               | 7        |         |            | Neighborhood App | |
+| **[14](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#14-07)**                                            | freeCodeCamp               | 4        |         |            | Neighborhood App |  |
+| **[15](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#15-07)**                                            | freeCodeCamp               | 7        |         |            |                  | Understanding Redux 1 |
 | **16** |                          |       |         |          |         |            |             |
 | **17** |                          |       |         |          |         |            |             |
 | **18** |                          |       |         |          |         |            |             |
