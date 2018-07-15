@@ -222,3 +222,25 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **15-07**  
+`javascript` `react` `redux`
+   - 📚 **Course:**
+      - freeCodeCamp:  
+         - React and Redux
+   - 📺 **Video:**  
+      - thenewboston: React JS / Redux Tutorial
+         - 5 - [Reducers](https://www.youtube.com/watch?v=zGBeJNQeJX0&index=5&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
+         - 6 - [Provider](https://www.youtube.com/watch?v=ZRE6e_0eQeQ&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a&index=6)
+         - 7 - [mapStateToProps](https://www.youtube.com/watch?v=IIMUXbkKzW0&index=7&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
+         - 8 - [Passing Data to Component](https://www.youtube.com/watch?v=wa1NaL_WWpI&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a&index=8)
+         - 9 - [Actions and Action Creators](https://www.youtube.com/watch?v=_x3gitcwtAc&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a&index=9)
+         - 10 - [Listening for Actions](https://www.youtube.com/watch?v=GsyfB4URaYQ&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a&index=10)
+         - 11 - [Finishing Up](https://www.youtube.com/watch?v=p1UmoELah8M&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a&index=11)
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - Neighborhood App
+         
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
