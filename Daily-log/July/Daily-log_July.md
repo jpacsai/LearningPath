@@ -263,6 +263,8 @@
    - 📚 **Course:**
       - Udacity - GoogleMaps:  
          - Getting started with the APIs
+   - 📰 **Article:**  
+      - [Putting comments in code: the good, the bad, and the ugly.](https://medium.freecodecamp.org/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83)
    - 💪 **Exercise:**  
       - CodeFights:
          - Arcade - Intro - [58_messageFromBinaryCode](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/58_msgBinaryCode.js)  
