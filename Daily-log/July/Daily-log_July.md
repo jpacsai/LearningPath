@@ -250,6 +250,9 @@
    - 📚 **Course:**
       - Udacity - GoogleMaps:  
          - Getting started with the APIs
+   - 💪 **Exercise:**  
+      - CodeFights:
+         - Arcade - Intro - [58_messageFromBinaryCode](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/58_msgBinaryCode.js)  
    - 📘 **Book:**  
    [Understanding Redux 1](https://gumroad.com/l/Ocgbb)
       
