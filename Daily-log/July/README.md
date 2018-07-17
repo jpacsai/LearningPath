@@ -19,7 +19,7 @@
 | **[14](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#14-07)**                                            | freeCodeCamp               | 4        |         |            | Neighborhood App |  |
 | **[15](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#15-07)**                                            | freeCodeCamp               | 7        |         |            |                  | Understanding Redux 1 |
 | **[16](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#16-07)**                                            | Nanodegree                 |          |         |            |                  | Understanding Redux 1 |
-| **[17](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#17-07)**                                            | Nanodegree                 |          | 1       | 1          |                  | Understanding Redux 1 |
+| **[17](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#17-07)**                                            | Nanodegree                 |          | 1       | 1          | Neighborhood App | Understanding Redux 1 |
 | **18** |                          |       |         |          |         |            |             |
 | **19** |                          |       |         |          |         |            |             |
 | **20** |                          |       |         |          |         |            |             |
