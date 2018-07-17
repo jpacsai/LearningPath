@@ -244,3 +244,15 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **16-07**  
+`javascript` `redux`  
+   - 📚 **Course:**
+      - Udacity - GoogleMaps:  
+         - Getting started with the APIs
+   - 📘 **Book:**  
+   [Understanding Redux 1](https://gumroad.com/l/Ocgbb)
+      
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
