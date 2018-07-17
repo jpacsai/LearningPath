@@ -263,6 +263,7 @@
    - 📚 **Course:**
       - Udacity - GoogleMaps:  
          - Getting started with the APIs
+         - Understanding API services
    - 📰 **Article:**  
       - [Putting comments in code: the good, the bad, and the ugly.](https://medium.freecodecamp.org/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83)
    - 💪 **Exercise:**  
