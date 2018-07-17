@@ -269,6 +269,9 @@
    - 💪 **Exercise:**  
       - CodeFights:
          - Arcade - Intro - [58_messageFromBinaryCode](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/58_msgBinaryCode.js)  
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - Neighborhood App
    - 📘 **Book:**  
    [Understanding Redux 1](https://gumroad.com/l/Ocgbb)
       
