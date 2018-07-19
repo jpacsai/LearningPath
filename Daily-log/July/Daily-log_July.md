@@ -284,11 +284,23 @@
    - 📚 **Course:**
       - Udacity - GoogleMaps:  
          - Using the APIs in practice
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - Neighborhood App
+   
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
+
+## **19-07**  
+`javascript` `react` `redux`  
    - 📰 **Article:**  
       - [The React + Redux Container Pattern](https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/)
    - 🔨 **Project:**
       - Nanodegree:  
          - Neighborhood App
+   - 📘 **Book:**  
+   [Understanding Redux 1](https://gumroad.com/l/Ocgbb)
    
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
