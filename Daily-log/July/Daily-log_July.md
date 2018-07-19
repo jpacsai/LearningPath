@@ -297,6 +297,7 @@
    - 📰 **Article:**  
       - [The React + Redux Container Pattern](https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/)
       - [React-Redux: understanding components, containers, actions, and reducers](https://medium.com/@holtkam2/react-redux-understanding-components-containers-actions-and-reducers-a2f9287bfb92)
+      - [Where and When to Fetch Data With Redux](https://daveceddia.com/where-fetch-data-redux/)
    - 🔨 **Project:**
       - Nanodegree:  
          - Neighborhood App
