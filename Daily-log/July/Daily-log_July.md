@@ -278,3 +278,18 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **18-07**  
+`javascript` `react` `redux`  
+   - 📚 **Course:**
+      - Udacity - GoogleMaps:  
+         - Using the APIs in practice
+   - 📰 **Article:**  
+      - [The React + Redux Container Pattern](https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/)
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - Neighborhood App
+   
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
