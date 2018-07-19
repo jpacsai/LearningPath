@@ -296,6 +296,7 @@
 `javascript` `react` `redux`  
    - 📰 **Article:**  
       - [The React + Redux Container Pattern](https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/)
+      - [React-Redux: understanding components, containers, actions, and reducers](https://medium.com/@holtkam2/react-redux-understanding-components-containers-actions-and-reducers-a2f9287bfb92)
    - 🔨 **Project:**
       - Nanodegree:  
          - Neighborhood App
