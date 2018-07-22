@@ -307,3 +307,46 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **20-07**  
+`javascript` `react` `redux`  
+   - 📰 **Article:**  
+      - [javascript date + 7 days](https://stackoverflow.com/questions/5741632/javascript-date-7-days)
+      - [Basic API Call in React with Redux and Intro to Thunk Middleware](https://medium.com/@colinlmcdonald/basic-api-call-in-react-with-redux-and-intro-to-thunk-middleware-bd5244cef180)
+      - [A Dummy’s Guide to Redux and Thunk in React](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3)
+      - [Handling Failed HTTP Responses With fetch()](https://www.tjvantoll.com/2015/09/13/fetch-and-errors/)
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - Neighborhood App
+   
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
+
+## **21-07**  
+`javascript` `react` `redux`  
+   - 📰 **Article:**  
+      - [Returning promises from Redux action creators](https://medium.com/collaborne-engineering/returning-promises-from-redux-action-creators-3035f34fa74b)
+      - [4 ways to dispatch actions with Redux](https://blog.bam.tech/developper-news/4-ways-to-dispatch-actions-with-redux)
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - Neighborhood App
+   
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
+
+## **22-07**  
+`javascript` `react` `redux`  
+   - 📰 **Article:**  
+      - [Immutable Update Patterns](https://redux.js.org/recipes/structuring-reducers/immutable-update-patterns)
+      - [Right way to update state in redux reducers](https://stackoverflow.com/questions/36031590/right-way-to-update-state-in-redux-reducers)
+      - [Setting default values for missing parameters in a Javascript function](https://www.electrictoolbox.com/default-values-missing-parameters-javascript/)
+      - [How to handle forms with just React](https://medium.com/@everdimension/how-to-handle-forms-with-just-react-ac066c48bd4f)
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - Neighborhood App
+   
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
