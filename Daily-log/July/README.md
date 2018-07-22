@@ -22,9 +22,9 @@
 | **[17](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#17-07)**                                            | Nanodegree                 |          | 1       | 1          | Neighborhood App | Understanding Redux 1 |
 | **[18](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#18-07)**                                            | Nanodegree                 |          |         |            | Neighborhood App |   |
 | **[19](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#19-07)**                                            |                            |          | 1       |            | Neighborhood App | Understanding Redux 1 |
-| **20** |                          |       |         |          |         |            |             |
-| **21** |                          |       |         |          |         |            |             |
-| **22** |                          |       |         |          |         |            |             |
+| **[20](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#20-07)**                                            |                            |          | 4       |            | Neighborhood App |  |
+| **[21](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#21-07)**                                            |                            |          | 2       |            | Neighborhood App |   |
+| **[22](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#22-07)**                                            |                            |          | 4       |            | Neighborhood App |   |
 | **23** |                          |       |         |          |         |            |             |
 | **24** |                          |       |         |          |         |            |             |
 | **25** |                          |       |         |          |         |            |             |
