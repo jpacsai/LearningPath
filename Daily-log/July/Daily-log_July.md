@@ -350,3 +350,16 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **23-07**  
+`javascript` `react` `redux`  
+   - 📰 **Article:**  
+      - [How to toggle visibility with React](https://eddyerburgh.me/toggle-visibility-with-react)
+      - [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - Neighborhood App
+   
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
