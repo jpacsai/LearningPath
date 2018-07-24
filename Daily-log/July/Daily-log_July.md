@@ -324,7 +324,7 @@
 ***
 
 ## **21-07**  
-`javascript` `react` `redux`  
+`javascript` `redux`  
    - 📰 **Article:**  
       - [Returning promises from Redux action creators](https://medium.com/collaborne-engineering/returning-promises-from-redux-action-creators-3035f34fa74b)
       - [4 ways to dispatch actions with Redux](https://blog.bam.tech/developper-news/4-ways-to-dispatch-actions-with-redux)
@@ -352,7 +352,7 @@
 ***
 
 ## **23-07**  
-`javascript` `react` `redux`  
+`javascript` `react`  
    - 📰 **Article:**  
       - [How to toggle visibility with React](https://eddyerburgh.me/toggle-visibility-with-react)
       - [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
@@ -365,7 +365,7 @@
 ***
 
 ## **24-07**  
-`javascript` `react` `redux`  
+'accessibility'
    - 📰 **Article:**  
       - [Keyboard Accessibility - Tabindex](https://webaim.org/techniques/keyboard/tabindex)
    - 🔨 **Project:**
