@@ -26,7 +26,7 @@
 | **[21](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#21-07)**                                            |                            |          | 2       |            | Neighborhood App |   |
 | **[22](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#22-07)**                                            |                            |          | 4       |            | Neighborhood App |   |
 | **[23](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#23-07)**                                            |                            |          | 2       |            | Neighborhood App |   |
-| **24** |                          |       |         |          |         |            |             |
+| **[24](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#24-07)**                                            |                            |          | 1       |            | Neighborhood App |   |
 | **25** |                          |       |         |          |         |            |             |
 | **26** |                          |       |         |          |         |            |             |
 | **27** |                          |       |         |          |         |            |             |
