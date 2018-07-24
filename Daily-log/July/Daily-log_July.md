@@ -363,3 +363,15 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **24-07**  
+`javascript` `react` `redux`  
+   - 📰 **Article:**  
+      - [Keyboard Accessibility - Tabindex](https://webaim.org/techniques/keyboard/tabindex)
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - Neighborhood App
+   
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
