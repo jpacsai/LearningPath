@@ -375,3 +375,16 @@
    <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **25-07**  
+`javascript` `react` `redux`
+   - 📰 **Article:**  
+      - [How to model the behavior of Redux apps using statecharts](https://medium.freecodecamp.org/how-to-model-the-behavior-of-redux-apps-using-statecharts-5e342aad8f66)
+      - [Seedux, A New Way to Visualize & Debug your React-Redux Application](https://medium.com/@mlampesd/seedux-a-new-way-to-visualize-debug-your-react-redux-application-927d4523b555)
+   - 🔨 **Project:**
+      - Nanodegree:  
+         - Neighborhood App
+   
+   <p dir='rtl'> <a href='#july---2018'>Top 🔼</a> </p>  
+   
+***
