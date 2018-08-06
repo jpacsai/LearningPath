@@ -28,10 +28,10 @@
 | **[23](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#23-07)**                                            |                            |          | 2       |            | Neighborhood App |   |
 | **[24](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#24-07)**                                            |                            |          | 1       |            | Neighborhood App |   |
 | **[25](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#25-07)**                                            |                            |          | 2       |            | Neighborhood App |   |
-| **26** |                          |       |         |          |         |            |             |
-| **27** |                          |       |         |          |         |            |             |
-| **28** |                          |       |         |          |         |            |             |
-| **29** |                          |       |         |          |         |            |             |
-| **30** |                          |       |         |          |         |            |             |
-| **31** |                          |       |         |          |         |            |             |
+| **[26](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#26-07)**                                            |                            |          |         |            | Neighborhood App |   |
+| **[27](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#27-07)**                                            |                            |          |         |            | Neighborhood App |   |
+| **[28](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#28-07)**                                            |                            |          |         |            | Neighborhood App |   |
+| **[29](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#29-07)**                                            |                            |          |         |            | Neighborhood App |   |
+| **[30](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#30-07)**                                            |                            |          |         |            | Neighborhood App |   |
+| **[31](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_July.md#31-07)**                                            |                            |          |         |            | Neighborhood App |   |
 
