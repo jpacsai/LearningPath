@@ -8,17 +8,15 @@
 
 | School | Course | Link | Date finished | Skills learnt |
 | :----- | :----- | :--: | :------------ | :------------ |
+| Google Udacity Scholarship | [Front End Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree) | 05/08/2017 | HTML5, CSS3, git, JavaScript, Jasmine, Gulp, React |
 | Codeberry | [Front End course](https://codeberryschool.com/en/) | [repo](https://github.com/jpacsai/codeBerrySchool) | 11/01/2017 | HTML5, CSS3, Bootstrap, JavaScript, git |
 | Codecademy | [Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery) | | 29/01/2018 | jQuery |
 | Google Udacity Scholarship | [Front End Web Developer Challenge Phase](https://www.udacity.com/google-scholarships) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase) | 06/02/2018 | HTML5, CSS3, JavaScript, jQuery |
-| Udacity | [Intro to Ajax](https://eu.udacity.com/course/intro-to-ajax--ud110) | [repo](https://github.com/jpacsai/Udacity/tree/master/IntroToAjax) | 04/02/2018 | |
-| Udacity | [Responsive Images](https://eu.udacity.com/course/responsive-images--ud882) |  | 02/03/2018 | |
 
 ## Courses I am doing:
 
 | School | Course | Link | Progress | Skills learnt |
 | :----- | :----- | :--: | :------- | :------------ |
-| Google Udacity Scholarship | [Front End Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree) | ![Progress](http://progressed.io/bar/95) | HTML5, CSS3, git, JavaScript, Jasmine, Gulp, React |
 | [freeCodeCamp](https://www.freecodecamp.org/) | Front End Development Path | [repo](https://github.com/jpacsai/freeCodeCamp) | ![Progress](http://progressed.io/bar/50) | |
 | Brad Hussey | [Learn Sass](https://www.youtube.com/playlist?list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR) | | ![Progress](http://progressed.io/bar/38) | Sass |
 | [p1xt-guides](https://github.com/P1xt/p1xt-guides) | [Web Development with Computer Science Foundations](https://github.com/P1xt/p1xt-guides/blob/master/wd-cs.md) | [repo](https://github.com/jpacsai/p1xt-guides/blob/master/wd-cs.md) | ![Progress](http://progressed.io/bar/5) | |
