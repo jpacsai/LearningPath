@@ -6,12 +6,12 @@
 
 ## Courses I have finished:
 
-| School | Course | Link | Date finished | Skills learnt |
-| :----- | :----- | :--: | :------------ | :------------ |
-| Google Udacity Scholarship | [Front End Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree) | 05/08/2017 | HTML5, CSS3, git, JavaScript, Jasmine, Gulp, React |
-| Codeberry | [Front End course](https://codeberryschool.com/en/) | [repo](https://github.com/jpacsai/codeBerrySchool) | 11/01/2017 | HTML5, CSS3, Bootstrap, JavaScript, git |
-| Codecademy | [Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery) | | 29/01/2018 | jQuery |
-| Google Udacity Scholarship | [Front End Web Developer Challenge Phase](https://www.udacity.com/google-scholarships) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase) | 06/02/2018 | HTML5, CSS3, JavaScript, jQuery |
+| School | Course | Repo | Date finished | Skills learnt | Certificate |
+| :----- | :----- | :--: | :------------ | :------------ | :---------: |
+| Google Udacity Scholarship | [Front End Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree) | 05/08/2017 | HTML5, CSS3, git, JavaScript, Jasmine, Gulp, React (+Redux) | [certificate](https://confirm.udacity.com/TGGNUQPZ) |
+| Codeberry | [Front End course](https://codeberryschool.com/en/) | [repo](https://github.com/jpacsai/codeBerrySchool) | 11/01/2017 | HTML5, CSS3, Bootstrap, JavaScript, git | [certificate](https://i.imgur.com/IdbOMUy.jpg) |
+| Codecademy | [Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery) | | 29/01/2018 | jQuery | |
+| Google Udacity Scholarship | [Front End Web Developer Challenge Phase](https://www.udacity.com/google-scholarships) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase) | 06/02/2018 | HTML5, CSS3, JavaScript, jQuery | |
 
 ## Courses I am doing:
 
