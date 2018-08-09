@@ -52,3 +52,37 @@
    
 ***
 
+## **06-08**  
+   - 🔨 **Project:**
+      - Helping friend with his WordPress page
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+   
+***
+
+## **07-08**  
+   - 🔨 **Project:**
+      - Helping friend with his WordPress page
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+   
+***
+
+## **08-08**  
+   - 🔨 **Project:**
+      - Helping friend with his WordPress page
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+   
+***
+
+## **09-08**  
+   - 💪 **Exercise:**  
+      - CodeFights:
+         - Arcade 59 - [spiralNumbers](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/59_spiralNumbers.js)
+   - 🔨 **Project:**
+      - Helping friend with his WordPress page
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+   
+***
