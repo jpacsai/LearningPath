@@ -10,7 +10,7 @@
 | **[06](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#06-08)** |                       |       |         |          | helping friend with WordPress page |      |             |
 | **[07](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#07-08)** |                       |       |         |          | helping friend with WordPress page |      |             |
 | **[08](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#08-08)** |                       |       |         |          | helping friend with WordPress page |      |             |
-| **[09](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#09-08)** |                       |       |         | 1        | helping friend with WordPress page |      |             |
+| **[09](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#09-08)** |                       |       |         | 1        | freeCodeCamp: Survey Form |      | [freeCodeCamp: Survey Form](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Survey_Form/) complete |
 | **10** |                       |       |         |          |         |      |             |
 | **11** |                       |       |         |          |         |      |             |
 | **12** |                       |       |         |          |         |      |             |
