@@ -7,10 +7,10 @@
 | **[03](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#03-08)** |                       |       |         |          | Neighborhood App |      |             |
 | **[04](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#04-08)** |                       |       |         |          | Neighborhood App |      |             |
 | **[05](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#05-08)** |                       |       |         |          |         |      | [Graduated from Nanodegree program](https://graduation.udacity.com/confirm/TGGNUQPZ) |
-| **06** |                       |       |         |          |         |      |             |
-| **07** |                       |       |         |          |         |      |             |
-| **08** |                       |       |         |          |         |      |             |
-| **09** |                       |       |         |          |         |      |             |
+| **[06](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#06-08)** |                       |       |         |          | helping friend with WordPress page |      |             |
+| **[07](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#07-08)** |                       |       |         |          | helping friend with WordPress page |      |             |
+| **[08](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#08-08)** |                       |       |         |          | helping friend with WordPress page |      |             |
+| **[09](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#09-08)** |                       |       |         |          | helping friend with WordPress page |      |             |
 | **10** |                       |       |         |          |         |      |             |
 | **11** |                       |       |         |          |         |      |             |
 | **12** |                       |       |         |          |         |      |             |
