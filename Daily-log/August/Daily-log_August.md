@@ -40,3 +40,15 @@
          - Neighborhood App
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+   
+***
+
+## **05-08**  
+   - 🏆 **ACHIEVEMENT**  
+   [Graduated from Udacity Front End Developer Nanodegree - Google Scholarship program](https://confirm.udacity.com/TGGNUQPZ)
+   ![Udacity Front End Developer Nanodegree Certificate](https://i.imgur.com/VqkaQyV.png)
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+   
+***
+
