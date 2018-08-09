@@ -3,3 +3,4 @@
 ### 2018 ### 
 - [June](https://github.com/jpacsai/LearningPath/tree/master/Daily-log/June)
 - [July](https://github.com/jpacsai/LearningPath/tree/master/Daily-log/July)
+- [August](https://github.com/jpacsai/LearningPath/tree/master/Daily-log/August)
