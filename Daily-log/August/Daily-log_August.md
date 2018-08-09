@@ -1,5 +1,7 @@
 # August - 2018
 
+#### [Summary](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/README.md) | [2018](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
+
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [1](#01-08) | [2](#02-08) | [3](#03-08) | [4](#04-08) | [5](#05-08) | [6](#06-08) | [7](#07-08) | [8](#08-08) | [9](#09-08) | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
