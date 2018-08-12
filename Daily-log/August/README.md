@@ -11,9 +11,9 @@
 | **[07](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#07-08)** |                       |       |         |          | helping friend with WordPress page |      |             |
 | **[08](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#08-08)** |                       |       |         |          | helping friend with WordPress page |      |             |
 | **[09](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#09-08)** |                       |       |         | 1        | freeCodeCamp: Survey Form |      | [freeCodeCamp: Survey Form](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Survey_Form/) complete |
-| **10** |                       |       |         |          |         |      |             |
-| **11** |                       |       |         |          |         |      |             |
-| **12** |                       |       |         |          |         |      |             |
+| **[10](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#10-08)** |                       |       |         | 1        | freeCodeCamp: Product Landig Page |      | |
+| **[11](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#11-08)** |                       |       |         | 1        | freeCodeCamp: Product Landig Page |      | |
+| **[12](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#12-08)** |                       |       |         | 1        | freeCodeCamp: Product Landig Page |      | |
 | **13** |                       |       |         |          |         |      |             |
 | **14** |                       |       |         |          |         |      |             |
 | **15** |                       |       |         |          |         |      |             |
