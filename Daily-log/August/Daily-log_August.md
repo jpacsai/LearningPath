@@ -141,3 +141,17 @@
          - Product Landing Page
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+
+***
+
+## **13-08**  
+   - 💪 **Exercise:**  
+      - CodeFights:
+         - Arcade: The Core - 03 - [candies](#)
+   - 🔨 **Project:**
+      - freeCodeCamp - Responsive WebDesign Projects:
+         - Product Landing Page
+   - 🏆 **ACHIEVEMENT**  
+   [freeCodeCamp - Responsive WebDesign: Product Landing Page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Product_Landing_Page/) project complete
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
