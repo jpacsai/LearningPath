@@ -14,7 +14,7 @@
 | **[10](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#10-08)** |                       |       |         | 1        | freeCodeCamp: Product Landig Page |      | [CodeSignal (codeFights) Arcade - Intro](https://github.com/jpacsai/codeFights/tree/master/Intro) level ready |
 | **[11](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#11-08)** |                       |       |         | 1        | freeCodeCamp: Product Landig Page |      | |
 | **[12](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#12-08)** |                       |       |         | 1        | freeCodeCamp: Product Landig Page |      | |
-| **13** |                       |       |         |          |         |      |             |
+| **[13](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#13-08)** |                       |       |         | 1        | freeCodeCamp: Product Landig Page |      | [freeCodeCamp: Product Landing Page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Product_Landing_Page/) complete |
 | **14** |                       |       |         |          |         |      |             |
 | **15** |                       |       |         |          |         |      |             |
 | **16** |                       |       |         |          |         |      |             |
