@@ -147,7 +147,7 @@
 ## **13-08**  
    - 💪 **Exercise:**  
       - CodeFights:
-         - Arcade: The Core - 03 - [candies](#)
+         - Arcade: The Core - 03 - [candies](https://github.com/jpacsai/codeFights/blob/master/TheCore/1_IntroGates/3_candies.js)
    - 🔨 **Project:**
       - freeCodeCamp - Responsive WebDesign Projects:
          - Product Landing Page
