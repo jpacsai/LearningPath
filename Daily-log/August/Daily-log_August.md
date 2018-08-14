@@ -83,10 +83,10 @@
       - CodeFights:
          - Arcade 59 - [spiralNumbers](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/59_spiralNumbers.js)
    - 🔨 **Project:**
-      - freeCodeCamp - Responsive WebDesign Projects:
+      - freeCodeCamp - Responsive Web Design Projects:
          - Survey Form
    - 🏆 **ACHIEVEMENT**  
-   [freeCodeCamp - Responsive WebDesign: Survey Form](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Survey_Form/) project complete
+   [freeCodeCamp - Responsive Web Design: Survey Form](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Survey_Form/) project complete
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
    
@@ -97,10 +97,10 @@
       - CodeFights:
          - Arcade 59 - [spiralNumbers](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/59_spiralNumbers.js)
    - 🔨 **Project:**
-      - freeCodeCamp - Responsive WebDesign Projects:
+      - freeCodeCamp - Responsive Web Design Projects:
          - Survey Form
    - 🏆 **ACHIEVEMENT**  
-   [freeCodeCamp - Responsive WebDesign: Survey Form](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Survey_Form/) project complete
+   [freeCodeCamp - Responsive Web Design: Survey Form](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Survey_Form/) project complete
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
    
@@ -111,7 +111,7 @@
       - CodeFights:
          - Arcade: Intro - 60 - [sudoku](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/60_sudoku.js)
    - 🔨 **Project:**
-      - freeCodeCamp - Responsive WebDesign Projects:
+      - freeCodeCamp - Responsive Web Design Projects:
          - Product Landing Page
    - 🏆 **ACHIEVEMENT**  
    [CodeSignal (codeFights) Arcade - Intro](https://github.com/jpacsai/codeFights/tree/master/Intro) level ready
@@ -125,7 +125,7 @@
       - CodeFights:
          - Arcade: The Core - 01 - [addTwoDigits](https://github.com/jpacsai/codeFights/blob/master/TheCore/1_IntroGates/1_addTwoDigits.js)
    - 🔨 **Project:**
-      - freeCodeCamp - Responsive WebDesign Projects:
+      - freeCodeCamp - Responsive Web Design Projects:
          - Product Landing Page
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
@@ -137,7 +137,7 @@
       - CodeFights:
          - Arcade: The Core - 02 - [largestNumber](https://github.com/jpacsai/codeFights/blob/master/TheCore/1_IntroGates/2_largestNumber.js)
    - 🔨 **Project:**
-      - freeCodeCamp - Responsive WebDesign Projects:
+      - freeCodeCamp - Responsive Web Design Projects:
          - Product Landing Page
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
@@ -152,6 +152,22 @@
       - freeCodeCamp - Responsive WebDesign Projects:
          - Product Landing Page
    - 🏆 **ACHIEVEMENT**  
-   [freeCodeCamp - Responsive WebDesign: Product Landing Page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Product_Landing_Page/) project complete
+   [freeCodeCamp - Responsive Web Design: Product Landing Page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Product_Landing_Page/) project complete
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+
+***
+
+## **14-08**  
+   - 💪 **Exercise:**  
+      - CodeFights:
+         - Arcade: The Core - 04 - [seatsInTheatre](https://github.com/jpacsai/codeFights/blob/master/TheCore/1_IntroGates/4_seatsInTheatre.js)
+   - 🔨 **Project:**
+      - freeCodeCamp - Responsive WebDesign Projects:
+         - Product Landing Page
+   - 🏆 **ACHIEVEMENT**  
+   [freeCodeCamp - Responsive Web Design: Technical Documentaition page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Product_Landing_Page/) project complete
+   [freeCodeCamp - Responsive Web Design certificate](https://www.freecodecamp.org/certification/jpacsai/responsive-web-design)
+   ![freeCodeCamp Responsive Web Design certificate](https://i.imgur.com/4djKjgk.jpg)
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
