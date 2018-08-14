@@ -166,7 +166,7 @@
       - freeCodeCamp - Responsive WebDesign Projects:
          - Product Landing Page
    - 🏆 **ACHIEVEMENT**  
-   [freeCodeCamp - Responsive Web Design: Technical Documentaition page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Product_Landing_Page/) project complete
+   [freeCodeCamp - Responsive Web Design: Technical Documentaition page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Technical_Documentation/) project complete
    [freeCodeCamp - Responsive Web Design certificate](https://www.freecodecamp.org/certification/jpacsai/responsive-web-design)
    ![freeCodeCamp Responsive Web Design certificate](https://i.imgur.com/4djKjgk.jpg)
    
