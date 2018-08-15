@@ -4,7 +4,7 @@
 
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [1](#01-08) | [2](#02-08) | [3](#03-08) | [4](#04-08) | [5](#05-08) | [6](#06-08) | [7](#07-08) | [8](#08-08) | [9](#09-08) | [10](#10-08) | [11](#11-08) | [12](#12-08) | [13](#13-08) | [14](#14-08) | 15  | 16  |
+| [1](#01-08) | [2](#02-08) | [3](#03-08) | [4](#04-08) | [5](#05-08) | [6](#06-08) | [7](#07-08) | [8](#08-08) | [9](#09-08) | [10](#10-08) | [11](#11-08) | [12](#12-08) | [13](#13-08) | [14](#14-08) | [15](#15-08) | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
@@ -162,6 +162,8 @@
    - 💪 **Exercise:**  
       - CodeFights:
          - Arcade: The Core - 04 - [seatsInTheatre](https://github.com/jpacsai/codeFights/blob/master/TheCore/1_IntroGates/4_seatsInTheatre.js)
+      - codinGame:
+         - classic: Easy - [The Descent](https://github.com/jpacsai/codingame/blob/master/classic_puzzles/easy/theDescent.js)
    - 🔨 **Project:**
       - freeCodeCamp - Responsive WebDesign Projects:
          - Product Landing Page
@@ -169,5 +171,14 @@
    [freeCodeCamp - Responsive Web Design: Technical Documentaition page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Technical_Documentation/) project complete
    [freeCodeCamp - Responsive Web Design certificate](https://www.freecodecamp.org/certification/jpacsai/responsive-web-design)
    ![freeCodeCamp Responsive Web Design certificate](https://i.imgur.com/4djKjgk.jpg)
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+   
+   ***
+
+## **15-08**  
+   - 💪 **Exercise:**  
+      - CodeFights:
+         - Arcade: The Core - 05 - [maxMultiple](https://github.com/jpacsai/codeFights/blob/master/TheCore/1_IntroGates/5_maxMultiple.js)
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
