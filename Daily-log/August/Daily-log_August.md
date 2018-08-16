@@ -180,6 +180,9 @@
    - 💪 **Exercise:**  
       - CodeFights:
          - Arcade: The Core - 05 - [maxMultiple](https://github.com/jpacsai/codeFights/blob/master/TheCore/1_IntroGates/5_maxMultiple.js)
+   - 🔨 **Project:**
+      - freeCodeCamp - Front End Libraries Projects:
+         - Markdown previewer
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
    
