@@ -4,7 +4,7 @@
 
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [1](#01-08) | [2](#02-08) | [3](#03-08) | [4](#04-08) | [5](#05-08) | [6](#06-08) | [7](#07-08) | [8](#08-08) | [9](#09-08) | [10](#10-08) | [11](#11-08) | [12](#12-08) | [13](#13-08) | [14](#14-08) | [15](#15-08) | 16  |
+| [1](#01-08) | [2](#02-08) | [3](#03-08) | [4](#04-08) | [5](#05-08) | [6](#06-08) | [7](#07-08) | [8](#08-08) | [9](#09-08) | [10](#10-08) | [11](#11-08) | [12](#12-08) | [13](#13-08) | [14](#14-08) | [15](#15-08) | [16](#16-08) |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
@@ -174,11 +174,22 @@
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
    
-   ***
+***
 
 ## **15-08**  
    - 💪 **Exercise:**  
       - CodeFights:
          - Arcade: The Core - 05 - [maxMultiple](https://github.com/jpacsai/codeFights/blob/master/TheCore/1_IntroGates/5_maxMultiple.js)
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+   
+***
+
+## **16-08**  
+   - 💪 **Exercise:**  
+      - CodeFights:
+         - Arcade: The Core - 06 - [circleOfNumbers](https://github.com/jpacsai/codeFights/blob/master/TheCore/1_IntroGates/6_circleOfNums.js)
+      - codinGame:
+         - classic: Easy - [Power Of Thor](https://github.com/jpacsai/codingame/blob/master/classic_puzzles/easy/powerOfThor.js)
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
