@@ -18,8 +18,8 @@
 | **[14](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#14-08)** |                       |       |         | 2        | freeCodeCamp: Technical Documentation |      | [freeCodeCamp: Technical Documentation](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Technical_Documentation/) complete + **[FREECODECAMP RESPONSIVE WEB DESIGN CERTIFICATE](https://www.freecodecamp.org/certification/jpacsai/responsive-web-design)** |
 | **[15](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#15-08)** |                       |       |         | 1        | freeCodeCamp: Markdown Previewer |      | |
 | **[16](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#16-08)** |                       |       |         | 2        |         |      |             |
-| **17** |                       |       |         |          |         |      |             |
-| **18** |                       |       |         |          |         |      |             |
+| **[17](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#17-08)** |                       |       |         | 1        | freeCodeCamp: Markdown Previewer |      | |
+| **[18](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#18-08)** |                       |       |         | 1        |   |      | |
 | **19** |                       |       |         |          |         |      |             |
 | **20** |                       |       |         |          |         |      |             |
 | **21** |                       |       |         |          |         |      |             |
