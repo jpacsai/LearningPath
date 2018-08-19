@@ -5,7 +5,7 @@
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [1](#01-08) | [2](#02-08) | [3](#03-08) | [4](#04-08) | [5](#05-08) | [6](#06-08) | [7](#07-08) | [8](#08-08) | [9](#09-08) | [10](#10-08) | [11](#11-08) | [12](#12-08) | [13](#13-08) | [14](#14-08) | [15](#15-08) | [16](#16-08) |
-| [17](#17-08) | [18](#18-08) | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
+| [17](#17-08) | [18](#18-08) | [19](#20-08) | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
 
@@ -215,6 +215,22 @@
    - 💪 **Exercise:**  
       - CodeFights:
          - Arcade: The Core - 08 - [phoneCall](https://github.com/jpacsai/codeSignal/blob/master/TheCore/1_IntroGates/8_phoneCall.js)
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+   
+***
+
+## **19-08**  
+   - 💪 **Exercise:**  
+      - CodeFights:
+         - Arcade: At the Crossroads - 01 - [reachNextLevel](https://github.com/jpacsai/codeSignal/blob/master/TheCore/2_AtTheCrossroads/1_reachNextLevel.js)
+      - codinGame:
+         - classic: Easy - [temperatures](https://github.com/jpacsai/codingame/blob/master/classic_puzzles/easy/temperatures.js)
+   - 🔨 **Project:**
+      - freeCodeCamp - Front End Libraries Projects:
+         - Markdown previewer
+   - 🏆 **ACHIEVEMENT**  
+   [freeCodeCamp - Front End Libraries: Markdown previewer](https://codepen.io/jutzee/full/RYbgzy/) project complete
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
    
