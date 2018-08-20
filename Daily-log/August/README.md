@@ -21,7 +21,7 @@
 | **[17](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#17-08)** |                       |       |         | 1        | freeCodeCamp: Markdown Previewer |      | |
 | **[18](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#18-08)** |                       |       |         | 1        |   |      | |
 | **[19](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#19-08)** |                       |       |         | 2        | freeCodeCamp: Markdown Previewer |      | [freeCodeCamp: Markdown previewer](https://codepen.io/jutzee/full/RYbgzy/) complete |
-| **20** |                       |       |         |          |         |      |             |
+| **[20](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#20-08)** |                       |       |         | 1        | freeCodeCamp: Drum machine |      | |
 | **21** |                       |       |         |          |         |      |             |
 | **22** |                       |       |         |          |         |      |             |
 | **23** |                       |       |         |          |         |      |             |
