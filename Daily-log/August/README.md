@@ -23,7 +23,7 @@
 | **[19](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#19-08)** |                       |       |         | 2        | freeCodeCamp: Markdown Previewer |      | [freeCodeCamp: Markdown previewer](https://codepen.io/jutzee/full/RYbgzy/) complete |
 | **[20](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#20-08)** |                       |       |         | 1        | freeCodeCamp: Drum machine |      | |
 | **[21](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#21-08)** |                       |       |         | 1        | freeCodeCamp: Drum machine |      | [freeCodeCamp: Drum machine app](https://jpacsai.github.io/drum-machine-app/) complete |
-| **22** |                       |       |         |          |         |      |             |
+| **[22](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#22-08)** |                       |       |         | 2        | Neighborhood App |      | |
 | **23** |                       |       |         |          |         |      |             |
 | **24** |                       |       |         |          |         |      |             |
 | **25** |                       |       |         |          |         |      |             |
