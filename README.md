@@ -17,7 +17,7 @@
 
 | School | Course | Link | Progress | Skills learnt |
 | :----- | :----- | :--: | :------- | :------------ |
-| [freeCodeCamp](https://www.freecodecamp.org/) | Front End Development Path | [repo](https://github.com/jpacsai/freeCodeCamp) | ![Progress](http://progressed.io/bar/80) | |
+| [freeCodeCamp](https://www.freecodecamp.org/) | Front End Development Path | [repo](https://github.com/jpacsai/freeCodeCamp) | ![Progress](http://progressed.io/bar/95) | |
 | Brad Hussey | [Learn Sass](https://www.youtube.com/playlist?list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR) | | ![Progress](http://progressed.io/bar/38) | Sass |
 | [p1xt-guides](https://github.com/P1xt/p1xt-guides) | [Web Development with Computer Science Foundations](https://github.com/P1xt/p1xt-guides/blob/master/wd-cs.md) | [repo](https://github.com/jpacsai/p1xt-guides/blob/master/wd-cs.md) | ![Progress](http://progressed.io/bar/5) | |
 | edX: Harvard University | [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) | [repo](https://github.com/jpacsai/HarvardX_CS50x) | ![Progress](http://progressed.io/bar/25) | Scratch, C |
