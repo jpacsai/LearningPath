@@ -5,7 +5,7 @@
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [1](#01-08) | [2](#02-08) | [3](#03-08) | [4](#04-08) | [5](#05-08) | [6](#06-08) | [7](#07-08) | [8](#08-08) | [9](#09-08) | [10](#10-08) | [11](#11-08) | [12](#12-08) | [13](#13-08) | [14](#14-08) | [15](#15-08) | [16](#16-08) |
-| [17](#17-08) | [18](#18-08) | [19](#20-08) | [20](#20-08) | [21](#21-08) | [22](#22-08) | [23](#23-08) | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
+| [17](#17-08) | [18](#18-08) | [19](#20-08) | [20](#20-08) | [21](#21-08) | [22](#22-08) | [23](#23-08) | [24](#24-08) | [25](#25-08) | [26](#26-08) | 27  | 28  | 29  | 30  | 31  |  
 
 ***
 
@@ -280,6 +280,56 @@
          - Career services
    - 💪 **Exercise:**  
       - CodeFights:
+         - Arcade: At the Crossroads - 05 - [arithmeticExpression
+](https://github.com/jpacsai/codeSignal/blob/89e60d9e81af4842867ffef26e14076a068e1ecb/TheCore/2_AtTheCrossroads/5_aritmExp.js)
+   - 📘 **Book:**  
+      - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+   
+   ***
+   
+## **24-08** 
+   - 📚 **Course:**
+      - Udacity Nanodegree:  
+         - Career services
+   - 📰 **Article:**  
+      - [awesome-readme](https://github.com/matiassingers/awesome-readme)  
+      - [The Beginner’s Guide to Contributing to Open Source Projects](https://blog.newrelic.com/engineering/open-source_gettingstarted/)
+   - 💪 **Exercise:**  
+      - CodeFights:
          - Arcade: At the Crossroads - 06 - [tennisSet](https://github.com/jpacsai/codeSignal/blob/master/TheCore/2_AtTheCrossroads/6_tennisSet.js)
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+
+## **25-08** 
+   - 📚 **Course:**
+      - Udacity Nanodegree:  
+         - Career services
+   - 📺 **Video:**  
+     - Fun Fun Functions: Functional programming in JavaScript  
+       - 11 / 12 [Streams](https://www.youtube.com/watch?v=UD2dZw9iHCc&t=0s&index=12&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+   - 📰 **Article:**  
+      - [How To Write A Great README](https://robots.thoughtbot.com/how-to-write-a-great-readme)  
+      - [What I learned from an old GitHub project that won 3,000 Stars in a Week](https://medium.freecodecamp.org/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14)
+   - 💪 **Exercise:**  
+      - CodeFights:
+         - Arcade: At the Crossroads - 07 - [willYou?](https://github.com/jpacsai/codeSignal/blob/master/TheCore/2_AtTheCrossroads/7_willYou.js)
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+ 
+ ## **26-08** 
+   - 📚 **Course:**
+      - Udacity Nanodegree:  
+         - Career services
+   - 📺 **Video:**  
+     - Fun Fun Functions: Functional programming in JavaScript  
+       - 12 / 12 [Monad](https://www.youtube.com/watch?v=9QveBbn7t_c&index=12&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+   - 📰 **Article:**  
+      - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)  
+      - [A Beginners Guide to writing a Kickass README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+   - 💪 **Exercise:**  
+      - CodeFights:
+         - Arcade: At the Crossroads - 08 - [metroCard](https://github.com/jpacsai/codeSignal/blob/master/TheCore/2_AtTheCrossroads/8_metroCard.js)
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
