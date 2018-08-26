@@ -1,5 +1,5 @@
 # Summary - August
-### 👉 [Detailed daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/July/Daily-log_August.md) 👈 | [2018](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
+### 👉 [Detailed daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md) 👈 | [2018](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
 
 | Date   | Course                | Video | Article | Exercise | Project | Book | Achievement |
 | :----: | :-------------------: | :---: | :-----: | :------: | :-----: | :--: | :---------: |
