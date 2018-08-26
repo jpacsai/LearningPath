@@ -328,6 +328,7 @@
    - 📰 **Article:**  
       - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)  
       - [A Beginners Guide to writing a Kickass README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+      - [How to publish on Github Pages with create-react-app and react-router](https://nealbuerger.com/2018/03/how-to-publish-on-github-pages-with-create-react-app-and-react-router/)
    - 💪 **Exercise:**  
       - CodeFights:
          - Arcade: At the Crossroads - 08 - [metroCard](https://github.com/jpacsai/codeSignal/blob/master/TheCore/2_AtTheCrossroads/8_metroCard.js)
