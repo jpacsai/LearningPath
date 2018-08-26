@@ -25,10 +25,10 @@
 | **[20](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#20-08)** |                       |       |         | 1        | freeCodeCamp: Drum machine |      | |
 | **[21](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#21-08)** |                       |       |         | 1        | freeCodeCamp: Drum machine |      | [freeCodeCamp: Drum machine app](https://jpacsai.github.io/drum-machine-app/) complete |
 | **[22](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#22-08)** |                       |       |         | 2        | Neighborhood App |      | |
-| **23** |                       |       |         |          |         |      |             |
-| **24** |                       |       |         |          |         |      |             |
-| **25** |                       |       |         |          |         |      |             |
-| **26** |                       |       |         |          |         |      |             |
+| **[23](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#23-08)** | Nanodegree |       |         | 1        |   | Clean Code | |
+| **[24](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#24-08)** | Nanodegree |       | 2       | 1        |         |      |             |
+| **[25](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#25-08)** | Nanodegree | 1     | 2       | 1        |         |      |             |
+| **[26](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#26-08)** | Nanodegree | 1     | 3       | 1        |         |      |             |
 | **27** |                       |       |         |          |         |      |             |
 | **28** |                       |       |         |          |         |      |             |
 | **29** |                       |       |         |          |         |      |             |
