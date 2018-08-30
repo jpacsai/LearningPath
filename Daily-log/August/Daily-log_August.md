@@ -5,7 +5,7 @@
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [1](#01-08) | [2](#02-08) | [3](#03-08) | [4](#04-08) | [5](#05-08) | [6](#06-08) | [7](#07-08) | [8](#08-08) | [9](#09-08) | [10](#10-08) | [11](#11-08) | [12](#12-08) | [13](#13-08) | [14](#14-08) | [15](#15-08) | [16](#16-08) |
-| [17](#17-08) | [18](#18-08) | [19](#20-08) | [20](#20-08) | [21](#21-08) | [22](#22-08) | [23](#23-08) | [24](#24-08) | [25](#25-08) | [26](#26-08) | [27](#27-08) | [28](#28-08)  | [29](#29-08) | 30  | 31  |  
+| [17](#17-08) | [18](#18-08) | [19](#20-08) | [20](#20-08) | [21](#21-08) | [22](#22-08) | [23](#23-08) | [24](#24-08) | [25](#25-08) | [26](#26-08) | [27](#27-08) | [28](#28-08)  | [29](#29-08) | [30](#30-08) | 31  |  
 
 ***
 
@@ -362,5 +362,24 @@
    - 💪 **Exercise:**  
       - CodeWars:
          - 7kyu - [Reverse words](https://github.com/jpacsai/codeWars/blob/master/7kyu/ReverseWords.js)
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+   
+## **30-08** 
+   - 📚 **Course:**
+      - freeCodeCamp - Javascript Algorithms And Data Structures Certification:  
+         - Regular Expressions
+   - 📰 **Article:**  
+      - [Web Developer Monthly 💻🚀 — July 2018](https://medium.com/@andreineagoie/web-developer-monthly-july-2018-513e02f15fb6)
+      - [Web Developer Monthly 💻🚀 — August 2018](https://hackernoon.com/web-developer-monthly-august-2018-f778555d5a1f)
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 7kyu - [SumOddsNums](https://github.com/jpacsai/codeWars/blob/master/7kyu/SumOddNums.js)
+         - 7kyu - [TwoToOne](https://github.com/jpacsai/codeWars/blob/master/7kyu/TwoToOne.js)
+         - 7kyu - [OnesAndZeros](https://github.com/jpacsai/codeWars/blob/master/7kyu/OnesAndZeros.js)
+         - 7kyu - [Isograms](https://github.com/jpacsai/codeWars/blob/master/7kyu/Isograms.js)
+         - 6kyu - [TitleCase](https://github.com/jpacsai/codeWars/blob/master/6kyu/TitleCase.js)
+   - 📘 **Book:**  
+      - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
