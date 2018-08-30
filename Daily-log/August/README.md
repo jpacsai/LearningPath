@@ -29,9 +29,8 @@
 | **[24](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#24-08)** | Nanodegree |       | 2       | 1        |         |      |             |
 | **[25](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#25-08)** | Nanodegree | 1     | 2       | 1        |         |      |             |
 | **[26](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#26-08)** | Nanodegree | 1     | 3       | 1        |         |      |             |
-| **27** |                       |       |         |          |         |      |             |
-| **28** |                       |       |         |          |         |      |             |
-| **29** |                       |       |         |          |         |      |             |
-| **30** |                       |       |         |          |         |      |             |
-| **31** |                       |       |         |          |         |      |             |
-
+| **[27](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#27-08)** | Nanodegree  |       |         | 1        |        |         |      |             |
+| **[28](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#28-08)** | Nanodegree  |       |         | 1        |        |         |      |             |
+| **[29](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#29-08)** | freeCodeCamp  |       |         | 1        |        |         |      |             |
+| **[30](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#30-08)** | freeCodeCamp  |       | 2       | 5        |        |         | Clean Code |             |
+| **31** |             |       |         |          |        |         |      |             |
