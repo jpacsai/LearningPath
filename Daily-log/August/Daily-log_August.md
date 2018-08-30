@@ -340,7 +340,7 @@
       - Udacity Nanodegree:  
          - Career services
    - 💪 **Exercise:**  
-      - CodeFights:
-         - Arcade: At the Crossroads - 09 - [killKthBit](https://github.com/jpacsai/codeSignal/blob/master/TheCore/2_AtTheCrossroads/9_killKthBit.js)
+      - CodeWars:
+         - 8kyu - [Find the smallest integer in the array](https://github.com/jpacsai/codeWars/blob/master/8kyu/FindSmallestInt.js)
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
