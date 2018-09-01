@@ -5,7 +5,7 @@
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [1](#01-08) | [2](#02-08) | [3](#03-08) | [4](#04-08) | [5](#05-08) | [6](#06-08) | [7](#07-08) | [8](#08-08) | [9](#09-08) | [10](#10-08) | [11](#11-08) | [12](#12-08) | [13](#13-08) | [14](#14-08) | [15](#15-08) | [16](#16-08) |
-| [17](#17-08) | [18](#18-08) | [19](#20-08) | [20](#20-08) | [21](#21-08) | [22](#22-08) | [23](#23-08) | [24](#24-08) | [25](#25-08) | [26](#26-08) | [27](#27-08) | [28](#28-08)  | [29](#29-08) | [30](#30-08) | 31  |  
+| [17](#17-08) | [18](#18-08) | [19](#20-08) | [20](#20-08) | [21](#21-08) | [22](#22-08) | [23](#23-08) | [24](#24-08) | [25](#25-08) | [26](#26-08) | [27](#27-08) | [28](#28-08)  | [29](#29-08) | [30](#30-08) | [31](#31-08) |  
 
 ***
 
@@ -381,5 +381,17 @@
          - 6kyu - [TitleCase](https://github.com/jpacsai/codeWars/blob/master/6kyu/TitleCase.js)
    - 📘 **Book:**  
       - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
+   
+   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
+
+## **31-08** 
+   - 📰 **Article:**  
+      - [I created the same app in React and Vue. Here are the differences.](https://medium.freecodecamp.org/i-created-the-same-app-in-react-and-vue-here-are-the-differences-67e71421df31)
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 6kyu - [IQtest](https://github.com/jpacsai/codeWars/blob/master/6kyu/IQtest.js)
+         - 6kyu - [HeurekaNums](https://github.com/jpacsai/codeWars/blob/master/6kyu/HeurekaNums.js)
+   - 📘 **Book:**  
+      - [Learning JavaScript Design Patterns](https://www.amazon.com/Learning-JavaScript-Design-Patterns-Developers/dp/1449331815)
    
    <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
