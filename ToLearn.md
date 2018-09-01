@@ -5,6 +5,7 @@ To complete a subject, read/watch at least 3 sources 🌑 -> 🌓 -> 🌕
 ## JavaScript:  
 | Subject:                      | Theory | Practice |
 | --------                      | :----: | :------: |
+| Set                           | 🌑
 | Recursion                     | 🌑
 | Sorting                       |
 | Design Patterns               |
@@ -17,7 +18,7 @@ To complete a subject, read/watch at least 3 sources 🌑 -> 🌓 -> 🌕
 | Subject:               | Theory | Practice |
 | --------               | :----: | :------: |
 | BEM                    |
-| Sass                   |
+| Sass                   | 🌑     | 🌑
 | Relative units         |
 | CSS variables          |
 
