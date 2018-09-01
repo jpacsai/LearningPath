@@ -32,5 +32,5 @@
 | **[27](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#27-08)** | Nanodegree  |       |         | 1        |        |         |      |             |
 | **[28](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#28-08)** | Nanodegree  |       |         | 1        |        |         |      |             |
 | **[29](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#29-08)** | freeCodeCamp  |       |         | 1        |        |         |      |             |
-| **[30](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#30-08)** | freeCodeCamp  |       | 2       | 5        |        |         | Clean Code |             |
-| **31** |             |       |         |          |        |         |      |             |
+| **[30](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#30-08)** | freeCodeCamp  |       | 2       | 5        |        | Clean Code |   |
+| **[31](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/August/Daily-log_August.md#31-08)** |             |       | 1       | 2        |        | Learning JavaScript Design Patterns |      |             |
