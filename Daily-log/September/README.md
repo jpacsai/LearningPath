@@ -1,9 +1,9 @@
 # Summary - September
-### 👉 [Detailed daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/September/Daily-log_September.md) 👈
+### 👉 [Detailed daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/September/Daily-log_September.md) 👈 | [2018](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
 
-| Date   | Course                | Video | Article | Exercise | Project | Book | Achievement |
-| :----: | :-------------------: | :---: | :-----: | :------: | :-----: | :--: | :---------: |
-| **01** |                       |       |         |          |         |      |             |
+| Date   | Course                | Video | Article | Exercise | Project | Book                                | Achievement |
+| :----: | :-------------------: | :---: | :-----: | :------: | :-----: | :--------------------------------:  | :---------: |
+| **[01](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/September/Daily-log_September.md#01-09)**                                  |                       |       | 2       | 2        |         | JavaScript: Visual QuickStart Guide |             |
 | **02** |                       |       |         |          |         |      |             |
 | **03** |                       |       |         |          |         |      |             |
 | **04** |                       |       |         |          |         |      |             |
