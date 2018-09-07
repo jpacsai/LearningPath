@@ -4,7 +4,7 @@
 
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
+| [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
@@ -78,6 +78,20 @@
       - CodeWars:
          - 6kyu - [Positions Average](https://github.com/jpacsai/codeWars/blob/master/6kyu/PositionsAverage.js)
          - 6kyu - [Find the odd int](https://github.com/jpacsai/codeWars/blob/master/6kyu/FindOddInt.js)
+   
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
+
+## **06-09**  
+   - 📰 **Article:**  
+      - [How to make responsiveness super simple with CSS Variables](https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-with-css-variables-8c90ebf80d7f)
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 7kyu - [Simple string division](https://github.com/jpacsai/codeWars/blob/master/7kyu/SimpleStrDivision.js)
+         - 7kyu - [Deodorant Evaporator](https://github.com/jpacsai/codeWars/blob/master/7kyu/DeodorantEvaporator.js)
+   - 📘 **Book:**  
+      - [JavaScript: Visual QuickStart Guide](https://www.amazon.com/JavaScript-Visual-QuickStart-Tom-Negrino/dp/0321772970/ref=sr_1_2?s=books&ie=UTF8&qid=1535887350&sr=1-2&keywords=JavaScript%3A+Visual+QuickStart+Guide)
    
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
