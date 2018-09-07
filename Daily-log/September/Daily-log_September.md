@@ -4,7 +4,7 @@
 
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [1](#01-09) | [2](#02-09) | [3](#03-09) |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
+| [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
@@ -49,6 +49,22 @@
          - 6kyu - [The Supermarket Queue](https://github.com/jpacsai/codeWars/blob/master/6kyu/TheSupermarketQueue.js)
    - 📘 **Book:**  
       - [JavaScript: Visual QuickStart Guide](https://www.amazon.com/JavaScript-Visual-QuickStart-Tom-Negrino/dp/0321772970/ref=sr_1_2?s=books&ie=UTF8&qid=1535887350&sr=1-2&keywords=JavaScript%3A+Visual+QuickStart+Guide)
+   
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
+
+## **04-09**  
+   - 📚 **Course:**
+      - edX MIT - Introduction to Computer Science and Programming Using Python:
+         - Week 1 - 1. Introduction to Python
+   - 📰 **Article:**  
+      - [How to use Git efficiently](https://medium.freecodecamp.org/how-to-use-git-efficiently-54320a236369)
+      - [Let's learn about Set and its unique functionality in JavaScript 🎲](https://medium.freecodecamp.org/lets-learn-about-set-and-its-unique-functionality-in-javascript-5654c5c03de2)
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 6kyu - [Cat Kata, Part 1](https://github.com/jpacsai/codeWars/blob/master/6kyu/CatKataPart1.js)
+         - 6kyu - [Arrays of cats and dogs](https://github.com/jpacsai/codeWars/blob/master/6kyu/ArrayCatsDogs.js)
    
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
