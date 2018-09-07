@@ -38,3 +38,18 @@
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
 ***
+
+## **03-09**  
+   - 📰 **Article:**  
+      - [Understanding Execution Context and Execution Stack in Javascript](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
+      - [Here’s how you can make better use of JavaScript arrays](https://medium.freecodecamp.org/heres-how-you-can-make-better-use-of-javascript-arrays-3efd6395af3c)
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 6kyu - [Build Tower](https://github.com/jpacsai/codeWars/blob/master/6kyu/BuildTower.js)
+         - 6kyu - [The Supermarket Queue](https://github.com/jpacsai/codeWars/blob/master/6kyu/TheSupermarketQueue.js)
+   - 📘 **Book:**  
+      - [JavaScript: Visual QuickStart Guide](https://www.amazon.com/JavaScript-Visual-QuickStart-Tom-Negrino/dp/0321772970/ref=sr_1_2?s=books&ie=UTF8&qid=1535887350&sr=1-2&keywords=JavaScript%3A+Visual+QuickStart+Guide)
+   
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
