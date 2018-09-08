@@ -110,6 +110,8 @@
          - 7kyu - [Count all the sheep on farm in the heights of New Zealand](https://github.com/jpacsai/codeWars/blob/master/7kyu/CountSheepNewZeal.js)
          - 6kyu - [Multiples of 3 or 5](https://github.com/jpacsai/codeWars/blob/master/6kyu/Multip3or5.js)
          - 6kyu - [Make the Deadfish swim.](https://github.com/jpacsai/codeWars/blob/master/6kyu/MakeDeadfishSwim.js)
+         - 7kyu - [Remove duplicate words](https://github.com/jpacsai/codeWars/blob/master/7kyu/RemoveDuplWords.js)
+         - 7kyu - [Form The Minimum](https://github.com/jpacsai/codeWars/blob/master/7kyu/FormMin.js)
    
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
