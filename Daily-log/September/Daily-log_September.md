@@ -4,7 +4,7 @@
 
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) | [7](#07-09) |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
+| [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) | [7](#07-09) | [8](#08-09) |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
@@ -112,6 +112,19 @@
          - 6kyu - [Make the Deadfish swim.](https://github.com/jpacsai/codeWars/blob/master/6kyu/MakeDeadfishSwim.js)
          - 7kyu - [Remove duplicate words](https://github.com/jpacsai/codeWars/blob/master/7kyu/RemoveDuplWords.js)
          - 7kyu - [Form The Minimum](https://github.com/jpacsai/codeWars/blob/master/7kyu/FormMin.js)
+   
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
+
+## **08-09**  
+   - 📚 **Course:**
+      - edX MIT - Introduction to Computer Science and Programming Using Python:
+         - Week 1 - 2. Core Elements of Programs
+         - Week 1 - Problem Set
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 7kyu - [Simple Fun #136: Missing Values](https://github.com/jpacsai/codeWars/blob/master/7kyu/SimpleFun136.js)
    
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
