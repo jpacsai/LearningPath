@@ -4,7 +4,7 @@
 
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) | [7](#07-09) | [8](#08-09) | [9](#09-09) | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
+| [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) | [7](#07-09) | [8](#08-09) | [9](#09-09) | [10](10-09) | 11  | 12  | 13  | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
@@ -138,6 +138,22 @@
       - CodeWars:
          - 7kyu - [Snail Crawls Up](https://github.com/jpacsai/codeWars/blob/master/7kyu/SnailCrawlsUp.js)
    
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
+
+## **10-09**  
+   - 📚 **Course:**
+      - edX MIT - Introduction to Computer Science and Programming Using Python:
+         - Week 2 - 4. Functions
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 6kyu - [Catalog](https://github.com/jpacsai/codeWars/blob/master/6kyu/Catalog.js)
+         - 6kyu - [Decode the Morse code](https://github.com/jpacsai/codeWars/blob/master/6kyu/DecodeMorseCode.js)
+         - 6kyu - [Tic-Tac-Toe-like table Generator](https://github.com/jpacsai/codeWars/blob/master/6kyu/TicTacToeGen.js)
+         - 7kyu - [Vowel Count](https://github.com/jpacsai/codeWars/blob/master/7kyu/VowelCount.js)
+         - 8kyu - [Even or Odd](https://github.com/jpacsai/codeWars/blob/master/8kyu/EvenOrOdd.js)
+         
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
 ***
