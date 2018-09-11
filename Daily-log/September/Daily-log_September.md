@@ -169,7 +169,7 @@
          - 5kyu - [Simple Fun #166: Best Match](https://github.com/jpacsai/codeWars/blob/master/5kyu/SimpleFun166.js)
          - 5kyu - [Extract the domain name from a URL](https://github.com/jpacsai/codeWars/blob/master/5kyu/ExtractDomain.js)
          - 7kyu - [Boiled Eggs](https://github.com/jpacsai/codeWars/blob/master/7kyu/BoiledEggs.js)
-    - 🔨 **Project:**
+   - 🔨 **Project:**
       - JavaScript 30 challenge:  
          - Project 01: Drum Kit
          
