@@ -176,3 +176,18 @@
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
 ***
+
+## **12-09**  
+   - 📚 **Course:**
+      - edX MIT - Introduction to Computer Science and Programming Using Python:
+         - Week 2 - 4. Functions
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 6kyu - [N smallest elements in original order](https://github.com/jpacsai/codeWars/blob/master/6kyu/NSmallestElem.js)
+         - 5kyu - [Count the Digit](https://github.com/jpacsai/codeWars/blob/master/7kyu/CountTheDigit.js)
+   - 📘 **Book:**  
+      - [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_1?ie=UTF8&qid=1516370547&sr=8-1&keywords=eloquent+javascript)
+         
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
