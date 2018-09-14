@@ -4,7 +4,7 @@
 
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) | [7](#07-09) | [8](#08-09) | [9](#09-09) | [10](10-09) | [11](#11-09) | [12](#12-09) | 13  | 14  | 15  | 16  |
+| [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) | [7](#07-09) | [8](#08-09) | [9](#09-09) | [10](10-09) | [11](#11-09) | [12](#12-09) | [13](#13-09) | 14  | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
@@ -187,6 +187,19 @@
          - 5kyu - [Count the Digit](https://github.com/jpacsai/codeWars/blob/master/7kyu/CountTheDigit.js)
    - 📘 **Book:**  
       - [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_1?ie=UTF8&qid=1516370547&sr=8-1&keywords=eloquent+javascript)
+         
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
+
+## **13-09**  
+   - 📚 **Course:**
+      - edX MIT - Introduction to Computer Science and Programming Using Python:
+         - Week 2 - Problem Set
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 5kyu - [Advanced Pig Latin](https://github.com/jpacsai/codeWars/blob/master/5kyu/AdvancedPigLatin.js)
+         - 6kyu - [Lemmings Battle!](https://github.com/jpacsai/codeWars/blob/master/6kyu/LemmingsBattle.js)
          
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
