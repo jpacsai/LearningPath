@@ -4,7 +4,7 @@
 
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) | [7](#07-09) | [8](#08-09) | [9](#09-09) | [10](10-09) | [11](#11-09) | [12](#12-09) | [13](#13-09) | 14  | 15  | 16  |
+| [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) | [7](#07-09) | [8](#08-09) | [9](#09-09) | [10](10-09) | [11](#11-09) | [12](#12-09) | [13](#13-09) | [14](#14-09) | 15  | 16  |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
@@ -202,6 +202,22 @@
       - CodeWars:
          - 5kyu - [Advanced Pig Latin](https://github.com/jpacsai/codeWars/blob/master/5kyu/AdvancedPigLatin.js)
          - 6kyu - [Lemmings Battle!](https://github.com/jpacsai/codeWars/blob/master/6kyu/LemmingsBattle.js)
+         
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
+
+## **14-09**  
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 8kyu - [Count Odd Numbers below n](https://github.com/jpacsai/codeWars/blob/master/8kyu/CountOddBelowN.js)
+         - 7kyu - [Simple Fun #176: Reverse Letter](https://github.com/jpacsai/codeWars/blob/master/7kyu/SimpleFun176.js)
+         - 7kyu - [Simple Fun #40: Timed Reading](https://github.com/jpacsai/codeWars/blob/master/7kyu/SimpleFun40.js)
+         - 7kyu - [Simple Fun #37: House Numbers Sum](https://github.com/jpacsai/codeWars/blob/master/7kyu/SimpleFun37.js)
+         - 7kyu - [Even or Odd - Which is Greater?](https://github.com/jpacsai/codeWars/blob/master/7kyu/EvenOrOddGreater.js)
+   - 🔨 **Project:**
+      - 30days 30sites challenge:  
+         - Day 1: Portfolio
          
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
