@@ -22,7 +22,6 @@
 | Brad Hussey | [Learn Sass](https://www.youtube.com/playlist?list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR) | | ![Progress](http://progressed.io/bar/38) | Sass |
 | [p1xt-guides](https://github.com/P1xt/p1xt-guides) | [Web Development with Computer Science Foundations](https://github.com/P1xt/p1xt-guides/blob/master/wd-cs.md) | [repo](https://github.com/jpacsai/p1xt-guides/blob/master/wd-cs.md) | ![Progress](http://progressed.io/bar/5) | |
 | edX: MIT | [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python) | [repo](https://github.com/jpacsai/MIT_IntroToCS) | ![Progress](http://progressed.io/bar/11) | Python |
-| edX: Harvard University | [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) | [repo](https://github.com/jpacsai/HarvardX_CS50x) | ![Progress](http://progressed.io/bar/25) | Scratch, C|
 | edX: University of Pennsylvania | [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) | [repo](https://github.com/jpacsai/PennX_Javascript_SD4x) | ![Progress](http://progressed.io/bar/50) | JavaScript |
 | The Odin Project | [Full Stack Curriculum](https://www.theodinproject.com/home) | [repo](https://github.com/jpacsai/TheOdinProject) | ![Progress](http://progressed.io/bar/5) | |
 <!--
