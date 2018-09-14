@@ -196,6 +196,8 @@
    - 📚 **Course:**
       - edX MIT - Introduction to Computer Science and Programming Using Python:
          - Week 2 - Problem Set
+   - 📰 **Article:**  
+      - [The Ultimate Guide to Learning Full Stack Web Development in 6 months, for $30](https://codeburst.io/the-ultimate-guide-to-learning-full-stack-web-development-in-6-months-for-30-72b3854a7458)
    - 💪 **Exercise:**  
       - CodeWars:
          - 5kyu - [Advanced Pig Latin](https://github.com/jpacsai/codeWars/blob/master/5kyu/AdvancedPigLatin.js)
