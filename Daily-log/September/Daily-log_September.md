@@ -233,3 +233,18 @@
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
 ***
+
+## **16-09**  
+   - 📚 **Course:**
+      - edX MIT - Introduction to Computer Science and Programming Using Python:
+         - Week 3 - Tuples and Lists
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 7kyu - [Elapsed Seconds](https://github.com/jpacsai/codeWars/blob/master/7kyu/ElapsedSeconds.js)
+         - 7kyu - [Highest and Lowest](https://github.com/jpacsai/codeWars/blob/master/7kyu/HighestAndLowest.js)
+         - 3kyu - [The soul of wit: reverse an array](https://github.com/jpacsai/codeWars/blob/master/3kyu/SoulOfWitReverse.js)
+         - 6kyu - [Find the unique number](https://github.com/jpacsai/codeWars/blob/master/6kyu/FindUniqueNum.js)
+         
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
