@@ -5,7 +5,7 @@
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) | [7](#07-09) | [8](#08-09) | [9](#09-09) | [10](10-09) | [11](#11-09) | [12](#12-09) | [13](#13-09) | [14](#14-09) | [15](#15-09) | [16](#16-09) |
-| 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
+| [17](#17-09) | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
 
@@ -244,6 +244,21 @@
          - 7kyu - [Highest and Lowest](https://github.com/jpacsai/codeWars/blob/master/7kyu/HighestAndLowest.js)
          - 3kyu - [The soul of wit: reverse an array](https://github.com/jpacsai/codeWars/blob/master/3kyu/SoulOfWitReverse.js)
          - 6kyu - [Find the unique number](https://github.com/jpacsai/codeWars/blob/master/6kyu/FindUniqueNum.js)
+         
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
+
+## **17-09**  
+   - 📚 **Course:**
+      - edX MIT - Introduction to Computer Science and Programming Using Python:
+         - Week 3 - Dictionaries
+         - Week 3 - Problem Set
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 4kyu - [Range Extraction](https://github.com/jpacsai/codeWars/blob/master/4kyu/RangeExtraction.js)
+   - 📘 **Book:**  
+      - [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_1?ie=UTF8&qid=1516370547&sr=8-1&keywords=eloquent+javascript)
          
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
