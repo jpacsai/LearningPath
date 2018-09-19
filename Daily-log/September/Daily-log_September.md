@@ -5,7 +5,7 @@
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) | [7](#07-09) | [8](#08-09) | [9](#09-09) | [10](10-09) | [11](#11-09) | [12](#12-09) | [13](#13-09) | [14](#14-09) | [15](#15-09) | [16](#16-09) |
-| [17](#17-09) | [18](#18-09) | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
+| [17](#17-09) | [18](#18-09) | [[19](#21-09) | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
 
@@ -272,6 +272,22 @@
          - Pomodoro Clock
    - 📘 **Book:**  
       - [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846/ref=sr_1_1?ie=UTF8&qid=1516370547&sr=8-1&keywords=eloquent+javascript)
+         
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
+
+## **19-09**  
+   - 📚 **Course:**
+      - edX Arizona State University - College Algebra and Problem Solving
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 5kyu - [RGB To Hex Conversion](https://github.com/jpacsai/codeWars/blob/master/5kyu/RGBtoHEX.js)
+   - 🔨 **Project:**
+      - freeCodeCamp - Responsive Web Design Projects:
+         - Pomodoro Clock
+   - 📘 **Book:**  
+      - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994/ref=sr_1_1?ie=UTF8&qid=1537392750&sr=8-1&keywords=automate+the+boring+stuff+with+python)
          
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
