@@ -5,7 +5,7 @@
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) | [7](#07-09) | [8](#08-09) | [9](#09-09) | [10](10-09) | [11](#11-09) | [12](#12-09) | [13](#13-09) | [14](#14-09) | [15](#15-09) | [16](#16-09) |
-| [17](#17-09) | [18](#18-09) | [19](#19-09) | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
+| [17](#17-09) | [18](#18-09) | [19](#19-09) | [20](#20-09) | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
 
@@ -288,6 +288,20 @@
          - Pomodoro Clock
    - 📘 **Book:**  
       - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994/ref=sr_1_1?ie=UTF8&qid=1537392750&sr=8-1&keywords=automate+the+boring+stuff+with+python)
+         
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
+
+## **20-09**  
+   - 📚 **Course:**
+      - edX Arizona State University - College Algebra and Problem Solving
+   - 💪 **Exercise:**  
+      - CodeWars:
+         - 5kyu - [N00bify - English to n00b Translator](https://github.com/jpacsai/codeWars/blob/master/5kyu/N00bify.js)
+   - 🔨 **Project:**
+      - freeCodeCamp - Responsive Web Design Projects:
+         - Pomodoro Clock
          
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
