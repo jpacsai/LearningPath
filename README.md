@@ -19,6 +19,7 @@
 | School | Course | Link | Progress | Skills learnt |
 | :----- | :----- | :--: | :------- | :------------ |
 | [freeCodeCamp](https://www.freecodecamp.org/) | Front End Development Path | [repo](https://github.com/jpacsai/freeCodeCamp) | ![Progress](http://progressed.io/bar/95) | |
+| edX - Arizona State University | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) |  | ![Progress](http://progressed.io/bar/18) | Algebra |
 | Brad Hussey | [Learn Sass](https://www.youtube.com/playlist?list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR) | | ![Progress](http://progressed.io/bar/38) | Sass |
 | [p1xt-guides](https://github.com/P1xt/p1xt-guides) | [Web Development with Computer Science Foundations](https://github.com/P1xt/p1xt-guides/blob/master/wd-cs.md) | [repo](https://github.com/jpacsai/p1xt-guides/blob/master/wd-cs.md) | ![Progress](http://progressed.io/bar/5) | |
 | edX: MIT | [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python) | [repo](https://github.com/jpacsai/MIT_IntroToCS) | ![Progress](http://progressed.io/bar/33) | Python |
