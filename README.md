@@ -8,6 +8,7 @@
 
 | School | Course | Repo | Date finished | Skills learnt | Certificate |
 | :----- | :----- | :--: | :------------ | :------------ | :---------: |
+| [freeCodeCamp](https://www.freecodecamp.org/) | Front End Development Path | [repo](https://github.com/jpacsai/freeCodeCamp) | 24/09/2018 | | <ul><li>[Responsive Web Design](https://www.freecodecamp.org/certification/jpacsai/responsive-web-design)</li>   <li>[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)</li>   <li>[Front End Libraries](https://www.freecodecamp.org/certification/jpacsai/front-end-libraries)</li></ul> |
 | Google Udacity Scholarship | [Front End Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree) | 05/08/2018 | HTML5, CSS3, git, JavaScript, Jasmine, Gulp, React (+Redux) | [certificate](https://confirm.udacity.com/TGGNUQPZ) |
 | Google Udacity Scholarship | [Front End Web Developer Challenge Phase](https://www.udacity.com/google-scholarships) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase) | 06/02/2018 | HTML5, CSS3, JavaScript, jQuery | |
 | Codecademy | [Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery) | | 29/01/2018 | jQuery | |
@@ -18,13 +19,13 @@
 
 | School | Course | Link | Progress | Skills learnt |
 | :----- | :----- | :--: | :------- | :------------ |
-| [freeCodeCamp](https://www.freecodecamp.org/) | Front End Development Path | [repo](https://github.com/jpacsai/freeCodeCamp) | ![Progress](http://progressed.io/bar/95) | |
 | edX - Arizona State University | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) |  | ![Progress](http://progressed.io/bar/24) | Algebra |
 | Brad Hussey | [Learn Sass](https://www.youtube.com/playlist?list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR) | | ![Progress](http://progressed.io/bar/38) | Sass |
 | [p1xt-guides](https://github.com/P1xt/p1xt-guides) | [Web Development with Computer Science Foundations](https://github.com/P1xt/p1xt-guides/blob/master/wd-cs.md) | [repo](https://github.com/jpacsai/p1xt-guides/blob/master/wd-cs.md) | ![Progress](http://progressed.io/bar/5) | |
 | edX: MIT | [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python) | [repo](https://github.com/jpacsai/MIT_IntroToCS) | ![Progress](http://progressed.io/bar/33) | Python |
 | edX: University of Pennsylvania | [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) | [repo](https://github.com/jpacsai/PennX_Javascript_SD4x) | ![Progress](http://progressed.io/bar/50) | JavaScript |
 | The Odin Project | [Full Stack Curriculum](https://www.theodinproject.com/home) | [repo](https://github.com/jpacsai/TheOdinProject) | ![Progress](http://progressed.io/bar/5) | |
+
 <!--
 - ### [Udemy - The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)  
   16/02/2017 -  
