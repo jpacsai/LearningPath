@@ -5,7 +5,7 @@
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) | [7](#07-09) | [8](#08-09) | [9](#09-09) | [10](10-09) | [11](#11-09) | [12](#12-09) | [13](#13-09) | [14](#14-09) | [15](#15-09) | [16](#16-09) |
-| [17](#17-09) | [18](#18-09) | [19](#19-09) | [20](#20-09) | [21](#21-09) | [22](#22-09) | [23](#23-09) | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
+| [17](#17-09) | [18](#18-09) | [19](#19-09) | [20](#20-09) | [21](#21-09) | [22](#22-09) | [23](#23-09) | [24](#24-09) | 25  | 26  | 27  | 28  | 29  | 30  | 31  |  
 
 ***
 
@@ -335,6 +335,21 @@
    - 🔨 **Project:**
       - freeCodeCamp - Responsive Web Design Projects:
          - Pomodoro Clock
+         
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
+
+## **24-09**  
+   - 📚 **Course:**
+      - edX Arizona State University - College Algebra and Problem Solving
+   - 🔨 **Project:**
+      - freeCodeCamp - Responsive Web Design Projects:
+         - Pomodoro Clock
+   - 🏆 **ACHIEVEMENT**  
+      - [freeCodeCamp - Responsive Web Design: Survey Form](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Survey_Form/) project complete  
+      - [freeCodeCamp - Front End Libraries certificate](https://www.freecodecamp.org/certification/jpacsai/front-end-libraries)  
+      ![freeCodeCamp - Front End Libraries certificate](https://res.cloudinary.com/jutzee/image/upload/v1537954854/certificates/fcc-frontendlib.jpg)
          
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
