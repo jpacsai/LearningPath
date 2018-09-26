@@ -92,20 +92,6 @@
    
 ***
 
-## **09-08**  
-   - 💪 **Exercise:**  
-      - CodeFights:
-         - Arcade 59 - [spiralNumbers](https://github.com/jpacsai/codeFights/blob/master/Intro/12_LandOfLogic/59_spiralNumbers.js)
-   - 🔨 **Project:**
-      - freeCodeCamp - Responsive Web Design Projects:
-         - Survey Form
-   - 🏆 **ACHIEVEMENT**  
-   [freeCodeCamp - Responsive Web Design: Survey Form](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Survey_Form/) project complete
-   
-   <p dir='rtl'> <a href='#august---2018'>Top 🔼</a> </p>
-   
-***
-
 ## **10-08**  
    - 💪 **Exercise:**  
       - CodeFights:
