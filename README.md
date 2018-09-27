@@ -1,4 +1,4 @@
-# LearningPath
+# 📚 LearningPath
 
 ### 👉 [Daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md) 👈
 
@@ -8,7 +8,7 @@
 
 | School | Course | Repo | Date finished | Skills learnt | Certificate |
 | :----- | :----- | :--: | :------------ | :------------ | :---------: |
-| [freeCodeCamp](https://www.freecodecamp.org/) | Front End Development Path | [repo](https://github.com/jpacsai/freeCodeCamp) | 24/09/2018 | | <ul><li>[Responsive Web Design](https://www.freecodecamp.org/certification/jpacsai/responsive-web-design)</li>   <li>[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)</li>   <li>[Front End Libraries](https://www.freecodecamp.org/certification/jpacsai/front-end-libraries)</li></ul> |
+| [freeCodeCamp](https://www.freecodecamp.org/) | Front End Development Path | [repo](https://github.com/jpacsai/freeCodeCamp) | 24/09/2018 | HTML5, CSS3, Responsive Web Design Principles, git, JavaScript, ES6, RegExp, OOP, Functional Programming, Bootstrap, jQuery, Sass, React, Redux | <ul><li>[Responsive Web Design](https://www.freecodecamp.org/certification/jpacsai/responsive-web-design)</li>   <li>[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)</li>   <li>[Front End Libraries](https://www.freecodecamp.org/certification/jpacsai/front-end-libraries)</li></ul> |
 | Google Udacity Scholarship | [Front End Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree) | 05/08/2018 | HTML5, CSS3, git, JavaScript, Jasmine, Gulp, React (+Redux) | [certificate](https://confirm.udacity.com/TGGNUQPZ) |
 | Google Udacity Scholarship | [Front End Web Developer Challenge Phase](https://www.udacity.com/google-scholarships) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase) | 06/02/2018 | HTML5, CSS3, JavaScript, jQuery | |
 | Codecademy | [Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery) | | 29/01/2018 | jQuery | |
