@@ -20,7 +20,7 @@
 | School | Course | Link | Progress | Skills learnt |
 | :----- | :----- | :--: | :------- | :------------ |
 | edX - Arizona State University | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) |  | ![Progress](http://progressed.io/bar/24) | Algebra |
-| edX - Harvard University | [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology-harvardx-cs50t) |  | ![Progress](http://progressed.io/bar/17) | introduction to technology |
+| edX - Harvard University | [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology-harvardx-cs50t) | [repo](https://github.com/jpacsai/Harvard_CS50/tree/master/cs50_UnderstandingTech) | ![Progress](http://progressed.io/bar/17) | introduction to technology |
 | edX - Microsoft | [Advanced CSS Concepts](https://www.edx.org/course/advanced-css-concepts-1) | [repo](https://github.com/jpacsai/Microsoft_AdvancedCSS) | ![Progress](http://progressed.io/bar/20) | Responisve Layout, CSS Modules, Sass/Less, Testing |
 | Brad Hussey | [Learn Sass](https://www.youtube.com/playlist?list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR) | | ![Progress](http://progressed.io/bar/38) | Sass |
 | edX: MIT | [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python) | [repo](https://github.com/jpacsai/MIT_IntroToCS) | ![Progress](http://progressed.io/bar/33) | Python |
