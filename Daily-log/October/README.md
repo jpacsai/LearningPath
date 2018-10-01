@@ -1,4 +1,6 @@
-# Summary - ...
+# Summary - October
+
+### 👉 [Detailed daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md) 👈 | [2018](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
 
 | Date   | Course                | Video | Article | Exercise | Project | Book | Achievement |
 | :----: | :-------------------: | :---: | :-----: | :------: | :-----: | :--: | :---------: |
