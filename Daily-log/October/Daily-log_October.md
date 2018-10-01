@@ -57,8 +57,12 @@
 ***
 
 ## **01-10**  
-`...`
-   
+   - 📚 **Course:**
+      - CS50's Understanding Technology
+      - edX Arizona State University - College Algebra and Problem Solving
+   - 📘 **Book:**  
+      - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994/ref=sr_1_1?ie=UTF8&qid=1537392750&sr=8-1&keywords=automate+the+boring+stuff+with+python)
+      
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p>  
    
 ***
