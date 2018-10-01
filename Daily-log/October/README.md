@@ -21,10 +21,10 @@
         <td></td>
         <td></td>
         <td></td>
+        <td>✔️</td>
+        <td>✔️</td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><ul><li>CS50's Understanding Technology</li><li>College Algebra and Problem Solving</li></lu></td>
         <td></td>
         <td></td>
         <td></td>
