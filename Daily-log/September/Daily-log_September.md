@@ -5,7 +5,7 @@
 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [1](#01-09) | [2](#02-09) | [3](#03-09) | [4](#04-09) | [5](#05-09) | [6](#06-09) | [7](#07-09) | [8](#08-09) | [9](#09-09) | [10](10-09) | [11](#11-09) | [12](#12-09) | [13](#13-09) | [14](#14-09) | [15](#15-09) | [16](#16-09) |
-| [17](#17-09) | [18](#18-09) | [19](#19-09) | [20](#20-09) | [21](#21-09) | [22](#22-09) | [23](#23-09) | [24](#24-09) | [25](#25-09) | [26](#26-09) | [27](#27-09) | 28  | 29  | 30  | 31  |  
+| [17](#17-09) | [18](#18-09) | [19](#19-09) | [20](#20-09) | [21](#21-09) | [22](#22-09) | [23](#23-09) | [24](#24-09) | [25](#25-09) | [26](#26-09) | [27](#27-09) | [28](#28-09) | 29  | 30  | 31  |  
 
 ***
 
@@ -383,6 +383,17 @@
       - edX Arizona State University - College Algebra and Problem Solving
    - 📰 **Article:**  
       - [* { Box-sizing: Border-box } FTW](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
+         
+   <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
+   
+***
+
+## **28-09**  
+   - 📚 **Course:**
+      - edX Microsoft - Advanced CSS Concepts
+      - edX Arizona State University - College Algebra and Problem Solving
+   - 📘 **Book:**  
+      - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994/ref=sr_1_1?ie=UTF8&qid=1537392750&sr=8-1&keywords=automate+the+boring+stuff+with+python)
          
    <p dir='rtl'> <a href='#september---2018'>Top 🔼</a> </p>
    
