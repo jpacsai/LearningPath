@@ -1,16 +1,6 @@
 # October - 2018
 
 <table align="center">
-    <colgroup>
-       <col span="1" style="width: 40px;"></col>
-       <col span="1" style="width: 40px;"></col>
-       <col span="1" style="width: 40px;"></col>
-       <col span="1" style="width: 40px;"></col>
-       <col span="1" style="width: 40px;"></col>
-       <col span="1" style="width: 40px;"></col>
-       <col span="1" style="width: 40px;"></col>
-    </colgroup>
-    <tbody>
         <tr>
             <th>Mon</th>
             <th>Tue</th> 
@@ -21,7 +11,7 @@
             <th>Sun</th>
         </tr>
         <tr>
-            <td align="center" width="50px">1</td>
+            <td align="center">1</td>
             <td align="center">2</td>
             <td align="center">3</td>
             <td align="center">4</td>
@@ -62,7 +52,6 @@
             <td align="center">30</td>
             <td align="center">31</td>
         </tr>
-    </tbody>
 </table>
 
 ***
