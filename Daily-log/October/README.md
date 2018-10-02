@@ -4,27 +4,27 @@
 
 <table>
     <tr>
-        <th>Day</th>
-        <th>Achievem.</th>
-        <th>Project</th>
-        <th>Practice</th>
-        <th>Math</th>
-        <th>Interview prep</th>
-        <th>Challenge</th>
-        <th>Course</th>
-        <th>Video</th>
-        <th>Article</th>
-        <th>Book</th>
+        <th align="center"><h6>Day</h6></th>
+        <th align="center"><h6>Achievem.</h6></th>
+        <th align="center"><h6>Project</h6></th>
+        <th align="center"><h6>Practice</h6></th>
+        <th align="center"><h6>Math</h6></th>
+        <th align="center"><h6>Interview prep</h6></th>
+        <th align="center"><h6>Challenge</h6></th>
+        <th align="center"><h6>Course</h6></th>
+        <th align="center"><h6>Video</h6></th>
+        <th align="center"><h6>Article</h6></th>
+        <th align="center"><h6>Book</h6></th>
     </tr>
-    <tr>
-        <td>01</td>
+    <tr align="center">
+        <td align="center">01</td>
         <td></td>
         <td></td>
         <td></td>
         <td>✔️</td>
         <td>✔️</td>
         <td></td>
-        <td><ul><li>CS50's Understanding Technology</li><li>College Algebra and Problem Solving</li></lu></td>
+        <td>CS50's Understanding Technology</td>
         <td></td>
         <td></td>
         <td></td>
@@ -418,5 +418,18 @@
         <td></td>
         <td></td>
         <td></td>
+    </tr>
+    <tr>
+        <th align="center"><h6>Day</h6></th>
+        <th align="center"><h6>Achievem.</h6></th>
+        <th align="center"><h6>Project</h6></th>
+        <th align="center"><h6>Practice</h6></th>
+        <th align="center"><h6>Math</h6></th>
+        <th align="center"><h6>Interview prep</h6></th>
+        <th align="center"><h6>Challenge</h6></th>
+        <th align="center"><h6>Course</h6></th>
+        <th align="center"><h6>Video</h6></th>
+        <th align="center"><h6>Article</h6></th>
+        <th align="center"><h6>Book</h6></th>
     </tr>
 </table>
