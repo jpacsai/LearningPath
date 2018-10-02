@@ -16,7 +16,7 @@
         <th align="center"><h6>Article</h6></th>
         <th align="center"><h6>Achievem.</h6></th>
     </tr>
-    <tr align="center">
+    <tr> <!--------------- // --------------- 01 --------------- // --------------->
         <td align="center">01</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -29,7 +29,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 02 --------------- // --------------->
         <td align="center">02</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -42,7 +42,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 03 --------------- // --------------->
         <td align="center">03</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -55,7 +55,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 04 --------------- // --------------->
         <td align="center">04</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -68,7 +68,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 05 --------------- // --------------->
         <td align="center">05</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -81,7 +81,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 06 --------------- // --------------->
         <td align="center">06</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -94,7 +94,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 07 --------------- // --------------->
         <td align="center">07</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -107,7 +107,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 08 --------------- // ---------------> 
         <td align="center">08</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -120,7 +120,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 09 --------------- // --------------->
         <td align="center">09</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -133,7 +133,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 10 --------------- // --------------->
         <td align="center">10</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -146,7 +146,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 11 --------------- // --------------->
         <td align="center">11</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -159,7 +159,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 12 --------------- // --------------->
         <td align="center">12</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -172,7 +172,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 13 --------------- // --------------->
         <td align="center">13</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -185,7 +185,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 14 --------------- // --------------->
         <td align="center">14</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -198,7 +198,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 15 --------------- // --------------->
         <td align="center">15</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -211,7 +211,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 16 --------------- // --------------->
         <td align="center">16</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -224,7 +224,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 17 --------------- // --------------->
         <td align="center">17</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -237,7 +237,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 18 --------------- // --------------->
         <td align="center">18</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -250,7 +250,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 19 --------------- // --------------->
         <td align="center">19</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -263,7 +263,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 20 --------------- // --------------->
         <td align="center">20</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -276,7 +276,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 21 --------------- // --------------->
         <td align="center">21</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -289,7 +289,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 22 --------------- // --------------->
         <td align="center">22</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -302,7 +302,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 23 --------------- // --------------->
         <td align="center">23</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -315,7 +315,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 24 --------------- // --------------->
         <td align="center">24</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -328,7 +328,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 25 --------------- // --------------->
         <td align="center">25</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -341,7 +341,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 26 --------------- // --------------->
         <td align="center">26</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -354,7 +354,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 27 --------------- // --------------->
         <td align="center">27</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -367,7 +367,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 28 --------------- // --------------->
         <td align="center">28</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -380,7 +380,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 29 --------------- // --------------->
         <td align="center">29</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -393,7 +393,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 30 --------------- // --------------->
         <td align="center">30</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
@@ -406,7 +406,7 @@
         <td align="center"></td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
-    <tr>
+    <tr> <!--------------- // --------------- 31 --------------- // --------------->
         <td align="center">31</td>
         <td align="left"></td><!--- Project -->
         <td align="center"></td><!--- Practice -->
