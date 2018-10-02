@@ -421,15 +421,15 @@
     </tr>
     <tr>
         <th align="center"><h6>Day</h6></th>
-        <th align="center"><h6>Achievem.</h6></th>
         <th align="center"><h6>Project</h6></th>
         <th align="center"><h6>Practice</h6></th>
         <th align="center"><h6>Math</h6></th>
         <th align="center"><h6>Interview prep</h6></th>
         <th align="center"><h6>Challenge</h6></th>
         <th align="center"><h6>Course</h6></th>
+        <th align="center"><h6>Book</h6></th>
         <th align="center"><h6>Video</h6></th>
         <th align="center"><h6>Article</h6></th>
-        <th align="center"><h6>Book</h6></th>
+        <th align="center"><h6>Achievem.</h6></th>
     </tr>
 </table>
