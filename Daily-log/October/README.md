@@ -22,7 +22,7 @@
         <td align="center"></td><!--- Practice -->
         <td align="center">✔️</td><!--- Math -->
         <td align="center">✔️</td><!--- Interview prep -->
-        <td align="left"></td><!--- Challenge -->
+        <td align="left"><a href="https://github.com/jpacsai/100-days-of-code">100days-of-code</a>: Day 01</td><!--- Challenge -->
         <td align="left">CS50's Understanding Technology</td><!--- Course -->
         <td align="left"></td><!--- Book -->
         <td align="center"></td><!--- Video -->
@@ -32,14 +32,14 @@
     <tr> <!--------------- // --------------- 02 --------------- // --------------->
         <td align="center">02</td>
         <td align="left"></td><!--- Project -->
-        <td align="center"></td><!--- Practice -->
-        <td align="center"></td><!--- Math -->
-        <td align="center"></td><!--- Interview prep -->
-        <td align="left"></td><!--- Challenge -->
+        <td align="center">1</td><!--- Practice -->
+        <td align="center">✔️</td><!--- Math -->
+        <td align="center">✔️</td><!--- Interview prep -->
+        <td align="left">100-days-of-code: Day 02</td><!--- Challenge -->
         <td align="left"></td><!--- Course -->
         <td align="left"></td><!--- Book -->
         <td align="center"></td><!--- Video -->
-        <td align="center"></td><!--- Article -->
+        <td align="center">2</td><!--- Article -->
         <td align="left"></td><!--- Achievement -->
     </tr>
     <tr> <!--------------- // --------------- 03 --------------- // --------------->
