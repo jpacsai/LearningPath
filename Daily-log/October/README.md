@@ -4,10 +4,10 @@
 
 <table>
     <tr>
-        <th>Date</th>
-        <th>Achievement</th>
+        <th>Day</th>
+        <th>Achievem.</th>
         <th>Project</th>
-        <th>Exercise</th>
+        <th>Practice</th>
         <th>Math</th>
         <th>Interview prep</th>
         <th>Challenge</th>
