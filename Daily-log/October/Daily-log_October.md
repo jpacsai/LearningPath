@@ -58,15 +58,48 @@
         </tr>
 </table>
 
+<!--
+Template:
+## **01-10**  
+   - 🔨 **Project:**  
+   - 💪 **Practice:**  
+   - 📚 **Course:**  
+   - 📘 **Book:**  
+   - 📰 **Article:**  
+   - 📺 **Video:**  
+   - ⚔️ **Challenge:**  
+   - **Comments:**  
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+-->
+
 ***
 
 ## **01-10**  
    - 📚 **Course:**
-      - CS50's Understanding Technology
-      - edX Arizona State University - College Algebra and Problem Solving
+        - CS50's Understanding Technology
+        - edX Arizona State University - College Algebra and Problem Solving
    - 📘 **Book:**  
-      - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994/ref=sr_1_1?ie=UTF8&qid=1537392750&sr=8-1&keywords=automate+the+boring+stuff+with+python)
+        - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994/ref=sr_1_1?ie=UTF8&qid=1537392750&sr=8-1&keywords=automate+the+boring+stuff+with+python)
+   - ⚔️ **Challenge:**
+        - 100-days-of-code: [Day 01](https://github.com/jpacsai/100-days-of-code/edit/master/README.md#day-01)
+   - **Comments:**  
+        - started the #100DaysOfCode Challenge today
+        - trying to refactor the daily log's tables in markdown, incorporating html to make it more easier to navigate in, not that easy as I thought 😑
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p>  
    
 ***
+
+## **02-10**  
+   - 💪 **Practice:**  
+        - Codewars: 6kyu - [Most consecutive 0's in a row](https://github.com/jpacsai/codeWars/blob/master/6kyu/MostConseZero.js)
+   - 📰 **Article:**  
+        - [Structuring projects and naming components in React](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
+        - [All of the Tools You Should Be Using](https://medium.com/@robert.claudio96/all-of-the-tools-you-should-be-using-c29c34afc932)
+   - ⚔️ **Challenge:**  
+        - 100-days-of-code: [Day 02](https://github.com/jpacsai/100-days-of-code/edit/master/README.md#day-02)
+   - **Comments:**  
+      - still trying to style those tables from yesterday... getting there... I think... 😅
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
