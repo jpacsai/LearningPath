@@ -14,9 +14,11 @@
         </tr>
         <tr>
             <td align="center">
-                    <a href="#01-10">1</a>
+                <a href="#01-10">1</a>
             </td>
-            <td align="center">2</td>
+            <td align="center">
+                <a href="#02-10">2</a>
+            </td>
             <td align="center">3</td>
             <td align="center">4</td>
             <td align="center">5</td>
