@@ -2,6 +2,12 @@
 
 ### 👉 [Detailed daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md) 👈 | [2018](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
 
+***
+
+**Achievements this month:**  
+
+***
+
 <table>
     <tr>
         <th align="center"><h6>Day</h6></th>
