@@ -7,3 +7,4 @@
 | Project     | 🔨    |
 | Book        | 📘    |
 | Achievement | 🏆    |
+| Challenge   | ⚔️    |
