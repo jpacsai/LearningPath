@@ -48,7 +48,9 @@
         </td>
     </tr>
     <tr> <!--------------- // --------------- 02 --------------- // --------------->
-        <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#02-10">02<a>
+        <td>
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#02-10">02<a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
