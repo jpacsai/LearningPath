@@ -34,7 +34,7 @@
         <!---------- Interview prep ---------->
         <td align="center">✔️</td>
         <!--------------- Book --------------->
-        <td align="left"></td>
+        <td align="left">Automate the Boring Stuff with Python</td>
         <!-------------- Article ------------->
         <td align="center"></td>
         <!--------------- Video -------------->
@@ -52,7 +52,7 @@
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Math --------------->
         <td align="center">✔️</td>
         <!---------- Interview prep ---------->
