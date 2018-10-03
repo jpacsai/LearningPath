@@ -22,7 +22,9 @@
         <th align="center"><h6>Challenge</h6></th>
     </tr>
     <tr> <!--------------- // --------------- 01 --------------- // --------------->
-        <td align="center">01</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#01-10">01<a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
@@ -46,7 +48,7 @@
         </td>
     </tr>
     <tr> <!--------------- // --------------- 02 --------------- // --------------->
-        <td align="center">02</td>
+        <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#02-10">02<a>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
