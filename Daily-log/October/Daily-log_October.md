@@ -4,13 +4,13 @@
 
 <table align="center">
         <tr>
-            <th>Mon</th>
-            <th>Tue</th> 
-            <th>Wed</th>
-            <th>Thu</th>
-            <th>Fri</th>
-            <th>Sat</th>
-            <th>Sun</th>
+            <th><img width=15/>Mon<img width=15/></th>
+            <th><img width=15/>Tue<img width=15/></th> 
+            <th><img width=15/>Wed<img width=15/></th>
+            <th><img width=15/>Thu<img width=15/></th>
+            <th><img width=15/>Fri<img width=15/></th>
+            <th><img width=15/>Sat<img width=15/></th>
+            <th><img width=15/>Sun<img width=15/></th>
         </tr>
         <tr>
             <td align="center">1</td>
