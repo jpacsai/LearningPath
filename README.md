@@ -149,7 +149,7 @@
     <td>HTML5, CSS3, Bootstrap, JavaScript, git</td>
     <!-- Certificate -->
     <td>
-      <a href="https://i.imgur.com/IdbOMUy.jpg">certificate</a>  
+      <a href="https://i.imgur.com/IdbOMUy.jpg">Certificate</a>  
     </td>
   </tr>
 </table>
@@ -162,6 +162,8 @@
 | learn.shayhowe.com | [Learn to Code - HTML & CSS](https://learn.shayhowe.com/html-css/) | | 10/01/2018 | HTML, CSS | |
 
 -->
+
+***
 
 ## Courses I am doing:
 
@@ -300,6 +302,8 @@
 
 -->
 
+***
+
 ## Learning paths I reference:
 
 <table>
@@ -307,7 +311,6 @@
     <th>School</th>
     <th>Path</th>
     <th>Link</th>
-    <th>Skills</th>
   </tr>
   <tr>
     <!-- School -->
@@ -322,8 +325,6 @@
     <td>
       <a href="https://github.com/jpacsai/p1xt-guides/blob/master/wd-cs.md">repo</a>
     </td>
-    <!-- Skills -->
-    <td></td>
   </tr>
   <tr>
     <!-- Path -->
@@ -334,8 +335,6 @@
     <td>
       <a href="https://github.com/jpacsai/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md">repo</a>
     </td>
-    <!-- Skills -->
-    <td></td>
   </tr>
   <tr>
     <!-- School -->
@@ -348,11 +347,9 @@
     <td>
       <a href="https://github.com/jpacsai/TheOdinProject">repo</a>
     </td>
-    <!-- Skills -->
-    <td></td>
   </tr>
   <tr>
-    <td colspan="4" align="center">
+    <td colspan="3" align="center">
       <h3>👉<a href="https://github.com/jpacsai/LearningPath/blob/master/MyLearningPath.md"> My own learning path plan </a>👈</h3>
     </td>
   </tr>
