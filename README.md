@@ -41,11 +41,11 @@
   <!--------------- // --------------- FreeCodeCamp --------------- // --------------->
   <tr>
     <!-- School -->
-    <td>
+    <td rowspan="3">
       <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>
     </td>
     <!-- Course -->
-    <td>Front End Development Path</td>
+    <td>Responsive Web Design</td>
     <!-- Repo -->
     <td>
       <a href="https://github.com/jpacsai/freeCodeCamp">repo</a>
@@ -53,29 +53,50 @@
     <!-- Date finished -->
     <td>24/09/2018</td>
     <!-- Skills learnt -->
-    <td>HTML5, CSS3, Responsive Web Design Principles, git, JavaScript, ES6, RegExp, OOP, Functional Programming, Bootstrap, jQuery, Sass, React, Redux</td>
+    <td>HTML5, CSS3, Applied Accessibility, CSS FlexBox, CSS Grid, Responsive Web Design Principles</td>
     <!-- Certificate -->
     <td>
-      <ul>
-        <li>
-          <a href="https://www.freecodecamp.org/certification/jpacsai/responsive-web-design">
-          Responsive Web Design</a>
-        </li>
-        <li>
-          <a href="https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures">
+      <a href="https://www.freecodecamp.org/certification/jpacsai/responsive-web-design">
+      Responsive Web Design</a>
+    </td>
+  <tr>
+    <!-- Course -->
+    <td>JavaScript Algorithms and Data Structures</td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/freeCodeCamp">repo</a>
+    </td>
+    <!-- Date finished -->
+    <td>24/09/2018</td>
+    <!-- Skills learnt -->
+    <td>JavaScript, ES6, RegExp, OOP, Functional Programming</td>
+    <!-- Certificate -->
+    <td>
+      <a href="https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures">
           JavaScript Algorithms and Data Structures</a>
-        </li>
-        <li>
-          <a href="https://www.freecodecamp.org/certification/jpacsai/front-end-libraries">
+    </td>
+  </tr>
+  <tr>
+    <!-- Course -->
+    <td>Front End Libraries</td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/freeCodeCamp">repo</a>
+    </td>
+    <!-- Date finished -->
+    <td>24/09/2018</td>
+    <!-- Skills learnt -->
+    <td>Bootstrap, jQuery, Sass, React, Redux</td>
+    <!-- Certificate -->
+    <td>
+      <a href="https://www.freecodecamp.org/certification/jpacsai/front-end-libraries">
           Front End Libraries</a>
-        </li>
-      </ul>
     </td>
   </tr>
   <!--------------- // --------------- Nanodegree --------------- // --------------->
   <tr>
     <!-- School -->
-    <td>Google Udacity Scholarship</td>
+    <td rowspan="2">Google Udacity Scholarship</td>
     <!-- Course -->
     <td>
       <a href="https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001">Front End Developer Nanodegree</a>
@@ -95,11 +116,9 @@
   </tr>
   <!--------------- // --------------- Nanodegree Challenge Phase --------------- // --------------->
   <tr>
-    <!-- School -->
-    <td>Google Udacity Scholarship</td>
     <!-- Course -->
     <td>
-      <a href="https://www.udacity.com/google-scholarships">Front End Web Developer Nanodegree - Challenge Phase</a>
+      <a href="https://www.udacity.com/google-scholarships">Challenge Phase</a>
     </td>
     <!-- Repo -->
     <td>
@@ -170,11 +189,11 @@
 
 <table>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>School</th>
+    <th>Course</th>
+    <th>Repo</th>
+    <th>Progress</th>
+    <th>Skills</th>
   </tr>
   <!--------------- // --------------- Course --------------- // --------------->
   <tr>
