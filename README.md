@@ -6,31 +6,332 @@
 
 ## Courses I have finished:
 
+<!-- template
+<!--------------- // --------------- Course --------------- // ---------------
+  <tr>
+    <!-- School --
+    <td></td>
+    <!-- Course --
+    <td>
+      <a href=""></a>
+    </td>
+    <!-- Repo --
+    <td>
+      <a href="">repo</a>
+    </td>
+    <!-- Date finished --
+    <td></td>
+    <!-- Skills learnt --
+    <td></td>
+    <!-- Certificate --
+    <td></td>
+  </tr>
+
+-->
+
+<table>
+  <tr>
+    <th>School</th>
+    <th>Course</th>
+    <th>Repo</th>
+    <th>Date Finished</th>
+    <th>Skills Learnt</th>
+    <th>Certificate</th>
+  </tr>
+  <!--------------- // --------------- FreeCodeCamp --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>
+      <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>
+    </td>
+    <!-- Course -->
+    <td>Front End Development Path</td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/freeCodeCamp">repo</a>
+    </td>
+    <!-- Date finished -->
+    <td>24/09/2018</td>
+    <!-- Skills learnt -->
+    <td>HTML5, CSS3, Responsive Web Design Principles, git, JavaScript, ES6, RegExp, OOP, Functional Programming, Bootstrap, jQuery, Sass, React, Redux</td>
+    <!-- Certificate -->
+    <td>
+      <ul>
+        <li>
+          <a href="https://www.freecodecamp.org/certification/jpacsai/responsive-web-design">
+          Responsive Web Design</a>
+        </li>
+        <li>
+          <a href="https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures">
+          JavaScript Algorithms and Data Structures</a>
+        </li>
+        <li>
+          <a href="https://www.freecodecamp.org/certification/jpacsai/front-end-libraries">
+          Front End Libraries</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <!--------------- // --------------- Nanodegree --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>Google Udacity Scholarship</td>
+    <!-- Course -->
+    <td>
+      <a href="https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001">Front End Developer Nanodegree</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree">repo</a>
+    </td>
+    <!-- Date finished -->
+    <td>05/08/2018</td>
+    <!-- Skills learnt -->
+    <td>HTML5, CSS3, git, JavaScript, Jasmine, Gulp, React (+ Redux)</td>
+    <!-- Certificate -->
+    <td>
+      <a href="https://confirm.udacity.com/TGGNUQPZ">Certificate</a>
+    </td>
+  </tr>
+  <!--------------- // --------------- Nanodegree Challenge Phase --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>Google Udacity Scholarship</td>
+    <!-- Course -->
+    <td>
+      <a href="https://www.udacity.com/google-scholarships">Front End Web Developer Nanodegree - Challenge Phase</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase">repo</a>
+    </td>
+    <!-- Date finished -->
+    <td>06/02/2018</td>
+    <!-- Skills learnt -->
+    <td>HTML5, CSS3, JavaScript, jQuery</td>
+    <!-- Certificate -->
+    <td></td>
+  </tr>
+  <!--------------- // --------------- Codeberry --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>Codeberry</td>
+    <!-- Course -->
+    <td>
+      <a href="https://codeberryschool.com/en/">Front End course</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/codeBerrySchool">repo</a>
+    </td>
+    <!-- Date finished -->
+    <td>11/01/2018</td>
+    <!-- Skills learnt -->
+    <td>HTML5, CSS3, Bootstrap, JavaScript, git</td>
+    <!-- Certificate -->
+    <td>
+      <a href="https://i.imgur.com/IdbOMUy.jpg">certificate</a>  
+    </td>
+  </tr>
+
+<!-- 
+
 | School | Course | Repo | Date finished | Skills learnt | Certificate |
 | :----- | :----- | :--: | :------------ | :------------ | :---------: |
-| [freeCodeCamp](https://www.freecodecamp.org/) | Front End Development Path | [repo](https://github.com/jpacsai/freeCodeCamp) | 24/09/2018 | HTML5, CSS3, Responsive Web Design Principles, git, JavaScript, ES6, RegExp, OOP, Functional Programming, Bootstrap, jQuery, Sass, React, Redux | <ul><li>[Responsive Web Design](https://www.freecodecamp.org/certification/jpacsai/responsive-web-design)</li>   <li>[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/jpacsai/javascript-algorithms-and-data-structures)</li>   <li>[Front End Libraries](https://www.freecodecamp.org/certification/jpacsai/front-end-libraries)</li></ul> |
-| Google Udacity Scholarship | [Front End Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree) | 05/08/2018 | HTML5, CSS3, git, JavaScript, Jasmine, Gulp, React (+Redux) | [certificate](https://confirm.udacity.com/TGGNUQPZ) |
-| Google Udacity Scholarship | [Front End Web Developer Challenge Phase](https://www.udacity.com/google-scholarships) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase) | 06/02/2018 | HTML5, CSS3, JavaScript, jQuery | |
 | Codecademy | [Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery) | | 29/01/2018 | jQuery | |
-| Codeberry | [Front End course](https://codeberryschool.com/en/) | [repo](https://github.com/jpacsai/codeBerrySchool) | 11/01/2018 | HTML5, CSS3, Bootstrap, JavaScript, git | [certificate](https://i.imgur.com/IdbOMUy.jpg) |
 | learn.shayhowe.com | [Learn to Code - HTML & CSS](https://learn.shayhowe.com/html-css/) | | 10/01/2018 | HTML, CSS | |
+
+-->
 
 ## Courses I am doing:
 
+<!-- template
+  <!--------------- // --------------- Course --------------- // ---------------
+  <tr>
+    <!-- School --
+    <td></td>
+    <!-- Course --
+    <td>
+      <a href=""></a>
+    </td>
+    <!-- Repo --
+    <td>
+      <a href="">repo</a>
+    </td>
+    <!-- Progress --
+    <td>
+      <img src="http://progressed.io/bar/0">
+    </td>
+    <!-- Skills --
+    <td></td>
+  </tr>
+
+-->
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <!--------------- // --------------- Course --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>edX - Arizona State University</td>
+    <!-- Course -->
+    <td>
+      <a href="https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x">College Algebra and Problem Solving</a>
+    </td>
+    <!-- Repo -->
+    <td></td>
+    <!-- Progress -->
+    <td>
+      <img src="http://progressed.io/bar/24">
+    </td>
+    <!-- Skills -->
+    <td>Algebra</td>
+  </tr>
+  <!--------------- // --------------- Course --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>edX - Harvard University</td>
+    <!-- Course -->
+    <td>
+      <a href="https://www.edx.org/course/cs50s-understanding-technology-harvardx-cs50t">CS50's Understanding Technology</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/Harvard_CS50/tree/master/cs50_UnderstandingTech">repo</a>
+    </td>
+    <!-- Progress -->
+    <td>
+      <img src="http://progressed.io/bar/17">
+    </td>
+    <!-- Skills -->
+    <td>introduction to technology</td>
+  </tr>
+  <!--------------- // --------------- Course --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>edX - Microsoft</td>
+    <!-- Course -->
+    <td>
+      <a href="https://www.edx.org/course/advanced-css-concepts-1">Advanced CSS Concepts</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/Microsoft_AdvancedCSS">repo</a>
+    </td>
+    <!-- Progress -->
+    <td>
+      <img src="http://progressed.io/bar/60">
+    </td>
+    <!-- Skills -->
+    <td>Responisve Layout, CSS Modules, Sass/Less, Testing</td>
+  </tr>
+  <!--------------- // --------------- Course --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>edX: MIT</td>
+    <!-- Course -->
+    <td>
+      <a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python">Introduction to Computer Science and Programming Using Python</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/MIT_IntroToCS">repo</a>
+    </td>
+    <!-- Progress -->
+    <td>
+      <img src="http://progressed.io/bar/44">
+    </td>
+    <!-- Skills -->
+    <td>Python</td>
+  </tr>
+  <!--------------- // --------------- Course --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>edX: University of Pennsylvania</td>
+    <!-- Course -->
+    <td>
+      <a href="https://www.edx.org/course/programming-web-javascript-pennx-sd4x">Programming for the Web with JavaScript</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/PennX_Javascript_SD4x">repo</a>
+    </td>
+    <!-- Progress -->
+    <td>
+      <img src="http://progressed.io/bar/50">
+    </td>
+    <!-- Skills -->
+    <td>JavaScript, React</td>
+  </tr>
+</table>
+
+<!--
+
 | School | Course | Link | Progress | Skills learnt |
 | :----- | :----- | :--: | :------- | :------------ |
-| edX - Arizona State University | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) |  | ![Progress](http://progressed.io/bar/24) | Algebra |
-| edX - Harvard University | [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology-harvardx-cs50t) | [repo](https://github.com/jpacsai/Harvard_CS50/tree/master/cs50_UnderstandingTech) | ![Progress](http://progressed.io/bar/17) | introduction to technology |
-| edX - Microsoft | [Advanced CSS Concepts](https://www.edx.org/course/advanced-css-concepts-1) | [repo](https://github.com/jpacsai/Microsoft_AdvancedCSS) | ![Progress](http://progressed.io/bar/40) | Responisve Layout, CSS Modules, Sass/Less, Testing |
+
 | Brad Hussey | [Learn Sass](https://www.youtube.com/playlist?list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR) | | ![Progress](http://progressed.io/bar/38) | Sass |
-| edX: MIT | [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python) | [repo](https://github.com/jpacsai/MIT_IntroToCS) | ![Progress](http://progressed.io/bar/33) | Python |
-| edX: University of Pennsylvania | [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) | [repo](https://github.com/jpacsai/PennX_Javascript_SD4x) | ![Progress](http://progressed.io/bar/50) | JavaScript |
+
+-->
 
 ## Learning paths I reference:
-| School | Course | Link | Skills learnt |
-| :----- | :----- | :--: | :------------ |
-| [p1xt-guides](https://github.com/P1xt/p1xt-guides) | [Web Development with Computer Science Foundations](https://github.com/P1xt/p1xt-guides/blob/master/wd-cs.md) | [repo](https://github.com/jpacsai/p1xt-guides/blob/master/wd-cs.md) |
-| The Odin Project | [Full Stack Curriculum](https://www.theodinproject.com/home) | [repo](https://github.com/jpacsai/TheOdinProject) | |
+
+<table>
+  <tr>
+    <th>School</th>
+    <th>Path</th>
+    <th>Link</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <!-- School -->
+    <td rowspan="2">
+      <a href="https://github.com/P1xt/p1xt-guides">p1xt-guides</a>
+    </td>
+    <!-- Path -->
+    <td>
+      <a href="https://github.com/P1xt/p1xt-guides/blob/master/wd-cs.md">Web Development with Computer Science Foundations</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/p1xt-guides/blob/master/wd-cs.md">repo</a>
+    </td>
+    <!-- Skills -->
+    <td></td>
+  </tr>
+  <tr>
+    <!-- Path -->
+    <td>
+      <a href="https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md">Get Job ready - JavaScript Edition - Version 2.0</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md">repo</a>
+    </td>
+    <!-- Skills -->
+    <td></td>
+  </tr>
+  <tr>
+    <!-- School -->
+    <td>
+      <a href="https://www.theodinproject.com/home">The Odin Project</a>
+    </td>
+    <!-- Path -->
+    <td>Full Stack</td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/TheOdinProject">repo</a>
+    </td>
+    <!-- Skills -->
+    <td></td>
+  </tr>
+</table>
 
 <!--
 - ### [Udemy - The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)  
