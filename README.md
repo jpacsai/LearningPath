@@ -351,6 +351,11 @@
     <!-- Skills -->
     <td></td>
   </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <h3>👉<a href="https://github.com/jpacsai/LearningPath/blob/master/MyLearningPath.md"> My own learning path plan </a>👈</h3>
+    </td>
+  </tr>
 </table>
 
 <!--
