@@ -51,7 +51,7 @@
       <a href="https://github.com/jpacsai/freeCodeCamp">repo</a>
     </td>
     <!-- Date finished -->
-    <td>24/09/2018</td>
+    <td>14/08/2018</td>
     <!-- Skills learnt -->
     <td>HTML5, CSS3, Applied Accessibility, CSS FlexBox, CSS Grid, Responsive Web Design Principles</td>
     <!-- Certificate -->
@@ -67,7 +67,7 @@
       <a href="https://github.com/jpacsai/freeCodeCamp">repo</a>
     </td>
     <!-- Date finished -->
-    <td>24/09/2018</td>
+    <td>19/06/2018</td>
     <!-- Skills learnt -->
     <td>JavaScript, ES6, RegExp, OOP, Functional Programming</td>
     <!-- Certificate -->
