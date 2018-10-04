@@ -100,25 +100,30 @@
         </td>
     </tr>
     <tr> <!--------------- // --------------- 04 --------------- // --------------->
-        <td align="center">04</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#04-10"><b>04</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">Advanced CSS Concepts</td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
-        <td align="left"></td>
+        <td align="left">
+            <a href="https://github.com/jpacsai/100-days-of-code">100days-of-code</a>:<br>
+            <b>Day 04</b>
+        </td>
     </tr>
     <tr> <!--------------- // --------------- 05 --------------- // --------------->
         <td align="center">05</td>
