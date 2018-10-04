@@ -23,7 +23,7 @@
     </tr>
     <tr> <!--------------- // --------------- 01 --------------- // --------------->
         <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#01-10">01<a>
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#01-10"><b>01</b><a>
         </td>
         <!-------------- Project ------------->
         <td align="left"></td>
@@ -48,8 +48,8 @@
         </td>
     </tr>
     <tr> <!--------------- // --------------- 02 --------------- // --------------->
-        <td>
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#02-10">02<a>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#02-10"><b>02</b><a>
         </td>
         <!-------------- Project ------------->
         <td align="left"></td>
@@ -74,11 +74,13 @@
         </td>
     </tr>
     <tr> <!--------------- // --------------- 03 --------------- // --------------->
-        <td align="center">03</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#03-10"><b>03</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">Advanced CSS Concepts</td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
@@ -88,11 +90,14 @@
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
-        <td align="left"></td>
+        <td align="left">
+            <a href="https://github.com/jpacsai/100-days-of-code">100days-of-code</a>:<br>
+            <b>Day 03</b>
+        </td>
     </tr>
     <tr> <!--------------- // --------------- 04 --------------- // --------------->
         <td align="center">04</td>
