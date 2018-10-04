@@ -14,13 +14,17 @@
         </tr>
         <tr>
             <td align="center">
-                <a href="#01-10">1</a>
+                <a href="#01-10"><b>1</b></a>
             </td>
             <td align="center">
-                <a href="#02-10">2</a>
+                <a href="#02-10"><b>2</b></a>
             </td>
-            <td align="center">3</td>
-            <td align="center">4</td>
+            <td align="center">
+                <a href="#03-10"><b>3</b></a>
+            </td>
+            <td align="center">
+                <a href="#04-10"><b>4</b></a>
+            </td>
             <td align="center">5</td>
             <td align="center">6</td>
             <td align="center">7</td>
@@ -121,5 +125,24 @@ Template:
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
 
+
+***
+
+## **04-10**  
+   - 💪 **Practice:**  
+        - CodeWars: 7kyu - [Crossed words](https://github.com/jpacsai/codeWars/blob/master/7kyu/CrossedWords.js)
+   - 📚 **Course:**  
+        - edX Microsoft - Advanced CSS Concepts
+   - 📰 **Article:**  
+        - [https://hackernoon.com/web-developer-monthly-september-2018-e07fb6c62d6e](https://hackernoon.com/web-developer-monthly-september-2018-e07fb6c62d6e)
+   - ⚔️ **Challenge:**  
+        - 100-days-of-code: [Day 04](https://github.com/jpacsai/100-days-of-code/edit/master/README.md#day-04)
+   - **Comments:**  
+        - I've gone through a lot of Math subjects today
+        - need to gear up on interview prep questions tomorrow though!
+        - find a todo list kind of app / website
+        
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+-->
 
 ***
