@@ -152,6 +152,7 @@
       <a href="https://i.imgur.com/IdbOMUy.jpg">certificate</a>  
     </td>
   </tr>
+</table>
 
 <!-- 
 
