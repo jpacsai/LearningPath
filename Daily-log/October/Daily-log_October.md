@@ -105,3 +105,21 @@ Template:
       - still trying to style those tables from yesterday... getting there... I think... 😅
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+
+***
+
+## **03-10**  
+   - 📚 **Course:**  
+        - edX Microsoft - Advanced CSS Concepts
+   - 📰 **Article:**  
+        - [An Introduction To Object Oriented CSS (OOCSS)](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
+   - ⚔️ **Challenge:**  
+        - 100-days-of-code: [Day 03](https://github.com/jpacsai/100-days-of-code/edit/master/README.md#day-03)
+   - **Comments:**  
+        - totally reworked the tables in the Daily Log section, pretty pleased with them, way more easier to add data to them
+        - took notes: Advanced CSS Concepts course - Module 2: CSS Modules
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+
+
+***
