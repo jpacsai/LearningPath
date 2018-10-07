@@ -210,7 +210,7 @@
     <td></td>
     <!-- Progress -->
     <td>
-      <img src="http://progressed.io/bar/24">
+      <img src="http://progressed.io/bar/32">
     </td>
     <!-- Skills -->
     <td>Algebra</td>
@@ -229,7 +229,7 @@
     </td>
     <!-- Progress -->
     <td>
-      <img src="http://progressed.io/bar/33">
+      <img src="http://progressed.io/bar/50">
     </td>
     <!-- Skills -->
     <td>introduction to technology</td>
