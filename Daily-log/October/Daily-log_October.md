@@ -25,7 +25,9 @@
             <td align="center">
                 <a href="#04-10"><b>4</b></a>
             </td>
-            <td align="center">5</td>
+            <td align="center">
+                <a href="#05-10"><b>5</b></a>
+            </td>
             <td align="center">6</td>
             <td align="center">7</td>
         </tr>
@@ -87,8 +89,6 @@ Template:
         - edX Arizona State University - College Algebra and Problem Solving
    - 📘 **Book:**  
         - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994/ref=sr_1_1?ie=UTF8&qid=1537392750&sr=8-1&keywords=automate+the+boring+stuff+with+python)
-   - ⚔️ **Challenge:**
-        - 100-days-of-code: [Day 01](https://github.com/jpacsai/100-days-of-code/edit/master/README.md#day-01)
    - **Comments:**  
         - started the #100DaysOfCode Challenge today
         - trying to refactor the daily log's tables in markdown, incorporating html to make it more easier to navigate in, not that easy as I thought 😑
@@ -103,8 +103,6 @@ Template:
    - 📰 **Article:**  
         - [Structuring projects and naming components in React](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
         - [All of the Tools You Should Be Using](https://medium.com/@robert.claudio96/all-of-the-tools-you-should-be-using-c29c34afc932)
-   - ⚔️ **Challenge:**  
-        - 100-days-of-code: [Day 02](https://github.com/jpacsai/100-days-of-code/edit/master/README.md#day-02)
    - **Comments:**  
       - still trying to style those tables from yesterday... getting there... I think... 😅
       
@@ -117,8 +115,6 @@ Template:
         - edX Microsoft - Advanced CSS Concepts
    - 📰 **Article:**  
         - [An Introduction To Object Oriented CSS (OOCSS)](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
-   - ⚔️ **Challenge:**  
-        - 100-days-of-code: [Day 03](https://github.com/jpacsai/100-days-of-code/edit/master/README.md#day-03)
    - **Comments:**  
         - totally reworked the tables in the Daily Log section, pretty pleased with them, way more easier to add data to them
         - took notes: Advanced CSS Concepts course - Module 2: CSS Modules
@@ -135,14 +131,25 @@ Template:
         - edX Microsoft - Advanced CSS Concepts
    - 📰 **Article:**  
         - [https://hackernoon.com/web-developer-monthly-september-2018-e07fb6c62d6e](https://hackernoon.com/web-developer-monthly-september-2018-e07fb6c62d6e)
-   - ⚔️ **Challenge:**  
-        - 100-days-of-code: [Day 04](https://github.com/jpacsai/100-days-of-code/edit/master/README.md#day-04)
    - **Comments:**  
         - I've gone through a lot of Math subjects today
         - need to gear up on interview prep questions tomorrow though!
         - find a todo list kind of app / website
         
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
--->
 
 ***
+
+## **05-10**   
+   - 💪 **Practice:** 
+        - CodeWars: 7kyu - [Switcheroo](https://github.com/jpacsai/codeWars/blob/master/7kyu/Switcheroo.js)
+   - 📚 **Course:**  
+        - edX MIT - Introduction to Computer Science and Programming Using Python:
+                - Week 5: Lesson 9. Classes and Inheritance
+   - 📰 **Article:**  
+        - [How to Structure Your React Project](https://daveceddia.com/react-project-structure/)
+        - [CSS Flex—An Interactive Tutorial](https://medium.freecodecamp.org/css-flex-an-interactive-tutorial-19ff6e93558)
+   - **Comments:**  
+   The next lesson is out at the Python CS course, hurraaaay! Let's get to work...
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
