@@ -28,7 +28,9 @@
             <td align="center">
                 <a href="#05-10"><b>5</b></a>
             </td>
-            <td align="center">6</td>
+            <td align="center">
+                <a href="#06-10"><b>6</b></a>
+            </td>
             <td align="center">7</td>
         </tr>
         <tr>
@@ -151,5 +153,21 @@ Template:
         - [CSS Flex—An Interactive Tutorial](https://medium.freecodecamp.org/css-flex-an-interactive-tutorial-19ff6e93558)
    - **Comments:**  
    The next lesson is out at the Python CS course, hurraaaay! Let's get to work...
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+ ***
+ 
+ ## **06-10**  
+   - 📚 **Course:**  
+        - edX MIT - Introduction to Computer Science and Programming Using Python:
+                - Week 5: 10. An Extended Example
+                - Problem Set 5
+   - 📘 **Book:** 
+        - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994/ref=sr_1_1?ie=UTF8&qid=1537392750&sr=8-1&keywords=automate+the+boring+stuff+with+python)
+   - **Comments:**  
+        - Python CS course week 5 lessons and problem set is done :)
+        - took notes too ✔️
+        - still looking for some kind of todo list app or website, maybe I go back to Trello?
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
