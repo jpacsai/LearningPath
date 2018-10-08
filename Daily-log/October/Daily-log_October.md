@@ -31,7 +31,9 @@
             <td align="center">
                 <a href="#06-10"><b>6</b></a>
             </td>
-            <td align="center">7</td>
+            <td align="center">
+                <a href="#07-10"><b>7</b></a>
+            </td>
         </tr>
         <tr>
             <td align="center">8</td>
@@ -81,6 +83,8 @@ Template:
    - **Comments:**  
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
 -->
 
 ***
@@ -171,3 +175,23 @@ Template:
         - still looking for some kind of todo list app or website, maybe I go back to Trello?
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+ 
+***
+
+## **07-10**  
+   - 💪 **Practice:**  
+        - Hacker Rank - Interview Prep Kit - Arrays:
+                - [2DArrays-DS](https://github.com/jpacsai/HackerRank/blob/master/InterviewPrep_Kit/Arrays/2DArrays-DS.js)
+                - [Left Rotation](https://github.com/jpacsai/HackerRank/blob/master/InterviewPrep_Kit/Arrays/LeftRotation.js)
+   - 📚 **Course:** 
+        - edX Harvard University - CS50's Understanding Technology:
+                - Multimedia
+   - 📰 **Article:**  
+        - [Essential skills every developer should master (besides coding)](https://medium.freecodecamp.org/3-essential-skills-every-developer-should-master-besides-coding-80e40e084241)
+   - **Comments:**
+        - started Hacker Rank's interview prep kit challenges
+        - revisited my schedule for the coming months for the courses I want to do
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
