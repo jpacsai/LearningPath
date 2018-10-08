@@ -36,7 +36,9 @@
             </td>
         </tr>
         <tr>
-            <td align="center">8</td>
+            <td align="center">
+                <a href="#08-10"><b>8</b></a>
+            </td>
             <td align="center">9</td>
             <td align="center">9</td>
             <td align="center">10</td>
@@ -191,6 +193,25 @@ Template:
    - **Comments:**
         - started Hacker Rank's interview prep kit challenges
         - revisited my schedule for the coming months for the courses I want to do
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+Template:
+## **08-10**  
+   - 🔨 **Project:**  
+        - The Odin Project - Web Development 101
+                - HTML & CSS: [Project 1](https://github.com/jpacsai/TheOdinProject/tree/master/WebDev101/Project1)
+   - 💪 **Practice:**  
+        - CodeWars: 7kyu - [Number of People in the Bus](https://github.com/jpacsai/codeWars/blob/master/7kyu/NumPeopleBus.js)
+   - 📚 **Course:**  
+        - edX Microsoft - Advanced CSS Concepts:
+                - Module 3: Sass/Less Preprocessing
+   - **Comments:**  
+        - I felt like doing a small project so I started The Odin Project first one's, recreate Google search page. I have collected the assets for that and set up the basic layout
+        - Done a lot of math today
+        - Started to use OneNote for taking notes, so far so good... but the code highlighter add-on doesn't work 😠
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
