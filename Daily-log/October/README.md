@@ -210,17 +210,17 @@
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">Advanced CSS Concepts</td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
@@ -229,19 +229,19 @@
     <tr> <!--------------- // --------------- 10 --------------- // --------------->
         <td align="center">10</td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">The Odin Project <a href="https://github.com/jpacsai/TheOdinProject/tree/master/WebDev101/Project1">1</a></td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">2</td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center"></td>
+        <td align="center">2</td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
