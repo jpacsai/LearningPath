@@ -42,7 +42,9 @@
             <td align="center">
                 <a href="#09-10"><b>9</b></a>
             </td>
-            <td align="center">10</td>
+            <td align="center">
+                <a href="#10-10"><b>10</b></a>    
+            </td>
             <td align="center">11</td>
             <td align="center">12</td>
             <td align="center">13</td>
@@ -226,6 +228,22 @@ Template:
         - [A deep dive into this in JavaScript: why it’s critical to writing good code.](https://medium.freecodecamp.org/a-deep-dive-into-this-in-javascript-why-its-critical-to-writing-good-code-7dca7eb489e7)
    - **Comments:**  
         - Done loads of maths today too, great progress, happy with it 😁
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **10-10**  
+   - 🔨 **Project:**  
+        - The Odin Project - Web Development 101
+                - HTML & CSS: [Project 1](https://github.com/jpacsai/TheOdinProject/tree/master/WebDev101/Project1)
+   - 💪 **Practice:**  
+        - CodeWars: 6kyu - [Convert string to camel case](https://github.com/jpacsai/codeWars/blob/master/6kyu/ConvertStrToCamel.js)
+   - 📰 **Article:**  
+        - [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
+        - [How to be an uncommonly good web developer](https://medium.freecodecamp.org/how-to-be-an-uncommonly-good-web-developer-7f745978351f)
+   - **Comments:**  
+        - Didn't have as much time to learn/code today unfortunately but still tinkered a little with the Odin project 1 and did some maths and a little JS practice on codewars
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
