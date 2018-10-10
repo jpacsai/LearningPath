@@ -39,33 +39,34 @@
             <td align="center">
                 <a href="#08-10"><b>8</b></a>
             </td>
-            <td align="center">9</td>
-            <td align="center">9</td>
+            <td align="center">
+                <a href="#09-10"><b>9</b></a>
+            </td>
             <td align="center">10</td>
             <td align="center">11</td>
             <td align="center">12</td>
             <td align="center">13</td>
+            <td align="center">14</td>
         </tr>
         <tr>
-            <td align="center">14</td>
             <td align="center">15</td>
             <td align="center">16</td>
             <td align="center">17</td>
             <td align="center">18</td>
             <td align="center">19</td>
             <td align="center">20</td>
-        </tr>
-        <tr>   
             <td align="center">21</td>
+        </tr>
+        <tr>
             <td align="center">22</td>
             <td align="center">23</td>
             <td align="center">24</td>
             <td align="center">25</td>
             <td align="center">26</td>
             <td align="center">27</td>
+            <td align="center">28</td>
         </tr>
         <tr>
-            <td align="center">28</td>
             <td align="center">29</td>
             <td align="center">30</td>
             <td align="center">31</td>
@@ -212,6 +213,19 @@ Template:
         - I felt like doing a small project so I started The Odin Project first one's, recreate Google search page. I have collected the assets for that and set up the basic layout
         - Done a lot of math today
         - Started to use OneNote for taking notes, so far so good... but the code highlighter add-on doesn't work 😠
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **09-10**  
+   - 📚 **Course:**  
+        - edX Microsoft - Advanced CSS Concepts:
+                - Module 3: Sass/Less Preprocessing
+   - 📰 **Article:**  
+        - [A deep dive into this in JavaScript: why it’s critical to writing good code.](https://medium.freecodecamp.org/a-deep-dive-into-this-in-javascript-why-its-critical-to-writing-good-code-7dca7eb489e7)
+   - **Comments:**  
+        - Done loads of maths today too, great progress, happy with it 😁
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
