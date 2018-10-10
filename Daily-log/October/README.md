@@ -206,7 +206,9 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 09 --------------- // --------------->
-        <td align="center">09</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#09-10"><b>09</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
@@ -227,7 +229,9 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 10 --------------- // --------------->
-        <td align="center">10</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#10-10"><b>10</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left">The Odin Project <a href="https://github.com/jpacsai/TheOdinProject/tree/master/WebDev101/Project1">1</a></td>
         <!-------------- Course -------------->
