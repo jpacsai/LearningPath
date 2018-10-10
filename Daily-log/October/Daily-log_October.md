@@ -238,7 +238,9 @@ Template:
         - The Odin Project - Web Development 101
                 - HTML & CSS: [Project 1](https://github.com/jpacsai/TheOdinProject/tree/master/WebDev101/Project1)
    - 💪 **Practice:**  
-        - CodeWars: 6kyu - [Convert string to camel case](https://github.com/jpacsai/codeWars/blob/master/6kyu/ConvertStrToCamel.js)
+        - CodeWars:
+                - 6kyu - [Convert string to camel case](https://github.com/jpacsai/codeWars/blob/master/6kyu/ConvertStrToCamel.js)
+                - 7kyu - [Only one](https://github.com/jpacsai/codeWars/blob/master/7kyu/OnlyOne.js)
    - 📰 **Article:**  
         - [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
         - [How to be an uncommonly good web developer](https://medium.freecodecamp.org/how-to-be-an-uncommonly-good-web-developer-7f745978351f)
