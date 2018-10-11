@@ -229,7 +229,7 @@
     </td>
     <!-- Progress -->
     <td>
-      <img src="http://progressed.io/bar/50">
+      <img src="http://progressed.io/bar/66">
     </td>
     <!-- Skills -->
     <td>introduction to technology</td>
