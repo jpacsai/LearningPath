@@ -45,7 +45,9 @@
             <td align="center">
                 <a href="#10-10"><b>10</b></a>    
             </td>
-            <td align="center">11</td>
+            <td align="center">
+                <a href="#11-10"><b>11</b></a>    
+            </td>
             <td align="center">12</td>
             <td align="center">13</td>
             <td align="center">14</td>
@@ -250,3 +252,18 @@ Template:
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
 ***
+
+## **11-10**  
+   - 🔨 **Project:**  
+        - helping my cousin with her front end project
+   - 📚 **Course:** 
+        - edX Harvard University - CS50's Understanding Technology:
+                - Security
+   - 📰 **Article:**  
+        - [A Basic Guide to Choosing the Right Tech Stack for Client Work](https://medium.freecodecamp.org/a-basic-guide-to-choosing-the-right-tech-stack-for-client-work-adbd0e056742)
+   - 📺 **Video:** 
+        - CSS3 in 30 Days: Day 1 - [Style Fancy Buttons](https://www.youtube.com/watch?v=pmKyG3NBY_k&index=2&list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU&t=0s)
+   - **Comments:**  
+        - My cousin asked my opinion about a problem she has ran into while working on her front end project, we exchanged ideas. After we found a solution in a way she has imagined I created a version of mine. It was great to practice my "API" JavaScript skills 😊
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
