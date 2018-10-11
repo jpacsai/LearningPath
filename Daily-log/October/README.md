@@ -252,11 +252,13 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 11 --------------- // --------------->
-        <td align="center">11</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#11-10"><b>11</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">pair programming with my cousin on her front end project</td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">CS50's Understanding Technology</td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
@@ -266,9 +268,9 @@
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Video -------------->
-        <td align="center"></td>
+        <td align="center">1</td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
