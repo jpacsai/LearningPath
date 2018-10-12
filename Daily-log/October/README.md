@@ -270,28 +270,30 @@
         <!-------------- Article ------------->
         <td align="center">1</td>
         <!--------------- Video -------------->
-        <td align="center">1</td>
+        <td align="center">0.5</td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 12 --------------- // --------------->
-        <td align="center">12</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#12-10"><b>12</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">Intro to CS using Python</td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
-        <td align="left"></td>
+        <td align="left">Automate the Boring Stuff with Python</td>
         <!-------------- Article ------------->
         <td align="center"></td>
         <!--------------- Video -------------->
-        <td align="center"></td>
+        <td align="center">0.5</td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
