@@ -198,7 +198,7 @@
     <th>Progress</th>
     <th>Skills</th>
   </tr>
-  <!--------------- // --------------- Course --------------- // --------------->
+  <!--------------- // --------------- College Algebra and Problem Solving --------------- // --------------->
   <tr>
     <!-- School -->
     <td>edX - Arizona State University</td>
@@ -215,7 +215,7 @@
     <!-- Skills -->
     <td>Algebra</td>
   </tr>
-  <!--------------- // --------------- Course --------------- // --------------->
+  <!--------------- // --------------- CS50's Understanding Technology --------------- // --------------->
   <tr>
     <!-- School -->
     <td>edX - Harvard University</td>
@@ -234,7 +234,7 @@
     <!-- Skills -->
     <td>introduction to technology</td>
   </tr>
-  <!--------------- // --------------- Course --------------- // --------------->
+  <!--------------- // --------------- Advanced CSS Concepts --------------- // --------------->
   <tr>
     <!-- School -->
     <td>edX - Microsoft</td>
@@ -253,7 +253,7 @@
     <!-- Skills -->
     <td>Responisve Layout, CSS Modules, Sass/Less, Testing</td>
   </tr>
-  <!--------------- // --------------- Course --------------- // --------------->
+  <!--------------- // --------------- Introduction to Computer Science and Programming Using Python --------------- // --------------->
   <tr>
     <!-- School -->
     <td>edX: MIT</td>
@@ -267,12 +267,12 @@
     </td>
     <!-- Progress -->
     <td>
-      <img src="http://progressed.io/bar/55">
+      <img src="http://progressed.io/bar/66">
     </td>
     <!-- Skills -->
     <td>Python</td>
   </tr>
-  <!--------------- // --------------- Course --------------- // --------------->
+  <!--------------- // --------------- Programming for the Web with JavaScript --------------- // --------------->
   <tr>
     <!-- School -->
     <td>edX: University of Pennsylvania</td>
