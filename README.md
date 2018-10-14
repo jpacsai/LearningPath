@@ -210,7 +210,7 @@
     <td></td>
     <!-- Progress -->
     <td>
-      <img src="http://progressed.io/bar/32">
+      <img src="http://progressed.io/bar/38">
     </td>
     <!-- Skills -->
     <td>Algebra</td>
