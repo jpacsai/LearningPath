@@ -38,6 +38,27 @@
     <th>Skills Learnt</th>
     <th>Certificate</th>
   </tr>
+  
+  <!--------------- // --------------- Advanced CSS Concepts --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>edX - Microsoft</td>
+    <!-- Course -->
+    <td>
+      <a href="https://www.edx.org/course/advanced-css-concepts-1">Advanced CSS Concepts</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/Microsoft_courses/tree/master/AdvancedCSS">repo</a>
+    </td>
+    <!-- Date finished -->
+    <td>14/10/2018</td>
+    <!-- Skills learnt -->
+    <td>responsive Layout, CSS Modules, Sass, Testing for Browser Compatibility</td>
+    <!-- Certificate -->
+    <td></td>
+  </tr>
+  
   <!--------------- // --------------- FreeCodeCamp --------------- // --------------->
   <tr>
     <!-- School -->
@@ -93,6 +114,7 @@
           Front End Libraries</a>
     </td>
   </tr>
+  
   <!--------------- // --------------- Nanodegree --------------- // --------------->
   <tr>
     <!-- School -->
@@ -114,6 +136,7 @@
       <a href="https://confirm.udacity.com/TGGNUQPZ">Certificate</a>
     </td>
   </tr>
+  
   <!--------------- // --------------- Nanodegree Challenge Phase --------------- // --------------->
   <tr>
     <!-- Course -->
@@ -131,6 +154,7 @@
     <!-- Certificate -->
     <td></td>
   </tr>
+  
   <!--------------- // --------------- Codeberry --------------- // --------------->
   <tr>
     <!-- School -->
@@ -198,6 +222,7 @@
     <th>Progress</th>
     <th>Skills</th>
   </tr>
+  
   <!--------------- // --------------- College Algebra and Problem Solving --------------- // --------------->
   <tr>
     <!-- School -->
@@ -215,6 +240,7 @@
     <!-- Skills -->
     <td>Algebra</td>
   </tr>
+  
   <!--------------- // --------------- CS50's Understanding Technology --------------- // --------------->
   <tr>
     <!-- School -->
@@ -234,25 +260,7 @@
     <!-- Skills -->
     <td>introduction to technology</td>
   </tr>
-  <!--------------- // --------------- Advanced CSS Concepts --------------- // --------------->
-  <tr>
-    <!-- School -->
-    <td>edX - Microsoft</td>
-    <!-- Course -->
-    <td>
-      <a href="https://www.edx.org/course/advanced-css-concepts-1">Advanced CSS Concepts</a>
-    </td>
-    <!-- Repo -->
-    <td>
-      <a href="https://github.com/jpacsai/Microsoft_AdvancedCSS">repo</a>
-    </td>
-    <!-- Progress -->
-    <td>
-      <img src="http://progressed.io/bar/60">
-    </td>
-    <!-- Skills -->
-    <td>Responisve Layout, CSS Modules, Sass/Less, Testing</td>
-  </tr>
+ 
   <!--------------- // --------------- Introduction to Computer Science and Programming Using Python --------------- // --------------->
   <tr>
     <!-- School -->
@@ -272,6 +280,7 @@
     <!-- Skills -->
     <td>Python</td>
   </tr>
+  
   <!--------------- // --------------- Programming for the Web with JavaScript --------------- // --------------->
   <tr>
     <!-- School -->
