@@ -298,42 +298,46 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 13 --------------- // --------------->
-        <td align="center">13</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#13-10"><b>13</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">CS50's Understanding Technology</td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center"></td>
+        <td align="center">2</td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 14 --------------- // --------------->
-        <td align="center">14</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#14-10"><b>14</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">pair programming with my cousin in her project</td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">Advanced CSS Concepts</td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
