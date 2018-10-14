@@ -51,7 +51,9 @@
             <td align="center">
                 <a href="#12-10"><b>12</b></a>    
             </td>
-            <td align="center">13</td>
+            <td align="center">
+                <a href="#13-10"><b>13</b></a>
+            </td>
             <td align="center">14</td>
         </tr>
         <tr>
@@ -285,6 +287,20 @@ Template:
         - CSS3 in 30 Days: Day 1 - [Style Fancy Buttons](https://www.youtube.com/watch?v=pmKyG3NBY_k&index=2&list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU&t=0s) (second half of the video)
    - **Comments:**  
         - this weeks lesson in the "Introduction to Computer Science and Programming Using Python" course is the most challenging so far, I never wrapped my head around big O notation until now
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **13-10**  
+   - 📚 **Course:** 
+        - edX Harvard University - CS50's Understanding Technology:
+                - Web Development
+   - 📰 **Article:**  
+        - [These React Fundamentals You Skip may be Killing You](https://medium.freecodecamp.org/these-react-fundamentals-you-skip-may-be-killing-you-7629fb87dd4a)
+        - [How to Eliminate React Performance Issues](https://medium.com/@ohansemmanuel/how-to-eliminate-react-performance-issues-a16a250c0f27)
+   - **Comments:**  
+        - I think I need to revisit my React projects in the light of today's articles I've read 🤨
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
