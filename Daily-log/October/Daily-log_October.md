@@ -54,7 +54,9 @@
             <td align="center">
                 <a href="#13-10"><b>13</b></a>
             </td>
-            <td align="center">14</td>
+            <td align="center">
+                <a href="#14-10"><b>14</b></a>    
+            </td>
         </tr>
         <tr>
             <td align="center">15</td>
@@ -301,6 +303,19 @@ Template:
         - [How to Eliminate React Performance Issues](https://medium.com/@ohansemmanuel/how-to-eliminate-react-performance-issues-a16a250c0f27)
    - **Comments:**  
         - I think I need to revisit my React projects in the light of today's articles I've read 🤨
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **14-10**  
+   - 🔨 **Project:**  
+        - pair programming with my cousin on her random quote app
+   - 📚 **Course:**  
+        - edX Microsoft - Advanced CSS Concepts:
+                - Module 3: Sass/Less Preprocessing
+   - 📰 **Article:**  
+        - [Focus and Deep Work — Your Secret Weapons to Becoming a 10X Developer](https://medium.freecodecamp.org/focus-and-deep-work-your-secret-weapons-to-becoming-a-10x-developer-8e203a6ad291)
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
