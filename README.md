@@ -278,27 +278,7 @@
     <!-- Skills -->
     <td>introduction to technology</td>
   </tr>
- 
-  <!--------------- // --------------- Introduction to Computer Science and Programming Using Python --------------- // --------------->
-  <tr>
-    <!-- School -->
-    <td>edX: MIT</td>
-    <!-- Course -->
-    <td>
-      <a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python">Introduction to Computer Science and Programming Using Python</a>
-    </td>
-    <!-- Repo -->
-    <td>
-      <a href="https://github.com/jpacsai/MIT_IntroToCS">repo</a>
-    </td>
-    <!-- Progress -->
-    <td>
-      <img src="http://progressed.io/bar/66">
-    </td>
-    <!-- Skills -->
-    <td>Python</td>
-  </tr>
-  
+
   <!--------------- // --------------- Programming for the Web with JavaScript --------------- // --------------->
   <tr>
     <!-- School -->
