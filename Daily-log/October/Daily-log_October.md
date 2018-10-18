@@ -65,7 +65,9 @@
             <td align="center">
                 <a href="#16-10"><b>16</b></a>        
             </td>
-            <td align="center">17</td>
+            <td align="center">
+                <a href="#17-10"><b>17</b></a>
+            </td>
             <td align="center">18</td>
             <td align="center">19</td>
             <td align="center">20</td>
@@ -347,6 +349,19 @@ Template:
    - 📰 **Article:**  
         - [How to handle forms with just React](https://medium.com/@everdimension/how-to-handle-forms-with-just-react-ac066c48bd4f)
         - [React events and passing data to onSubmit](https://medium.com/@jwookies55/react-events-and-passing-data-to-onsubmit-87399774dcd3) 
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **17-10**  
+   - 🔨 **Project:**  
+        Programming for the Web with JavaScript - Homework 5
+   - 📚 **Course:**  
+        - edX Penn - Programming for the Web with JavaScript:
+                - Week 3
+   - 📰 **Article:**  
+        - [How browser rendering works — behind the scenes](https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10)
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
