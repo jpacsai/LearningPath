@@ -325,7 +325,7 @@
             <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#14-10"><b>14</b><a>
         </td>
         <!-------------- Project ------------->
-        <td align="left">pair programming with my cousin in her project</td>
+        <td align="left">pair programming with my cousin on her project</td>
         <!-------------- Course -------------->
         <td align="left">Advanced CSS Concepts</td>
         <!------------- Practice -------------> 
