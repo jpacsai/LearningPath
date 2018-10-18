@@ -38,7 +38,25 @@
     <th>Skills Learnt</th>
     <th>Certificate</th>
   </tr>
-  
+  <!--------------- // --------------- Introduction to Computer Science and Programming Using Python --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>edX - MIT</td>
+    <!-- Course -->
+    <td>
+      <a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python">Introduction to Computer Science and Programming Using Python</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/MIT_IntroToCS">repo</a>
+    </td>
+    <!-- Date finished -->
+    <td>18/10/2018</td>
+    <!-- Skills learnt -->
+    <td>Python, Algorithms, Testing and Debugging, OOP, Algorithms, Data Visualization</td>
+    <!-- Certificate -->
+    <td></td>
+  </tr>
   <!--------------- // --------------- Advanced CSS Concepts --------------- // --------------->
   <tr>
     <!-- School -->
