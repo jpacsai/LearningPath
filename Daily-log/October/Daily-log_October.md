@@ -329,7 +329,7 @@ Template:
 
 ## **15-10**  
    - 🔨 **Project:**  
-        Programming for the Web with JavaScript - Homework 4
+        - Programming for the Web with JavaScript - Homework 4
    - 📚 **Course:**  
         - edX Penn - Programming for the Web with JavaScript:
                 - Week 3
@@ -340,7 +340,7 @@ Template:
 
 ## **16-10**  
    - 🔨 **Project:**  
-        Programming for the Web with JavaScript - Homework 4
+        - Programming for the Web with JavaScript - Homework 4
    - 📚 **Course:**  
         - edX Penn - Programming for the Web with JavaScript:
                 - Week 3
@@ -356,7 +356,7 @@ Template:
 
 ## **17-10**  
    - 🔨 **Project:**  
-        Programming for the Web with JavaScript - Homework 5
+        - Programming for the Web with JavaScript - Homework 5
    - 📚 **Course:**  
         - edX Penn - Programming for the Web with JavaScript:
                 - Week 3
