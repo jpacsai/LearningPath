@@ -24,7 +24,7 @@ This path is the combination of these two paths from the [p1xt-guides](https://g
 
 ## Tier 1 - Strengthen your foundation
 
-- [ ] Course: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python) ⏳
+- [x] Course: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
 - [ ] Course: [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology-harvardx-cs50t) ⏳
 - [x] Course: [Advanced CSS Concepts](https://www.edx.org/course/advanced-css-concepts-1)
 - [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
