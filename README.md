@@ -298,6 +298,24 @@
     <!-- Skills -->
     <td>JavaScript, React</td>
   </tr>
+  
+  <!--------------- // --------------- FCC - Data Visualization --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>freeCodeCamp</td>
+    <!-- Course -->
+    <td>Data Visualization</td>
+    <!-- Repo -->
+    <td>
+      <a href="#">repo</a>
+    </td>
+    <!-- Progress -->
+    <td>
+      <img src="http://progressed.io/bar/0">
+    </td>
+    <!-- Skills -->
+    <td>Data Visualization with D3, AJAX</td>
+  </tr>
 </table>
 
 <!--
