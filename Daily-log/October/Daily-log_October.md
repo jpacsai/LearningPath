@@ -62,7 +62,9 @@
             <td align="center">
                 <a href="#15-10"><b>15</b></a>     
             </td>
-            <td align="center">16</td>
+            <td align="center">
+                <a href="#16-10"><b>16</b></a>        
+            </td>
             <td align="center">17</td>
             <td align="center">18</td>
             <td align="center">19</td>
@@ -329,6 +331,22 @@ Template:
    - 📚 **Course:**  
         - edX Penn - Programming for the Web with JavaScript:
                 - Week 3
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **16-10**  
+   - 🔨 **Project:**  
+        Programming for the Web with JavaScript - Homework 4
+   - 📚 **Course:**  
+        - edX Penn - Programming for the Web with JavaScript:
+                - Week 3
+   - 📘 **Book:**  
+        - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.amazon.co.uk/Automate-Boring-Stuff-Python-Programming/dp/1593275994/ref=sr_1_1?ie=UTF8&qid=1537392750&sr=8-1&keywords=automate+the+boring+stuff+with+python)
+   - 📰 **Article:**  
+        - [How to handle forms with just React](https://medium.com/@everdimension/how-to-handle-forms-with-just-react-ac066c48bd4f)
+        - [React events and passing data to onSubmit](https://medium.com/@jwookies55/react-events-and-passing-data-to-onsubmit-87399774dcd3) 
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
