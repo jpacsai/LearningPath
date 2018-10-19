@@ -38,6 +38,26 @@
     <th>Skills Learnt</th>
     <th>Certificate</th>
   </tr>
+  <!--------------- // --------------- CS50's Understanding Technology --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>edX - Harvard</td>
+    <!-- Course -->
+    <td>
+      <a href="https://www.edx.org/course/cs50s-understanding-technology-harvardx-cs50t">CS50's Understanding Technology</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/Harvard_CS50/tree/master/cs50_UnderstandingTech">repo</a>
+    </td>
+    <!-- Date finished -->
+    <td>19/10/2018</td>
+    <!-- Skills learnt -->
+    <td>Hardware, the Internet, multimedia, security, programming, and web development</td>
+    <!-- Certificate -->
+    <td></td>
+  </tr>
+
   <!--------------- // --------------- Introduction to Computer Science and Programming Using Python --------------- // --------------->
   <tr>
     <!-- School -->
@@ -57,6 +77,7 @@
     <!-- Certificate -->
     <td></td>
   </tr>
+  
   <!--------------- // --------------- Advanced CSS Concepts --------------- // --------------->
   <tr>
     <!-- School -->
@@ -257,26 +278,6 @@
     </td>
     <!-- Skills -->
     <td>Algebra</td>
-  </tr>
-  
-  <!--------------- // --------------- CS50's Understanding Technology --------------- // --------------->
-  <tr>
-    <!-- School -->
-    <td>edX - Harvard University</td>
-    <!-- Course -->
-    <td>
-      <a href="https://www.edx.org/course/cs50s-understanding-technology-harvardx-cs50t">CS50's Understanding Technology</a>
-    </td>
-    <!-- Repo -->
-    <td>
-      <a href="https://github.com/jpacsai/Harvard_CS50/tree/master/cs50_UnderstandingTech">repo</a>
-    </td>
-    <!-- Progress -->
-    <td>
-      <img src="http://progressed.io/bar/83">
-    </td>
-    <!-- Skills -->
-    <td>introduction to technology</td>
   </tr>
 
   <!--------------- // --------------- Programming for the Web with JavaScript --------------- // --------------->
