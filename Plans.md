@@ -6,7 +6,6 @@
     - Fullstack JavaScript
 
 - edX:
-    - Harvard: [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) - 12 weeks / 6-9 hours
     - Texas University: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0) - 4 weeks / 2-5 hours
     - Microsoft:
       - [Writing Professional Code - Advanced Topics](https://www.edx.org/course/writing-professional-code-advanced-topics) - 4 weeks / 2-4 hours
