@@ -4,10 +4,11 @@
 
 ***
 
-**Achievements this month:**  
-    - completed courses on edX:
-        - Microsoft: Advanced CSS Concepts
-        - MIT: Introduction to Computer Science and Programming Using Python
+🏆 **Achievements this month:**  
+- completed courses on edX:  
+    - Microsoft: Advanced CSS Concepts  
+    - MIT: Introduction to Computer Science and Programming Using Python  
+        
 ***
 
 <table>
