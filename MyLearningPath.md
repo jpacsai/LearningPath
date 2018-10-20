@@ -27,11 +27,11 @@ This path is the combination of these two paths from the [p1xt-guides](https://g
 - [x] Course: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
 - [x] Course: [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology-harvardx-cs50t)
 - [x] Course: [Advanced CSS Concepts](https://www.edx.org/course/advanced-css-concepts-1)
-- [ ] Course: freeCodeCamp - Data Visualization
-- [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
-- [ ] Course: [Writing Professional Code - Advanced Topics](https://www.edx.org/course/writing-professional-code-advanced-topics)
+- [ ] Course: freeCodeCamp - Data Visualization ⏳
+- [ ] Course: [Writing Professional Code - Advanced Topics](https://www.edx.org/course/writing-professional-code-advanced-topics) ⏳
+- [ ] Course: [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) ⏳
 - [ ] Course: [Introduction to Design Thinking](https://www.edx.org/course/introduction-to-design-thinking-1)
-- [ ] Course: [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+- [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ] Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 - [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
