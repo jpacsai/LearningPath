@@ -69,9 +69,11 @@
                 <a href="#17-10"><b>17</b></a>
             </td>
             <td align="center">
-                <a href="#17-10"><b>18</b></a>    
+                <a href="#18-10"><b>18</b></a>    
             </td>
-            <td align="center">19</td>
+            <td align="center">
+                <a href="#19-10"><b>19</b></a>    
+            </td>
             <td align="center">20</td>
             <td align="center">21</td>
         </tr>
@@ -377,6 +379,19 @@ Template:
                 - Week 3
         - edX MIT - Introduction to Computer Science and Programming Using Python:
                 - Week 7: Data Visualization  
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **19-10**  
+   - 📚 **Course:**
+        - Udacity: Data Visualization and D3.js
+        - freeCodeCamp: Data Visualization with D3
+   - 📰 **Article:**  
+        - Wikipedia - [Data visualization](https://en.wikipedia.org/wiki/Data_visualization)
+        - [exploratory vs explanatory analysis](http://www.storytellingwithdata.com/blog/2014/04/exploratory-vs-explanatory-analysis)
+
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
