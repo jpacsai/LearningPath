@@ -8,6 +8,7 @@
 - completed courses on edX:  
     - Microsoft: Advanced CSS Concepts  
     - MIT: Introduction to Computer Science and Programming Using Python  
+    - Harvard: CS50's Understanding Technology
         
 ***
 
