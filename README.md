@@ -280,6 +280,25 @@
     <td>Algebra</td>
   </tr>
 
+  <!--------------- // --------------- Data Visualization and D3.js --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>Udacity</td>
+    <!-- Course -->
+    <td>
+      <a href="https://eu.udacity.com/course/data-visualization-and-d3js--ud507">Data Visualization and D3.js</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="#">repo</a>
+    </td>
+    <!-- Progress -->
+    <td>
+      <img src="http://progressed.io/bar/10">
+    </td>
+    <!-- Skills -->
+    <td>Data Visualization Fundamentals, Design Principles, D3.js</td>
+  </tr>
   <!--------------- // --------------- Programming for the Web with JavaScript --------------- // --------------->
   <tr>
     <!-- School -->
