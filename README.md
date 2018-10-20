@@ -262,6 +262,25 @@
     <th>Skills</th>
   </tr>
   
+  <!--------------- // --------------- Course --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>edX - Microsoft</td>
+    <!-- Course -->
+    <td>
+      <a href="https://www.edx.org/course/writing-professional-code-advanced-topics">Writing Professional Code - Advanced Topics</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="#">repo</a>
+    </td>
+    <!-- Progress -->
+    <td>
+      <img src="http://progressed.io/bar/10">
+    </td>
+    <!-- Skills -->
+    <td>Debugging, Unit Tests, Application Performance, Parallel Programming</td>
+  </tr>
   <!--------------- // --------------- College Algebra and Problem Solving --------------- // --------------->
   <tr>
     <!-- School -->
