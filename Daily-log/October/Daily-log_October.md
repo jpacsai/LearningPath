@@ -74,7 +74,9 @@
             <td align="center">
                 <a href="#19-10"><b>19</b></a>    
             </td>
-            <td align="center">20</td>
+            <td align="center">
+                <a href="#20-10"><b>20</b></a>
+            </td>
             <td align="center">21</td>
         </tr>
         <tr>
@@ -392,6 +394,20 @@ Template:
         - Wikipedia - [Data visualization](https://en.wikipedia.org/wiki/Data_visualization)
         - [exploratory vs explanatory analysis](http://www.storytellingwithdata.com/blog/2014/04/exploratory-vs-explanatory-analysis)
 
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **20-10**  
+   - 💪 **Practice:**  
+        - Codewars: 6kyu - [Reverse or rotate?](https://github.com/jpacsai/codeWars/blob/master/6kyu/ReverseOrRotate.js)
+   - 📚 **Course:**  
+        - Udacity: Data Visualization and D3.js
+        - edX - Microsoft: Writing Professional Code - Advanced Topics:
+                - Module 1: Debugging
+   - 📰 **Article:**  
+        - [JavaScript Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-oct-2018-794166642b96)
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
