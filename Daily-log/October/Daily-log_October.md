@@ -77,7 +77,9 @@
             <td align="center">
                 <a href="#20-10"><b>20</b></a>
             </td>
-            <td align="center">21</td>
+            <td align="center">
+                <a href="#21-10"><b>21</b></a>    
+            </td>
         </tr>
         <tr>
             <td align="center">22</td>
@@ -408,6 +410,17 @@ Template:
                 - Module 1: Debugging
    - 📰 **Article:**  
         - [JavaScript Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-oct-2018-794166642b96)
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **21-10**  
+   - 📚 **Course:**  
+        - edX - Microsoft: Writing Professional Code - Advanced Topics:
+                - Module 1: Debugging
+   - 📰 **Article:**  
+        - [ES6 tips and tricks to make your code cleaner, shorter, and easier to read!](https://medium.freecodecamp.org/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c)
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
