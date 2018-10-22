@@ -262,7 +262,7 @@
     <th>Skills</th>
   </tr>
   
-  <!--------------- // --------------- Course --------------- // --------------->
+  <!--------------- // --------------- Writing Professional Code --------------- // --------------->
   <tr>
     <!-- School -->
     <td>edX - Microsoft</td>
@@ -293,7 +293,7 @@
     <td></td>
     <!-- Progress -->
     <td>
-      <img src="http://progressed.io/bar/38">
+      <img src="http://progressed.io/bar/45">
     </td>
     <!-- Skills -->
     <td>Algebra</td>
