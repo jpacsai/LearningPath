@@ -509,15 +509,17 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 22 --------------- // --------------->
-        <td align="center">22</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#22-10"><b>22</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">freeCodeCamp: Data Visualization with D3</td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
@@ -525,7 +527,7 @@
         <!-------------- Article ------------->
         <td align="center"></td>
         <!--------------- Video -------------->
-        <td align="center"></td>
+        <td align="center">1</td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
