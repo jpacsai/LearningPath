@@ -82,7 +82,9 @@
             </td>
         </tr>
         <tr>
-            <td align="center">22</td>
+            <td align="center">
+                <a href="#22-10"><b>22</b></a>     
+            </td>
             <td align="center">23</td>
             <td align="center">24</td>
             <td align="center">25</td>
@@ -421,6 +423,19 @@ Template:
                 - Module 1: Debugging
    - 📰 **Article:**  
         - [ES6 tips and tricks to make your code cleaner, shorter, and easier to read!](https://medium.freecodecamp.org/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c)
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **22-10**  
+   - 💪 **Practice:**
+        - CodeWars - 6kyu - [Count the smiley faces!](https://github.com/jpacsai/codeWars/blob/master/6kyu/CountSmile.js)
+   - 📚 **Course:**  
+        - freeCodeCamp: Data Visualization with D3
+   - 📺 **Video:**  
+        - CSS3 in 30 Days: Day 2 - [Sexy Typography](https://www.youtube.com/watch?v=LrZNeyK1xU8&index=2&list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU)
+ 
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
