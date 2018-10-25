@@ -281,6 +281,25 @@
     <!-- Skills -->
     <td>Debugging, Unit Tests, Application Performance, Parallel Programming</td>
   </tr>
+  <!--------------- // --------------- CS50's Web Programming with Python and JavaScript --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>edX - Harvard</td>
+    <!-- Course -->
+    <td>
+      <a href="https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript">CS50's Web Programming with Python and JavaScript</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/Harvard_CS50/tree/master/WebProgramming/">repo</a>
+    </td>
+    <!-- Progress -->
+    <td>
+      <img src="http://progressed.io/bar/12">
+    </td>
+    <!-- Skills -->
+    <td>Git, HTML, CSS, Flask, SQL, APIs, JavaScript, Django, Testing, CI/CD, Scalability, Security</td>
+  </tr>
   <!--------------- // --------------- College Algebra and Problem Solving --------------- // --------------->
   <tr>
     <!-- School -->
