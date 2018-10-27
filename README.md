@@ -1,14 +1,6 @@
 # 📚 LearningPath
 
-<a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md"><h2 align="center">👉 Daily log 👈</h2></a> 
-
-***
-
-<p align="center">
-  <img src="https://github.com/jpacsai/LearningPath/blob/master/octocat.png" width="300" alt="my octocat"/>
-</p>
-
-***
+### 👉 [Daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md) 👈
 
 ## Courses I have finished:
 
@@ -443,6 +435,14 @@
     </td>
   </tr>
 </table>
+
+***
+
+<p align="center">
+  <img src="https://github.com/jpacsai/LearningPath/blob/master/octocat.png" width="300" alt="my octocat"/>
+</p>
+
+***
 
 <!--
 - ### [Udemy - The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)  
