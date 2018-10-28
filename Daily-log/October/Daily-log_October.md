@@ -86,9 +86,11 @@
                 <a href="#22-10"><b>22</b></a>     
             </td>
             <td align="center">
-                <a href="#22-10"><b>23</b></a>     
+                <a href="#23-10"><b>23</b></a>     
             </td>
-            <td align="center">24</td>
+            <td align="center">
+                <a href="#24-10"><b>24</b></a>     
+            </td>
             <td align="center">25</td>
             <td align="center">26</td>
             <td align="center">27</td>
@@ -449,6 +451,21 @@ Template:
                 - 1. Git
    - 📰 **Article:**  
         - [Writing Maintainable SCSS](https://medium.com/@Mike_Flores23/writing-maintainable-scss-cbfa844eb2d0)
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **24-10**  
+   - 🔨 **Project:**  
+   - 💪 **Practice:**  
+        - CodeWars:
+                - 8kyu - [Return Negative](https://github.com/jpacsai/codeWars/blob/master/8kyu/ReturnNegative.js)
+                - 7kyu - [Shortest Word](https://github.com/jpacsai/codeWars/blob/master/7kyu/ShortestWord.js)
+                - 6kyu - [Sum of Digits / Digital Root](https://github.com/jpacsai/codeWars/blob/master/6kyu/SumDigitsRoot.js)
+   - 📚 **Course:**  
+        - edX Harvard University - CS50's Web Programming with Python and JavaScript:
+                - 2. HTML, CSS 
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
