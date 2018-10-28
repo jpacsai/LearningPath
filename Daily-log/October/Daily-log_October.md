@@ -85,7 +85,9 @@
             <td align="center">
                 <a href="#22-10"><b>22</b></a>     
             </td>
-            <td align="center">23</td>
+            <td align="center">
+                <a href="#22-10"><b>23</b></a>     
+            </td>
             <td align="center">24</td>
             <td align="center">25</td>
             <td align="center">26</td>
@@ -436,6 +438,17 @@ Template:
    - 📺 **Video:**  
         - CSS3 in 30 Days: Day 2 - [Sexy Typography](https://www.youtube.com/watch?v=LrZNeyK1xU8&index=2&list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU)
  
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **23-10**    
+   - 📚 **Course:**
+        - edX Harvard University - CS50's Web Programming with Python and JavaScript:
+                - 1. Git
+   - 📰 **Article:**  
+        - [Writing Maintainable SCSS](https://medium.com/@Mike_Flores23/writing-maintainable-scss-cbfa844eb2d0)
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
