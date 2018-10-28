@@ -293,7 +293,7 @@
     </td>
     <!-- Progress -->
     <td>
-      <img src="http://progressed.io/bar/12">
+      <img src="http://progressed.io/bar/24>
     </td>
     <!-- Skills -->
     <td>Git, HTML, CSS, Flask, SQL, APIs, JavaScript, Django, Testing, CI/CD, Scalability, Security</td>
