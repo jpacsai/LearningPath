@@ -91,7 +91,9 @@
             <td align="center">
                 <a href="#24-10"><b>24</b></a>     
             </td>
-            <td align="center">25</td>
+            <td align="center">
+                <a href="#25-10"><b>25</b></a>     
+            </td>
             <td align="center">26</td>
             <td align="center">27</td>
             <td align="center">28</td>
@@ -466,6 +468,17 @@ Template:
    - 📚 **Course:**  
         - edX Harvard University - CS50's Web Programming with Python and JavaScript:
                 - 2. HTML, CSS 
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **25-10**  
+   - 📚 **Course:**  
+        - edX - Microsoft: Writing Professional Code - Advanced Topics:
+                - Module 2: Basic Principles of Object Oriented Programming
+   - 📰 **Article:** 
+        - [JavaScript Factory Functions vs Constructor Functions vs Classes](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e)
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
