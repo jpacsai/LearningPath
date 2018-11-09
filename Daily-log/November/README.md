@@ -1,15 +1,11 @@
-# Summary - October
+# Summary - November
 
-### 👉 [Detailed daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md) 👈 | [2018](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
+### 👉 [Detailed daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/November/Daily-log_November.md) 👈 | [2018](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
 
 ***
 
 🏆 **Achievements this month:**  
-- completed courses on edX:  
-    - Microsoft: Advanced CSS Concepts  
-    - MIT: Introduction to Computer Science and Programming Using Python  
-    - Harvard: CS50's Understanding Technology
-        
+   
 ***
 
 <table>
@@ -26,21 +22,19 @@
         <th align="center"><h6>Challenge</h6></th>
     </tr>
     <tr> <!--------------- // --------------- 01 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#01-10"><b>01</b><a>
-        </td>
+        <td align="center">01</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">CS50's Understanding Technology</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!--------------- Book --------------->
-        <td align="left">Automate the Boring Stuff with Python</td>
+        <td align="left"></td>
         <!-------------- Article ------------->
         <td align="center"></td>
         <!--------------- Video -------------->
@@ -49,36 +43,32 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 02 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#02-10"><b>02</b><a>
-        </td>
+        <td align="center">02</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">2</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 03 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#03-10"><b>03</b><a>
-        </td>
+        <td align="center">03</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Advanced CSS Concepts</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
@@ -88,74 +78,68 @@
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 04 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#04-10"><b>04</b><a>
-        </td>
+        <td align="center">04</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Advanced CSS Concepts</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 05 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#05-10"><b>05</b><a>
-        </td>
+        <td align="center">05</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Intro to CS using Python</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">2</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 06 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#06-10"><b>06</b><a>
-        </td>
+        <td align="center">06</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Intro to CS using Python</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
-        <td align="left">Automate the Boring Stuff with Python</td>
+        <td align="left"></td>
         <!-------------- Article ------------->
         <td align="center"></td>
         <!--------------- Video -------------->
@@ -164,15 +148,13 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 07 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#07-10"><b>07</b><a>
-        </td>
+        <td align="center">07</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">CS50's Understanding Technology</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center">2</td>
+        <td align="center"></td>
         <!--------------- Math --------------->
         <td align="center"></td>
         <!---------- Interview prep ---------->
@@ -180,24 +162,22 @@
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 08 --------------- // ---------------> 
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#08-10"><b>08</b><a>
-        </td>
+        <td align="center">08</td>
         <!-------------- Project ------------->
-        <td align="left">The Odin Project <a href="https://github.com/jpacsai/TheOdinProject/tree/master/WebDev101/Project1">1</a></td>
+        <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Advanced CSS Concepts</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
@@ -210,59 +190,53 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 09 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#09-10"><b>09</b><a>
-        </td>
+        <td align="center">09</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Advanced CSS Concepts</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 10 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#10-10"><b>10</b><a>
-        </td>
+        <td align="center">10</td>
         <!-------------- Project ------------->
-        <td align="left">The Odin Project <a href="https://github.com/jpacsai/TheOdinProject/tree/master/WebDev101/Project1">1</a></td>
+        <td align="left"></td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center">2</td>
+        <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">2</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 11 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#11-10"><b>11</b><a>
-        </td>
+        <td align="center">11</td>
         <!-------------- Project ------------->
-        <td align="left">pair programming with my cousin on her front end project</td>
+        <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">CS50's Understanding Technology</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
@@ -272,95 +246,87 @@
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
-        <td align="center">0.5</td>
+        <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 12 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#12-10"><b>12</b><a>
-        </td>
+        <td align="center">12</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Intro to CS using Python</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
-        <td align="left">Automate the Boring Stuff with Python</td>
+        <td align="left"></td>
         <!-------------- Article ------------->
         <td align="center"></td>
         <!--------------- Video -------------->
-        <td align="center">0.5</td>
+        <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 13 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#13-10"><b>13</b><a>
-        </td>
+        <td align="center">13</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">CS50's Understanding Technology</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">2</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 14 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#14-10"><b>14</b><a>
-        </td>
+        <td align="center">14</td>
         <!-------------- Project ------------->
-        <td align="left">pair programming with my cousin on her project</td>
+        <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Advanced CSS Concepts</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 15 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#15-10"><b>15</b><a>
-        </td>
+        <td align="center">15</td>
         <!-------------- Project ------------->
-        <td align="left">Programming for the Web with JavaScript - Homework 4</td>
+        <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Programming for the Web with JavaScript</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
@@ -371,63 +337,57 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 16 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#16-10"><b>16</b><a>
-        </td>
+        <td align="center">16</td>
         <!-------------- Project ------------->
-        <td align="left">Programming for the Web with JavaScript - Homework 4</td>
+        <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Programming for the Web with JavaScript</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
-        <td align="left">Automate the Boring Stuff with Python</td>
+        <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">2</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 17 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#17-10"><b>17</b><a>
-        </td>
+        <td align="center">17</td>
         <!-------------- Project ------------->
-        <td align="left">Programming for the Web with JavaScript - Homework 5</td>
+        <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Programming for the Web with JavaScript</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 18 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#18-10"><b>18</b><a>
-        </td>
+        <td align="center">18</td>
         <!-------------- Project ------------->
-        <td align="left">Programming for the Web with JavaScript - Homework 5</td>
+        <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Programming for the Web with JavaScript, Intro to CS using Python</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
@@ -440,86 +400,78 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 19 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#19-10"><b>19</b><a>
-        </td>
+        <td align="center">19</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Udacity: Data Visualization and D3.js, freeCodeCamp: Data Visualization with D3</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">2</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 20 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#20-10"><b>20</b><a>
-        </td>
+        <td align="center">20</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Udacity: Data Visualization and D3.js, Writing Professional Code</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 21 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#21-10"><b>21</b><a>
-        </td>
+        <td align="center">21</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">Writing Professional Code</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
         <td align="center"></td>
         <!---------- Interview prep ---------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 22 --------------- // --------------->
-        <td align="center">
-            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#22-10"><b>22</b><a>
-        </td>
+        <td align="center">22</td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left">freeCodeCamp: Data Visualization with D3</td>
+        <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center">1</td>
+        <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center">✔️</td>
+        <td align="center"></td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
@@ -527,7 +479,7 @@
         <!-------------- Article ------------->
         <td align="center"></td>
         <!--------------- Video -------------->
-        <td align="center">1</td>
+        <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
