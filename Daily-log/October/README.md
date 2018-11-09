@@ -601,17 +601,19 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 26 --------------- // --------------->
-        <td align="center">26</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#26-10"><b>26</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Track_Favourites</td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">Writing Professional Code</td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">3</td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
