@@ -94,9 +94,15 @@
             <td align="center">
                 <a href="#25-10"><b>25</b></a>     
             </td>
-            <td align="center">26</td>
-            <td align="center">27</td>
-            <td align="center">28</td>
+            <td align="center">
+                <a href="#26-10"><b>26</b></a>     
+            </td>
+            <td align="center">
+                <a href="#27-10"><b>27</b></a>     
+            </td>
+            <td align="center">
+                <a href="#28-10"><b>28</b></a>     
+            </td>
         </tr>
         <tr>
             <td align="center">29</td>
@@ -478,6 +484,22 @@ Template:
            - Module 2: Basic Principles of Object Oriented Programming
    - 📰 **Article:** 
         - [JavaScript Factory Functions vs Constructor Functions vs Classes](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e)
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **26-10**  
+   - 🔨 **Project:**  
+        - Start Track Favourites project
+   - 💪 **Practice:**  
+        - CodeWars:
+            - 7kyu - [Alphabetical Sequence](https://github.com/jpacsai/codeWars/blob/master/7kyu/AlphaSeq.js)
+            - 7kyu - [Mumbling](https://github.com/jpacsai/codeWars/blob/master/7kyu/Mumbling.js)
+            - 8kyu - [Count of positives / sum of negatives](https://github.com/jpacsai/codeWars/blob/master/8kyu/CountPosSumNeg.js)
+   - 📚 **Course:**  
+        - edX - Microsoft: Writing Professional Code - Advanced Topics:
+           - Module 2: Basic Principles of Object Oriented Programming
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
