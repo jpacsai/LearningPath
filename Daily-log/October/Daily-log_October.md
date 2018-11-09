@@ -450,7 +450,7 @@ Template:
 ## **23-10**    
    - 📚 **Course:**
         - edX Harvard University - CS50's Web Programming with Python and JavaScript:
-                - 1. Git
+           - Module 1: Git
    - 📰 **Article:**  
         - [Writing Maintainable SCSS](https://medium.com/@Mike_Flores23/writing-maintainable-scss-cbfa844eb2d0)
       
@@ -459,15 +459,14 @@ Template:
 ***
 
 ## **24-10**  
-   - 🔨 **Project:**  
    - 💪 **Practice:**  
         - CodeWars:
-                - 8kyu - [Return Negative](https://github.com/jpacsai/codeWars/blob/master/8kyu/ReturnNegative.js)
-                - 7kyu - [Shortest Word](https://github.com/jpacsai/codeWars/blob/master/7kyu/ShortestWord.js)
-                - 6kyu - [Sum of Digits / Digital Root](https://github.com/jpacsai/codeWars/blob/master/6kyu/SumDigitsRoot.js)
+          - 8kyu - [Return Negative](https://github.com/jpacsai/codeWars/blob/master/8kyu/ReturnNegative.js)
+          - 7kyu - [Shortest Word](https://github.com/jpacsai/codeWars/blob/master/7kyu/ShortestWord.js)
+          - 6kyu - [Sum of Digits / Digital Root](https://github.com/jpacsai/codeWars/blob/master/6kyu/SumDigitsRoot.js)
    - 📚 **Course:**  
-        - edX Harvard University - CS50's Web Programming with Python and JavaScript:
-                - 2. HTML, CSS 
+        - edX Harvard University - CS50's Web Programming with Python and JavaScript:  
+            - Module 2: HTML, CSS 
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
@@ -476,7 +475,7 @@ Template:
 ## **25-10**  
    - 📚 **Course:**  
         - edX - Microsoft: Writing Professional Code - Advanced Topics:
-                - Module 2: Basic Principles of Object Oriented Programming
+           - Module 2: Basic Principles of Object Oriented Programming
    - 📰 **Article:** 
         - [JavaScript Factory Functions vs Constructor Functions vs Classes](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e)
       
