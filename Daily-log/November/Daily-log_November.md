@@ -1,6 +1,6 @@
-# October - 2018
+# November - 2018
 
-#### [Summary](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/README.md) | [2018](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
+#### [Summary](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/November/README.md) | [2018](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
 
 <table align="center">
         <tr>
