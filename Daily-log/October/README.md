@@ -532,36 +532,40 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 23 --------------- // --------------->
-        <td align="center">23</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#23-10"><b>23</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">CS50's Web Programming</td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 24 --------------- // --------------->
-        <td align="center">24</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#24-10"><b>24</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">CS50's Web Programming</td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">3</td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
@@ -574,21 +578,23 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 25 --------------- // --------------->
-        <td align="center">25</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#25-10"><b>25</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">Writing Professional Code</td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
         <td align="left"></td>
         <!-------------- Article ------------->
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Video -------------->
         <td align="center"></td>
         <!------------- Challenge ------------>
