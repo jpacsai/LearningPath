@@ -78,5 +78,13 @@ Template:
 
 ***
 
-## **01-11**  
-
+## **13-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+   - 📰 **Article:**  
+        - [React vs Angular vs Vue: Who wins in 2019?](https://medium.com/zerotomastery/react-vs-angular-vs-vue-who-wins-in-2019-5d9acd0843e8)
+        - [Web Developer Monthly 💻🚀 October 2018](https://medium.com/zerotomastery/web-developer-monthly-october-2018-c7fb0a6f0572)
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
