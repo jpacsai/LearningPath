@@ -33,16 +33,16 @@
         <tr>
             <td align="center"><a href="#12-11"><b>12</b></a></td>
             <td align="center"><a href="#13-11"><b>13</b></a></td>
-            <td align="center">14</td>
+            <td align="center"><a href="#14-11"><b>14</b></a></td>
             <td align="center">15</td>
-            <td align="center">16</td>
+            <td align="center"><a href="#16-11"><b>16</b></a></td>
             <td align="center">17</td>
-            <td align="center">18</td>
+            <td align="center"><a href="#18-11"><b>18</b></a></td>
         </tr>
         <tr>
-            <td align="center">19</td>
-            <td align="center">20</td>
-            <td align="center">21</td>
+            <td align="center"><a href="#19-11"><b>19</b></a></td>
+            <td align="center"><a href="#20-11"><b>20</b></a></td>
+            <td align="center"><a href="#21-11"><b>21</b></a></td>
             <td align="center">22</td>
             <td align="center">23</td>
             <td align="center">24</td>
@@ -61,7 +61,7 @@
 
 <!--
 Template:
-## **01-10**  
+## **01-11**  
    - 🔨 **Project:**  
    - 💪 **Practice:**  
    - 📚 **Course:**  
@@ -71,7 +71,7 @@ Template:
    - ⚔️ **Challenge:**  
    - **Comments:**  
       
-   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
    
 ***
 -->
@@ -82,7 +82,7 @@ Template:
    - 🔨 **Project:**  
         - Track_Favourites
       
-   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
    
 ***
 
@@ -93,6 +93,62 @@ Template:
         - [React vs Angular vs Vue: Who wins in 2019?](https://medium.com/zerotomastery/react-vs-angular-vs-vue-who-wins-in-2019-5d9acd0843e8)
         - [Web Developer Monthly 💻🚀 October 2018](https://medium.com/zerotomastery/web-developer-monthly-october-2018-c7fb0a6f0572)
       
-   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **14-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **16-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **17-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **18-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **19-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **20-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **21-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
    
 ***
