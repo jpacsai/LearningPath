@@ -16,19 +16,19 @@
             <td></td>
             <td></td>
             <td></td>
-            <td align="center">1</td>
-            <td align="center">2</td>
-            <td align="center">3</td>
-            <td align="center">4</td>
+            <td align="center"><a href="#1-11"><b>1</b></a></td>
+            <td align="center"><a href="#2-11"><b>2</b></a></td>
+            <td align="center"><a href="#3-11"><b>3</b></a></td>
+            <td align="center"><a href="#4-11"><b>4</b></a></td>
         </tr>
         <tr>
-            <td align="center">5</td>
-            <td align="center">6</td>
-            <td align="center">7</td>
-            <td align="center">8</td>
-            <td align="center">9</td>
-            <td align="center">10</td>
-            <td align="center">11</td>
+            <td align="center"><a href="#5-11"><b>5</b></a></td>
+            <td align="center"><a href="#6-11"><b>6</b></a></td>
+            <td align="center"><a href="#7-11"><b>7</b></a></td>
+            <td align="center"><a href="#8-11"><b>8</b></a></td>
+            <td align="center"><a href="#9-11"><b>9</b></a></td>
+            <td align="center"><a href="#10-11"><b>10</b></a></td>
+            <td align="center"><a href="#11-11"><b>11</b></a></td>
         </tr>
         <tr>
             <td align="center"><a href="#12-11"><b>12</b></a></td>
@@ -68,7 +68,8 @@ Template:
    - 📘 **Book:**  
    - 📰 **Article:**  
    - 📺 **Video:**  
-   - ⚔️ **Challenge:**  
+   - ⚔️ **Challenge:**
+   - 🚧 **Maintenance:** 
    - **Comments:**  
       
    <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
@@ -76,6 +77,118 @@ Template:
 ***
 -->
 
+***
+
+## **01-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+   - 🚧 **Maintenance:** 
+        - fix dependencies in old projects
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+  
+## **02-11** 
+   - 🔨 **Project:**  
+        - My_first_vue_app
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+
+***
+
+## **03-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+   - 📰 **Article:**
+        - [Vue.js 2 State Management With Vuex — Introduction](https://medium.com/codingthesmartway-com-blog/vue-js-2-state-management-with-vuex-introduction-db26cb495113)
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **04-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+   - 📰 **Article:**
+        - [Mastering Vuex — Zero to Hero](https://medium.com/dailyjs/mastering-vuex-zero-to-hero-e0ca1f421d45)
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **04-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+   - 📰 **Article:**
+        - [Mastering Vuex — Zero to Hero](https://medium.com/dailyjs/mastering-vuex-zero-to-hero-e0ca1f421d45)
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **05-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+   - 📰 **Article:**
+        - [Keeping props DRY in Vue.js](https://medium.com/front-end-hacking/keeping-props-dry-in-vue-js-9d8294fa708f)
+        - [Passing methods as props in Vue.js](https://medium.com/front-end-hacking/passing-methods-as-props-in-vue-js-d65805bccee)
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **06-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **07-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **08-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **09-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+   - ⚔️ **Challenge:**
+        - CodeWars:
+           - 6kyu - [Add commas to a number](https://github.com/jpacsai/codeWars/blob/master/6kyu/AddCommaNum.js)
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **10-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **11-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+   - 📰 **Article:**
+        - [Demystifying Vuex — The state container for Vue](https://medium.freecodecamp.org/demystifying-vuex-the-state-container-for-vue-fde82662ca8c)
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
 ***
 
 ## **12-11**  
