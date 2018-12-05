@@ -1,6 +1,6 @@
-# October - 2018
+# December - 2018
 
-#### [Summary](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/README.md) | [2018](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
+#### [Summary](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/README.md) | [2018](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
 
 <table align="center">
         <tr>
@@ -61,7 +61,7 @@
 
 <!--
 Template:
-## **01-10**  
+## **01-12**  
    - 🔨 **Project:**  
    - 💪 **Practice:**  
    - 📚 **Course:**  
@@ -71,12 +71,12 @@ Template:
    - ⚔️ **Challenge:**  
    - **Comments:**  
       
-   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
    
 ***
 -->
 
 ***
 
-## **01-11**  
+## **01-12**  
 
