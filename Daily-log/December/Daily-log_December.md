@@ -199,3 +199,13 @@ Template:
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
 
 ***
+
+## **18-12**  
+   - 💪 **Practice:** 
+       - CodeWars:
+           - 6kyu - [Rectangle into Squares](https://github.com/jpacsai/codeWars/blob/master/6kyu/RecToSq.js)
+           - 6kyu - [Which are in?](https://github.com/jpacsai/codeWars/blob/master/6kyu/WhichIn.js)
+
+<p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
+***
