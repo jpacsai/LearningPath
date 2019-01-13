@@ -181,3 +181,11 @@ Template:
 
 ***
 
+## **16-12**  
+   - 💪 **Practice:** 
+       - CodeWars:
+           - 7kyu - [Simple Fun #51: Array Previous Less](https://github.com/jpacsai/codeWars/blob/master/7kyu/PrevLess.js)
+
+<p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
+***
