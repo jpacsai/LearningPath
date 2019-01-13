@@ -559,3 +559,9 @@ Template:
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
 ***
+
+## **31-10**  
+   - 🔨 **Project:**  
+        - Track Favourites: remove React, start over with Vue
+   
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
