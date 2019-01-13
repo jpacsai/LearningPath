@@ -22,9 +22,11 @@
         <th align="center"><h6>Challenge</h6></th>
     </tr>
     <tr> <!--------------- // --------------- 01 --------------- // --------------->
-        <td align="center">01</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#01-12"><b>01</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Track_Favourites</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
@@ -43,9 +45,11 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 02 --------------- // --------------->
-        <td align="center">02</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#02-12"><b>02</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Track_Favourites</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
@@ -64,9 +68,11 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 03 --------------- // --------------->
-        <td align="center">03</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#03-12"><b>03</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Track_Favourites</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
@@ -106,9 +112,11 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 05 --------------- // --------------->
-        <td align="center">05</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#05-12"><b>05</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Track_Favourites</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
@@ -127,9 +135,11 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 06 --------------- // --------------->
-        <td align="center">06</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#06-12"><b>06</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Track_Favourites</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
@@ -148,9 +158,11 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 07 --------------- // --------------->
-        <td align="center">07</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#07-12"><b>07</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Portfolio</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
@@ -169,9 +181,11 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 08 --------------- // ---------------> 
-        <td align="center">08</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#08-12"><b>08</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Portfolio</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
@@ -190,9 +204,11 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 09 --------------- // --------------->
-        <td align="center">09</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#09-12"><b>09</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Portfolio</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
@@ -232,9 +248,11 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 11 --------------- // --------------->
-        <td align="center">11</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#11-12"><b>11</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Portfolio</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
@@ -253,9 +271,11 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 12 --------------- // --------------->
-        <td align="center">12</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#12-12"><b>12</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Portfolio</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
@@ -274,9 +294,11 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 13 --------------- // --------------->
-        <td align="center">13</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#13-12"><b>13</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Portfolio</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
@@ -337,15 +359,17 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 16 --------------- // --------------->
-        <td align="center">16</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#16-12"><b>16</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
@@ -358,15 +382,17 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 17 --------------- // --------------->
-        <td align="center">17</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#17-12"><b>17</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">2</td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
@@ -379,15 +405,17 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 18 --------------- // --------------->
-        <td align="center">18</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#18-12"><b>18</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">2</td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
@@ -442,15 +470,17 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 21 --------------- // --------------->
-        <td align="center">21</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#21-12"><b>21</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
@@ -463,15 +493,17 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 22 --------------- // --------------->
-        <td align="center">22</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/December/Daily-log_December.md#22-12"><b>22</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
