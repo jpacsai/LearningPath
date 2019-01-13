@@ -541,3 +541,11 @@ Template:
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
 ***
+
+## **30-10**   
+   - **Comments:**  
+        - update course progress: CS50's Web Programming with Python and JavaScript
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
