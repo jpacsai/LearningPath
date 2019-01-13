@@ -513,3 +513,12 @@ Template:
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
 ***
+
+## **27-10**  
+   - 💪 **Practice:**  
+        - CodeWars:
+            - 7kyu - [Remove the minimum](https://github.com/jpacsai/codeWars/blob/master/7kyu/RemoveMin.js)
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
