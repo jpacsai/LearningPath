@@ -5,6 +5,8 @@
 ***
 
 🏆 **Achievements this month:**  
+   - great progress with Track_Favourites App
+   - learning Vue
    
 ***
 
