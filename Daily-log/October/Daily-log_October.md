@@ -531,3 +531,13 @@ Template:
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
 ***
+
+## **29-10**  
+   - 🔨 **Project:**  
+        - Start My-first-vue-app project 
+   - **Comments:**  
+        - fix dependency issues raised by GitHub in repos (GoogleUdacity, Neighborhood-App)
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
