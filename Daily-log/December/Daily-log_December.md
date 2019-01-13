@@ -189,3 +189,13 @@ Template:
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
 
 ***
+
+## **17-12**  
+   - 💪 **Practice:** 
+       - CodeWars:
+           - 7kyu - [My Languages](https://github.com/jpacsai/codeWars/blob/master/7kyu/MyLangs.js)
+           - 7kyu - [Just Adding and Multiplying](https://github.com/jpacsai/codeWars/blob/master/7kyu/JustAddMult.js)
+
+<p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
+***
