@@ -624,13 +624,15 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 27 --------------- // --------------->
-        <td align="center">27</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#27-10"><b>27</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">CS50's Web Programming</td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Math --------------->
         <td align="center"></td>
         <!---------- Interview prep ---------->
@@ -645,15 +647,17 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 28 --------------- // --------------->
-        <td align="center">28</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#28-10"><b>28</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">CS50's Web Programming</td>
         <!------------- Practice -------------> 
-        <td align="center"></td>
+        <td align="center">1</td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
@@ -666,11 +670,13 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 29 --------------- // --------------->
-        <td align="center">29</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#29-10"><b>29</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">My-first-vue-app</td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">CS50's Web Programming</td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
@@ -687,15 +693,17 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 30 --------------- // --------------->
-        <td align="center">30</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#30-10"><b>30</b><a>
+        </td>
         <!-------------- Project ------------->
         <td align="left"></td>
         <!-------------- Course -------------->
-        <td align="left"></td>
+        <td align="left">CS50's Web Programming</td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
@@ -708,15 +716,17 @@
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 31 --------------- // --------------->
-        <td align="center">31</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/October/Daily-log_October.md#31-10"><b>31</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Track_Favourites</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
         <td align="center"></td>
         <!--------------- Math --------------->
-        <td align="center"></td>
+        <td align="center">✔️</td>
         <!---------- Interview prep ---------->
         <td align="center"></td>
         <!--------------- Book --------------->
