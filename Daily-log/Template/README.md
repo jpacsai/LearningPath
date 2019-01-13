@@ -1,6 +1,6 @@
 # Summary - November
 
-### 👉 [Detailed daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/November/Daily-log_November.md) 👈 | [2018](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
+### 👉 [Detailed daily log](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/2019/January/Daily-log_November.md) 👈 | [All Months](https://github.com/jpacsai/LearningPath/blob/master/Daily-log/README.md)
 
 ***
 
