@@ -218,3 +218,12 @@ Template:
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
 
 ***
+
+## **22-12**  
+   - 💪 **Practice:** 
+       - CodeWars:
+           - 7kyu - [Even numbers in an array](https://github.com/jpacsai/codeWars/blob/master/7kyu/EvenNumArr.js)
+
+<p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
+***
