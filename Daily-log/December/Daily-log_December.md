@@ -87,79 +87,97 @@ Template:
 
 ***
 
+
+
 ## **01-12**  
-        - 🔨 **Project:**
-                Favourite tracker
+   - 🔨 **Project:**  
+       Favourite tracker
 
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
+***
    
 ## **02-12**  
-        - 🔨 **Project:**
-                Favourite tracker
+   - 🔨 **Project:**  
+       Favourite tracker
+
 
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
 ***
 
 ## **03-12**  
-        - 🔨 **Project:**
-                Favourite tracker
+   - 🔨 **Project:**  
+       Favourite tracker
+
 
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
 ***
 
 ## **05-12**  
-        - 🔨 **Project:**
-                Favourite tracker
+   - 🔨 **Project:**  
+       Favourite tracker
+
 
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
 ***
 
 ## **06-12**  
-        - 🔨 **Project:**
-                Favourite tracker
+   - 🔨 **Project:**  
+       Favourite tracker
+
 
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
 ***
 
 ## **07-12**  
-        - 🔨 **Project:**
-                Portfolio
+   - 🔨 **Project:**  
+       Portfolio
+
 
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
 ***
 
 ## **08-12**  
-        - 🔨 **Project:**
-                Portfolio
+   - 🔨 **Project:**  
+       Portfolio
 
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
 ***
 
 ## **09-12**  
-        - 🔨 **Project:**
-                Portfolio
+   - 🔨 **Project:**  
+       Portfolio
 
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
 ***
 
 ## **11-12**  
-        - 🔨 **Project:**
-                Portfolio
-
+   - 🔨 **Project:**  
+       Portfolio
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
 ***
 
 ## **12-12**  
-        - 🔨 **Project:**
-                Portfolio
+   - 🔨 **Project:**  
+       Portfolio
 
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
 ***
 
 ## **13-12**  
-        - 🔨 **Project:**
-                Portfolio
+   - 🔨 **Project:**  
+       Portfolio
 
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
 ***
 
