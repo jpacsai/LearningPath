@@ -522,3 +522,12 @@ Template:
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
 ***
+
+## **28-10**  
+   - 💪 **Practice:**  
+        - CodeWars:
+            - 6kyu - [Write Number in Expanded Form](https://github.com/jpacsai/codeWars/blob/master/6kyu/WriteNumExp.js)
+      
+   <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
+   
+***
