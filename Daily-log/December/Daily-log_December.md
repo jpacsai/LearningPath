@@ -209,3 +209,12 @@ Template:
 <p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
 
 ***
+
+## **21-12**  
+   - 💪 **Practice:** 
+       - CodeWars:
+           - 3kyu - [Calculator](https://github.com/jpacsai/codeWars/blob/master/3kyu/Calculator.js)
+
+<p dir='rtl'> <a href='#december---2018'>Top 🔼</a> </p> 
+
+***
