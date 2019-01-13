@@ -46,7 +46,7 @@
             <td align="center"><a href="#22-11"><b>22</b></a></td>
             <td align="center"><a href="#23-11"><b>23</b></a></td>
             <td align="center"><a href="#24-11"><b>24</b></a></td>
-            <td align="center">25</td>
+            <td align="center"><a href="#25-11"><b>25</b></a></td>
         </tr>
         <tr>
             <td align="center">26</td>
@@ -267,6 +267,14 @@ Template:
 ***
 
 ## **24-11**  
+   - 🔨 **Project:**  
+        - Track_Favourites
+      
+   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
+   
+***
+
+## **25-11**  
    - 🔨 **Project:**  
         - Track_Favourites
       
