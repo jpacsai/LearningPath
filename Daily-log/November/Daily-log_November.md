@@ -226,14 +226,6 @@ Template:
    
 ***
 
-## **17-11**  
-   - 🔨 **Project:**  
-        - Track_Favourites
-      
-   <p dir='rtl'> <a href='#november---2018'>Top 🔼</a> </p> 
-   
-***
-
 ## **18-11**  
    - 🔨 **Project:**  
         - Track_Favourites
