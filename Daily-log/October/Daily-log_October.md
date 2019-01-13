@@ -518,6 +518,9 @@ Template:
    - 💪 **Practice:**  
         - CodeWars:
             - 7kyu - [Remove the minimum](https://github.com/jpacsai/codeWars/blob/master/7kyu/RemoveMin.js)
+   - 📚 **Course:**  
+        - edX Harvard University - CS50's Web Programming with Python and JavaScript:  
+            - Module 3: Flask 
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
@@ -527,6 +530,9 @@ Template:
    - 💪 **Practice:**  
         - CodeWars:
             - 6kyu - [Write Number in Expanded Form](https://github.com/jpacsai/codeWars/blob/master/6kyu/WriteNumExp.js)
+   - 📚 **Course:**  
+        - edX Harvard University - CS50's Web Programming with Python and JavaScript:  
+            - Module 4: SQL
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
@@ -535,6 +541,9 @@ Template:
 ## **29-10**  
    - 🔨 **Project:**  
         - Start My-first-vue-app project 
+   - 📚 **Course:**  
+        - edX Harvard University - CS50's Web Programming with Python and JavaScript:  
+            - Module 5: ORMs, APIs
    - **Comments:**  
         - fix dependency issues raised by GitHub in repos (GoogleUdacity, Neighborhood-App)
       
@@ -543,8 +552,9 @@ Template:
 ***
 
 ## **30-10**   
-   - **Comments:**  
-        - update course progress: CS50's Web Programming with Python and JavaScript
+   - 📚 **Course:**  
+        - edX Harvard University - CS50's Web Programming with Python and JavaScript:  
+            - Module 6: JavaScript
       
    <p dir='rtl'> <a href='#october---2018'>Top 🔼</a> </p> 
    
