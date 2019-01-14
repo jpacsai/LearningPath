@@ -286,9 +286,11 @@ HAPPY NEW YEAR! 🎉
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 13 --------------- // --------------->
-        <td align="center">13</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/2019/January/Daily-log_January.md#13-01"><b>13</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Favourite tracker - DEMO</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
@@ -307,9 +309,11 @@ HAPPY NEW YEAR! 🎉
         <td align="left"></td>
     </tr>
     <tr> <!--------------- // --------------- 14 --------------- // --------------->
-        <td align="center">14</td>
+        <td align="center">
+            <a href="https://github.com/jpacsai/LearningPath/blob/master/Daily-log/2019/January/Daily-log_January.md#14-01"><b>14</b><a>
+        </td>
         <!-------------- Project ------------->
-        <td align="left"></td>
+        <td align="left">Favourite tracker - DEMO</td>
         <!-------------- Course -------------->
         <td align="left"></td>
         <!------------- Practice -------------> 
