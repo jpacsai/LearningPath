@@ -28,7 +28,7 @@
             <td align="center"><a href="#10-01"><b>10</b></a></td>
             <td align="center"><a href="#11-01"><b>11</b></a></td>
             <td align="center"><a href="#12-01"><b>12</b></a></td>
-            <td align="center">13</td>
+            <td align="center"><a href="#13-01"><b>13</b></a></td>
         </tr>
         <tr>
             <td align="center">14</td>
@@ -135,4 +135,14 @@ Template:
 
 <p dir='rtl'> <a href='#january---2019'>Top 🔼</a> </p> 
 
+***
+
+## **13-01**  
+   - 🔨 **Project:**  
+        Favourite tracker - DEMO version
+   - **Comments:**  
+        Tidied up the daily learning log, filled in the missing days
+      
+   <p dir='rtl'> <a href='#january---2019'>Top 🔼</a> </p> 
+   
 ***
