@@ -31,7 +31,7 @@
             <td align="center"><a href="#13-01"><b>13</b></a></td>
         </tr>
         <tr>
-            <td align="center">14</td>
+            <td align="center"><a href="#14-01"><b>14</b></a></td>
             <td align="center">15</td>
             <td align="center">16</td>
             <td align="center">17</td>
@@ -142,6 +142,14 @@ Template:
         Favourite tracker - DEMO version
    - **Comments:**  
         Tidied up the daily learning log, filled in the missing days
+      
+   <p dir='rtl'> <a href='#january---2019'>Top 🔼</a> </p> 
+   
+***
+
+## **14-01**  
+   - 🔨 **Project:**  
+        Favourite tracker - DEMO version
       
    <p dir='rtl'> <a href='#january---2019'>Top 🔼</a> </p> 
    
