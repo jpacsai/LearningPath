@@ -33,7 +33,7 @@
         <tr>
             <td align="center"><a href="#14-01"><b>14</b></a></td>
             <td align="center"><a href="#15-01"><b>15</b></a></td>
-            <td align="center">16</td>
+            <td align="center"><a href="#16-01"><b>16</b></a></td>
             <td align="center">17</td>
             <td align="center">18</td>
             <td align="center">19</td>
@@ -158,6 +158,16 @@ Template:
 ## **15-01**  
    - **Comments:**  
         got some feedback today: need to concentrate on JS theory. From now on I will pick a subject for the coming week and learn about that
+      
+   <p dir='rtl'> <a href='#january---2019'>Top 🔼</a> </p> 
+   
+***
+
+## **16-01**  
+   - 💪 **Practice:** 
+        - Exercism: setup
+   - **Comments:**
+        - going back to JS basics
       
    <p dir='rtl'> <a href='#january---2019'>Top 🔼</a> </p> 
    
