@@ -390,10 +390,10 @@
     </td>
     <!-- Progress -->
     <td>
-      <img src="http://progressed.io/bar/50">
+      <img src="http://progressed.io/bar/88">
     </td>
     <!-- Skills -->
-    <td>JavaScript, React</td>
+    <td>JavaScript, React, Node, MongoDB and Mongoose</td>
   </tr>
   
   <!--------------- // --------------- FCC - Data Visualization --------------- // --------------->
