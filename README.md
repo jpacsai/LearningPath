@@ -263,6 +263,27 @@
   <!--------------- // --------------- Writing Professional Code --------------- // --------------->
   <tr>
     <!-- School -->
+    <td>Udemy</td>
+    <!-- Course -->
+    <td>
+      <a href="https://www.udemy.com/the-complete-nodejs-developer-course-2/">The Complete Node.js Developer Course (3rd Edition)</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/Node_Course">repo</a>
+    </td>
+    <!-- Progress -->
+    <td>
+      <img src="http://progressed.io/bar/6">
+    </td>
+    <!-- Skills -->
+    <td>Node, Express, Mongoose and MongoDB, SocketIO</td>
+  </tr>
+
+  
+  <!--------------- // --------------- Writing Professional Code --------------- // --------------->
+  <tr>
+    <!-- School -->
     <td>edX - Microsoft</td>
     <!-- Course -->
     <td>
