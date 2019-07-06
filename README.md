@@ -266,6 +266,26 @@
     <td>Udemy</td>
     <!-- Course -->
     <td>
+      <a href="https://www.udemy.com/node-with-react-fullstack-web-development/">Node with React: Fullstack Web Development</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="">repo</a>
+    </td>
+    <!-- Progress -->
+    <td>
+      <img src="http://progressed.io/bar/5">
+    </td>
+    <!-- Skills -->
+    <td>React, Redux, Express, and Mongo, email sending from backend, deployment techniques, Google OAuth, accept and process credit card payments </td>
+  </tr>
+  
+  <!--------------- // --------------- The Complete Node.js Developer Course --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>Udemy</td>
+    <!-- Course -->
+    <td>
       <a href="https://www.udemy.com/the-complete-nodejs-developer-course-2/">The Complete Node.js Developer Course (3rd Edition)</a>
     </td>
     <!-- Repo -->
