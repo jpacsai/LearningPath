@@ -260,7 +260,7 @@
     <th>Skills</th>
   </tr>
   
-  <!--------------- // --------------- Writing Professional Code --------------- // --------------->
+  <!--------------- // --------------- Node with React: Fullstack Web Development --------------- // --------------->
   <tr>
     <!-- School -->
     <td>Udemy</td>
@@ -270,14 +270,14 @@
     </td>
     <!-- Repo -->
     <td>
-      <a href="">repo</a>
+      <a href="https://github.com/jpacsai/Node_React">repo</a>
     </td>
     <!-- Progress -->
     <td>
-      <img src="http://progressed.io/bar/5">
+      <img src="http://progressed.io/bar/21">
     </td>
     <!-- Skills -->
-    <td>React, Redux, Express, and Mongo, email sending from backend, deployment techniques, Google OAuth, accept and process credit card payments </td>
+    <td>React and Redux, Node, Express, Passport.js, Mongo with Mongoose.js, email sending from backend (SendGrid), deployment techniques (Heroku), Google OAuth, accept and process credit card payments (Stripe), LocalTunnel</td>
   </tr>
   
   <!--------------- // --------------- The Complete Node.js Developer Course --------------- // --------------->
