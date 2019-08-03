@@ -51,7 +51,7 @@
     <!-- Date finished -->
     <td>18/07/2019</td>
     <!-- Skills learnt -->
-    <td>React and Redux, Node, Express, Passport.js, Mongo with Mongoose.js, email sending from backend (SendGrid), deployment techniques (Heroku), Google OAuth, accept and process credit card payments (Stripe), LocalTunnel</td>
+    <td>React and Redux, Node, Express, Passport.js, Mongo with Mongoose.js, email sending from backend (SendGrid), deployment techniques (Heroku), Google OAuth, accept and process credit card payments (Stripe), ngrok</td>
     <!-- Certificate -->
     <td></td>
   </tr>
