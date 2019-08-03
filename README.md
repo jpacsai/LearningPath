@@ -36,6 +36,25 @@
     <th>Skills Learnt</th>
     <th>Certificate</th>
   </tr>
+  <!--------------- // --------------- Node with React: Fullstack Web Development --------------- // --------------->
+  <tr>
+    <!-- School -->
+    <td>Udemy</td>
+    <!-- Course -->
+    <td>
+      <a href="https://www.udemy.com/node-with-react-fullstack-web-development/">Node with React: Fullstack Web Development</a>
+    </td>
+    <!-- Repo -->
+    <td>
+      <a href="https://github.com/jpacsai/Node_React">repo</a>
+    </td>
+    <!-- Date finished -->
+    <td>18/07/2019</td>
+    <!-- Skills learnt -->
+    <td>React and Redux, Node, Express, Passport.js, Mongo with Mongoose.js, email sending from backend (SendGrid), deployment techniques (Heroku), Google OAuth, accept and process credit card payments (Stripe), LocalTunnel</td>
+    <!-- Certificate -->
+    <td></td>
+  </tr>
   <!--------------- // --------------- CS50's Understanding Technology --------------- // --------------->
   <tr>
     <!-- School -->
@@ -258,26 +277,6 @@
     <th>Repo</th>
     <th>Progress</th>
     <th>Skills</th>
-  </tr>
-  
-  <!--------------- // --------------- Node with React: Fullstack Web Development --------------- // --------------->
-  <tr>
-    <!-- School -->
-    <td>Udemy</td>
-    <!-- Course -->
-    <td>
-      <a href="https://www.udemy.com/node-with-react-fullstack-web-development/">Node with React: Fullstack Web Development</a>
-    </td>
-    <!-- Repo -->
-    <td>
-      <a href="https://github.com/jpacsai/Node_React">repo</a>
-    </td>
-    <!-- Progress -->
-    <td>
-      <img src="http://progressed.io/bar/21">
-    </td>
-    <!-- Skills -->
-    <td>React and Redux, Node, Express, Passport.js, Mongo with Mongoose.js, email sending from backend (SendGrid), deployment techniques (Heroku), Google OAuth, accept and process credit card payments (Stripe), LocalTunnel</td>
   </tr>
   
   <!--------------- // --------------- The Complete Node.js Developer Course --------------- // --------------->
