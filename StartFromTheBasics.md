@@ -1,15 +1,24 @@
+# Front End web development learning path
+
+this is just one of the many ways to learn web development, feel free to add other resources too. This path is for Front End web development, Back End resources could be added for Full Stack developers.
+
 ### 0. [edX Harvard - CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
 This is CS50’s introduction to technology for students who don’t (yet!) consider themselves computer persons.
+👉 Start this course and do it parallel to the rest.
 
 ***
 
 ### 1. [Udacity - Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 HTML and CSS basics
 
+#### [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+Develop & style websites
+
 ***
 
 ### 2. [Udacity - Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 Essentials of using the version control system Git
+👉 Do this course in parallel to number 3.
 
 ***
 
