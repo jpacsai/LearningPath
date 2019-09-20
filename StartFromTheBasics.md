@@ -1,6 +1,6 @@
 # Front End web development learning path
 
-this is just one of the many ways to learn web development, feel free to add other resources too. This path is for Front End web development, Back End resources could be added for Full Stack developers.
+This is just one of the many ways to learn web development, feel free to add other resources too. This path is for Front End web development, Back End resources could be added for Full Stack developers.
 
 ### 0. [edX Harvard - CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
 This is CS50’s introduction to technology for students who don’t (yet!) consider themselves computer persons.
