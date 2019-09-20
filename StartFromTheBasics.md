@@ -4,7 +4,7 @@ This is just one of the many ways to learn web development, feel free to add oth
 This list is far from complete, I'll update it regularly.
 
 ### 0. [edX Harvard - CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
-This is CS50’s introduction to technology for students who don’t (yet!) consider themselves computer persons.
+This is CS50’s introduction to technology for students who don’t (yet!) consider themselves computer persons.  
 👉 Start this course and do it parallel to the rest.
 
 ***
@@ -18,7 +18,7 @@ Develop & style websites
 ***
 
 ### 2. [Udacity - Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-Essentials of using the version control system Git
+Essentials of using the version control system Git  
 👉 Do this course in parallel to number 3.
 
 ***
